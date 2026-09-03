@@ -1,0 +1,24 @@
+{
+  "updatedAt": "03.09.2026 12:28 UTC",
+  "team": {
+    "name": "Jokerit",
+    "position": 8,
+    "games": 1,
+    "wins": 0,
+    "losses": 0,
+    "ot": 1,
+    "points": 1
+  },
+  "nextGame": {
+    "date": "",
+    "time": "",
+    "home": "Lukko",
+    "away": "Jokerit"
+  },
+  "lastGame": {
+    "date": "",
+    "home": "Sport",
+    "away": "Jokerit",
+    "result": "5–4"
+  }
+}
