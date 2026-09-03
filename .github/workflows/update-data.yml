@@ -91,11 +91,12 @@ jobs:
               jokerit_goals = home_goals if jokerit_home else away_goals
               opponent_goals = away_goals if jokerit_home else home_goals
 
-              finished_type = game.get("finishedType", "")
+              finished_type = game.get("finishedType", "").upper()
 
-              is_ot_or_so =
-                  "OVERTIME" in finished_type.upper()
-                  or "WINNING_SHOT" in finished_type.upper()
+              is_ot_or_so = (
+                  "OVERTIME" in finished_type
+                  or "WINNING_SHOT" in finished_type
+              )
 
               if jokerit_goals > opponent_goals:
                   wins += 1
@@ -154,22 +155,24 @@ jobs:
 
               if home_goals > away_goals:
                   teams[home_name]["wins"] += 1
-                  teams[home_name]["points"] += 2 if is_ot_or_so else 3
 
                   if is_ot_or_so:
+                      teams[home_name]["points"] += 2
                       teams[away_name]["ot"] += 1
                       teams[away_name]["points"] += 1
                   else:
+                      teams[home_name]["points"] += 3
                       teams[away_name]["losses"] += 1
 
               elif away_goals > home_goals:
                   teams[away_name]["wins"] += 1
-                  teams[away_name]["points"] += 2 if is_ot_or_so else 3
 
                   if is_ot_or_so:
+                      teams[away_name]["points"] += 2
                       teams[home_name]["ot"] += 1
                       teams[home_name]["points"] += 1
                   else:
+                      teams[away_name]["points"] += 3
                       teams[home_name]["losses"] += 1
 
           standings = sorted(
@@ -182,8 +185,11 @@ jobs:
           )
 
           position = next(
-              (i + 1 for i, (name, stats) in enumerate(standings)
-               if name == "Jokerit"),
+              (
+                  i + 1
+                  for i, (name, stats) in enumerate(standings)
+                  if name == "Jokerit"
+              ),
               "-"
           )
 
@@ -191,14 +197,20 @@ jobs:
               if not dt:
                   return ""
 
-              dt = datetime.fromisoformat(dt.replace("Z", "+00:00"))
+              dt = datetime.fromisoformat(
+                  dt.replace("Z", "+00:00")
+              )
+
               return dt.astimezone().strftime("%d.%m.%Y")
 
           def format_time(dt):
               if not dt:
                   return ""
 
-              dt = datetime.fromisoformat(dt.replace("Z", "+00:00"))
+              dt = datetime.fromisoformat(
+                  dt.replace("Z", "+00:00")
+              )
+
               return dt.astimezone().strftime("%H:%M")
 
           next_game = {
@@ -210,11 +222,20 @@ jobs:
 
           if upcoming_games:
               game = upcoming_games[0]
+
               next_game = {
-                  "date": format_date(game.get("gameStartDateTime")),
-                  "time": format_time(game.get("gameStartDateTime")),
-                  "home": game.get("homeTeam", {}).get("teamName", ""),
-                  "away": game.get("awayTeam", {}).get("teamName", "")
+                  "date": format_date(
+                      game.get("gameStartDateTime")
+                  ),
+                  "time": format_time(
+                      game.get("gameStartDateTime")
+                  ),
+                  "home": game.get("homeTeam", {}).get(
+                      "teamName", ""
+                  ),
+                  "away": game.get("awayTeam", {}).get(
+                      "teamName", ""
+                  )
               }
 
           last_game = {
@@ -231,16 +252,19 @@ jobs:
               away = game.get("awayTeam", {})
 
               last_game = {
-                  "date": format_date(game.get("gameStartDateTime")),
+                  "date": format_date(
+                      game.get("gameStartDateTime")
+                  ),
                   "home": home.get("teamName", ""),
                   "away": away.get("teamName", ""),
                   "result": f'{home.get("goals", 0)}–{away.get("goals", 0)}'
               }
 
           data = {
-              "updatedAt": datetime.now(timezone.utc).strftime(
-                  "%d.%m.%Y %H:%M UTC"
-              ),
+              "updatedAt": datetime.now(
+                  timezone.utc
+              ).strftime("%d.%m.%Y %H:%M UTC"),
+
               "team": {
                   "name": "Jokerit",
                   "position": position,
@@ -250,15 +274,27 @@ jobs:
                   "ot": ot_losses,
                   "points": points
               },
+
               "nextGame": next_game,
               "lastGame": last_game
           }
 
           with open("data.json", "w", encoding="utf-8") as f:
-              json.dump(data, f, ensure_ascii=False, indent=2)
+              json.dump(
+                  data,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
 
           print("Jokerit data created successfully.")
-          print(json.dumps(data, ensure_ascii=False, indent=2))
+          print(
+              json.dumps(
+                  data,
+                  ensure_ascii=False,
+                  indent=2
+              )
+          )
 
           PY
 
