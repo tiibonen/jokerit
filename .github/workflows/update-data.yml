@@ -26,7 +26,8 @@ jobs:
           python - <<'PY'
           import json
           import urllib.request
-          from datetime import datetime, timezone
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
 
           url = "https://liiga.fi/api/v2/games?tournament=runkosarja&season=2027"
 
@@ -63,8 +64,13 @@ jobs:
               if g.get("ended") is not True
           ]
 
-          ended_games.sort(key=lambda g: g.get("start", ""))
-          upcoming_games.sort(key=lambda g: g.get("start", ""))
+          ended_games.sort(
+              key=lambda g: g.get("start", "")
+          )
+
+          upcoming_games.sort(
+              key=lambda g: g.get("start", "")
+          )
 
           wins = 0
           losses = 0
@@ -75,18 +81,19 @@ jobs:
               home = game.get("homeTeam", {})
               away = game.get("awayTeam", {})
 
-              home_name = home.get("teamName", "")
-              away_name = away.get("teamName", "")
-
               home_goals = home.get("goals", 0)
               away_goals = away.get("goals", 0)
 
-              jokerit_home = home_name == "Jokerit"
+              if home.get("teamName") == "Jokerit":
+                  jokerit_goals = home_goals
+                  opponent_goals = away_goals
+              else:
+                  jokerit_goals = away_goals
+                  opponent_goals = home_goals
 
-              jokerit_goals = home_goals if jokerit_home else away_goals
-              opponent_goals = away_goals if jokerit_home else home_goals
-
-              finished_type = game.get("finishedType", "").upper()
+              finished_type = game.get(
+                  "finishedType", ""
+              ).upper()
 
               is_ot_or_so = (
                   "OVERTIME" in finished_type
@@ -136,7 +143,9 @@ jobs:
               teams[home_name]["games"] += 1
               teams[away_name]["games"] += 1
 
-              finished_type = game.get("finishedType", "").upper()
+              finished_type = game.get(
+                  "finishedType", ""
+              ).upper()
 
               is_ot_or_so = (
                   "OVERTIME" in finished_type
@@ -177,41 +186,42 @@ jobs:
           position = next(
               (
                   i + 1
-                  for i, (name, stats) in enumerate(standings)
+                  for i, (name, stats)
+                  in enumerate(standings)
                   if name == "Jokerit"
               ),
               "-"
           )
 
-          def get_local_datetime(game):
-              home = game.get("homeTeam", {})
-              away = game.get("awayTeam", {})
-
-              return (
-                  home.get("gameStartDateTime")
-                  or away.get("gameStartDateTime")
-                  or ""
-              )
+          finland = ZoneInfo("Europe/Helsinki")
 
           def format_date(game):
-              dt = get_local_datetime(game)
+              value = game.get("start", "")
 
-              if not dt:
+              if not value:
                   return ""
 
-              parsed = datetime.fromisoformat(dt)
+              dt = datetime.fromisoformat(
+                  value.replace("Z", "+00:00")
+              )
 
-              return parsed.strftime("%d.%m.%Y")
+              return dt.astimezone(finland).strftime(
+                  "%d.%m.%Y"
+              )
 
           def format_time(game):
-              dt = get_local_datetime(game)
+              value = game.get("start", "")
 
-              if not dt:
+              if not value:
                   return ""
 
-              parsed = datetime.fromisoformat(dt)
+              dt = datetime.fromisoformat(
+                  value.replace("Z", "+00:00")
+              )
 
-              return parsed.strftime("%H:%M")
+              return dt.astimezone(finland).strftime(
+                  "%H:%M"
+              )
 
           next_game = {
               "date": "",
@@ -226,8 +236,12 @@ jobs:
               next_game = {
                   "date": format_date(game),
                   "time": format_time(game),
-                  "home": game.get("homeTeam", {}).get("teamName", ""),
-                  "away": game.get("awayTeam", {}).get("teamName", "")
+                  "home": game.get(
+                      "homeTeam", {}
+                  ).get("teamName", ""),
+                  "away": game.get(
+                      "awayTeam", {}
+                  ).get("teamName", "")
               }
 
           last_game = {
@@ -247,13 +261,18 @@ jobs:
                   "date": format_date(game),
                   "home": home.get("teamName", ""),
                   "away": away.get("teamName", ""),
-                  "result": f'{home.get("goals", 0)}–{away.get("goals", 0)}'
+                  "result": (
+                      f'{home.get("goals", 0)}–'
+                      f'{away.get("goals", 0)}'
+                  )
               }
 
           data = {
               "updatedAt": datetime.now(
-                  timezone.utc
-              ).strftime("%d.%m.%Y %H:%M UTC"),
+                  ZoneInfo("Europe/Helsinki")
+              ).strftime(
+                  "%d.%m.%Y %H:%M"
+              ),
 
               "team": {
                   "name": "Jokerit",
@@ -269,7 +288,11 @@ jobs:
               "lastGame": last_game
           }
 
-          with open("data.json", "w", encoding="utf-8") as f:
+          with open(
+              "data.json",
+              "w",
+              encoding="utf-8"
+          ) as f:
               json.dump(
                   data,
                   f,
@@ -278,7 +301,13 @@ jobs:
               )
 
           print("Jokerit data created successfully.")
-          print(json.dumps(data, ensure_ascii=False, indent=2))
+          print(
+              json.dumps(
+                  data,
+                  ensure_ascii=False,
+                  indent=2
+              )
+          )
 
           PY
 
