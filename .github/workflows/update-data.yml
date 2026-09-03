@@ -47,10 +47,10 @@ jobs:
               home = game.get("homeTeam", {})
               away = game.get("awayTeam", {})
 
-              home_name = home.get("teamName", "")
-              away_name = away.get("teamName", "")
-
-              if home_name == "Jokerit" or away_name == "Jokerit":
+              if (
+                  home.get("teamName") == "Jokerit"
+                  or away.get("teamName") == "Jokerit"
+              ):
                   jokerit_games.append(game)
 
           ended_games = [
@@ -63,13 +63,8 @@ jobs:
               if g.get("ended") is not True
           ]
 
-          ended_games.sort(
-              key=lambda g: g.get("gameStartDateTime", "")
-          )
-
-          upcoming_games.sort(
-              key=lambda g: g.get("gameStartDateTime", "")
-          )
+          ended_games.sort(key=lambda g: g.get("start", ""))
+          upcoming_games.sort(key=lambda g: g.get("start", ""))
 
           wins = 0
           losses = 0
@@ -100,12 +95,7 @@ jobs:
 
               if jokerit_goals > opponent_goals:
                   wins += 1
-
-                  if is_ot_or_so:
-                      points += 2
-                  else:
-                      points += 3
-
+                  points += 2 if is_ot_or_so else 3
               else:
                   if is_ot_or_so:
                       ot_losses += 1
@@ -193,25 +183,35 @@ jobs:
               "-"
           )
 
-          def format_date(dt):
+          def get_local_datetime(game):
+              home = game.get("homeTeam", {})
+              away = game.get("awayTeam", {})
+
+              return (
+                  home.get("gameStartDateTime")
+                  or away.get("gameStartDateTime")
+                  or ""
+              )
+
+          def format_date(game):
+              dt = get_local_datetime(game)
+
               if not dt:
                   return ""
 
-              dt = datetime.fromisoformat(
-                  dt.replace("Z", "+00:00")
-              )
+              parsed = datetime.fromisoformat(dt)
 
-              return dt.astimezone().strftime("%d.%m.%Y")
+              return parsed.strftime("%d.%m.%Y")
 
-          def format_time(dt):
+          def format_time(game):
+              dt = get_local_datetime(game)
+
               if not dt:
                   return ""
 
-              dt = datetime.fromisoformat(
-                  dt.replace("Z", "+00:00")
-              )
+              parsed = datetime.fromisoformat(dt)
 
-              return dt.astimezone().strftime("%H:%M")
+              return parsed.strftime("%H:%M")
 
           next_game = {
               "date": "",
@@ -224,18 +224,10 @@ jobs:
               game = upcoming_games[0]
 
               next_game = {
-                  "date": format_date(
-                      game.get("gameStartDateTime")
-                  ),
-                  "time": format_time(
-                      game.get("gameStartDateTime")
-                  ),
-                  "home": game.get("homeTeam", {}).get(
-                      "teamName", ""
-                  ),
-                  "away": game.get("awayTeam", {}).get(
-                      "teamName", ""
-                  )
+                  "date": format_date(game),
+                  "time": format_time(game),
+                  "home": game.get("homeTeam", {}).get("teamName", ""),
+                  "away": game.get("awayTeam", {}).get("teamName", "")
               }
 
           last_game = {
@@ -252,9 +244,7 @@ jobs:
               away = game.get("awayTeam", {})
 
               last_game = {
-                  "date": format_date(
-                      game.get("gameStartDateTime")
-                  ),
+                  "date": format_date(game),
                   "home": home.get("teamName", ""),
                   "away": away.get("teamName", ""),
                   "result": f'{home.get("goals", 0)}–{away.get("goals", 0)}'
@@ -288,13 +278,7 @@ jobs:
               )
 
           print("Jokerit data created successfully.")
-          print(
-              json.dumps(
-                  data,
-                  ensure_ascii=False,
-                  indent=2
-              )
-          )
+          print(json.dumps(data, ensure_ascii=False, indent=2))
 
           PY
 
