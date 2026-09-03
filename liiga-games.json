@@ -2631,7 +2631,7 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/pelicans/",
     "gamblingEvent": {
-      "homeTeamOdds": 205,
+      "homeTeamOdds": 202,
       "awayTeamOdds": 320,
       "tieOdds": 400,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_870036"
@@ -3303,8 +3303,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/63?position=2",
     "gamblingEvent": {
-      "homeTeamOdds": 198,
-      "awayTeamOdds": 325,
+      "homeTeamOdds": 202,
+      "awayTeamOdds": 315,
       "tieOdds": 415,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_874226"
     },
