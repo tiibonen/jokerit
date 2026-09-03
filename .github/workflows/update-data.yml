@@ -21,11 +21,12 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Fetch Liiga data
+      - name: Fetch and prepare Jokerit data
         run: |
           python - <<'PY'
           import json
           import urllib.request
+          from datetime import datetime, timezone
 
           url = "https://liiga.fi/api/v2/games?tournament=runkosarja&season=2027"
 
@@ -35,12 +36,14 @@ jobs:
           )
 
           with urllib.request.urlopen(req) as response:
-              data = json.load(response)
+              games = json.load(response)
 
           with open("liiga-games.json", "w", encoding="utf-8") as f:
-              json.dump(data, f, ensure_ascii=False, indent=2)
+              json.dump(games, f, ensure_ascii=False, indent=2)
 
           print("Liiga data fetched successfully.")
+          print("Games:", len(games) if isinstance(games, list) else "data received")
+
           PY
 
       - name: Commit updated data
