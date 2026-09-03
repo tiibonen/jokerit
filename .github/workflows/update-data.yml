@@ -41,8 +41,224 @@ jobs:
           with open("liiga-games.json", "w", encoding="utf-8") as f:
               json.dump(games, f, ensure_ascii=False, indent=2)
 
-          print("Liiga data fetched successfully.")
-          print("Games:", len(games) if isinstance(games, list) else "data received")
+          jokerit_games = []
+
+          for game in games:
+              home = game.get("homeTeam", {})
+              away = game.get("awayTeam", {})
+
+              home_name = home.get("teamName", "")
+              away_name = away.get("teamName", "")
+
+              if home_name == "Jokerit" or away_name == "Jokerit":
+                  jokerit_games.append(game)
+
+          ended_games = [
+              g for g in jokerit_games
+              if g.get("ended") is True
+          ]
+
+          upcoming_games = [
+              g for g in jokerit_games
+              if g.get("ended") is not True
+          ]
+
+          ended_games.sort(
+              key=lambda g: g.get("gameStartDateTime", "")
+          )
+
+          upcoming_games.sort(
+              key=lambda g: g.get("gameStartDateTime", "")
+          )
+
+          wins = 0
+          losses = 0
+          ot_losses = 0
+          points = 0
+
+          for game in ended_games:
+              home = game.get("homeTeam", {})
+              away = game.get("awayTeam", {})
+
+              home_name = home.get("teamName", "")
+              away_name = away.get("teamName", "")
+
+              home_goals = home.get("goals", 0)
+              away_goals = away.get("goals", 0)
+
+              jokerit_home = home_name == "Jokerit"
+
+              jokerit_goals = home_goals if jokerit_home else away_goals
+              opponent_goals = away_goals if jokerit_home else home_goals
+
+              finished_type = game.get("finishedType", "")
+
+              is_ot_or_so =
+                  "OVERTIME" in finished_type.upper()
+                  or "WINNING_SHOT" in finished_type.upper()
+
+              if jokerit_goals > opponent_goals:
+                  wins += 1
+
+                  if is_ot_or_so:
+                      points += 2
+                  else:
+                      points += 3
+
+              else:
+                  if is_ot_or_so:
+                      ot_losses += 1
+                      points += 1
+                  else:
+                      losses += 1
+
+          all_finished = [
+              g for g in games
+              if g.get("ended") is True
+          ]
+
+          teams = {}
+
+          for game in all_finished:
+              home = game.get("homeTeam", {})
+              away = game.get("awayTeam", {})
+
+              home_name = home.get("teamName", "")
+              away_name = away.get("teamName", "")
+
+              if not home_name or not away_name:
+                  continue
+
+              home_goals = home.get("goals", 0)
+              away_goals = away.get("goals", 0)
+
+              for team_name in [home_name, away_name]:
+                  if team_name not in teams:
+                      teams[team_name] = {
+                          "games": 0,
+                          "wins": 0,
+                          "losses": 0,
+                          "ot": 0,
+                          "points": 0
+                      }
+
+              teams[home_name]["games"] += 1
+              teams[away_name]["games"] += 1
+
+              finished_type = game.get("finishedType", "").upper()
+
+              is_ot_or_so = (
+                  "OVERTIME" in finished_type
+                  or "WINNING_SHOT" in finished_type
+              )
+
+              if home_goals > away_goals:
+                  teams[home_name]["wins"] += 1
+                  teams[home_name]["points"] += 2 if is_ot_or_so else 3
+
+                  if is_ot_or_so:
+                      teams[away_name]["ot"] += 1
+                      teams[away_name]["points"] += 1
+                  else:
+                      teams[away_name]["losses"] += 1
+
+              elif away_goals > home_goals:
+                  teams[away_name]["wins"] += 1
+                  teams[away_name]["points"] += 2 if is_ot_or_so else 3
+
+                  if is_ot_or_so:
+                      teams[home_name]["ot"] += 1
+                      teams[home_name]["points"] += 1
+                  else:
+                      teams[home_name]["losses"] += 1
+
+          standings = sorted(
+              teams.items(),
+              key=lambda item: (
+                  -item[1]["points"],
+                  -item[1]["wins"],
+                  item[0]
+              )
+          )
+
+          position = next(
+              (i + 1 for i, (name, stats) in enumerate(standings)
+               if name == "Jokerit"),
+              "-"
+          )
+
+          def format_date(dt):
+              if not dt:
+                  return ""
+
+              dt = datetime.fromisoformat(dt.replace("Z", "+00:00"))
+              return dt.astimezone().strftime("%d.%m.%Y")
+
+          def format_time(dt):
+              if not dt:
+                  return ""
+
+              dt = datetime.fromisoformat(dt.replace("Z", "+00:00"))
+              return dt.astimezone().strftime("%H:%M")
+
+          next_game = {
+              "date": "",
+              "time": "",
+              "home": "",
+              "away": ""
+          }
+
+          if upcoming_games:
+              game = upcoming_games[0]
+              next_game = {
+                  "date": format_date(game.get("gameStartDateTime")),
+                  "time": format_time(game.get("gameStartDateTime")),
+                  "home": game.get("homeTeam", {}).get("teamName", ""),
+                  "away": game.get("awayTeam", {}).get("teamName", "")
+              }
+
+          last_game = {
+              "date": "",
+              "home": "",
+              "away": "",
+              "result": ""
+          }
+
+          if ended_games:
+              game = ended_games[-1]
+
+              home = game.get("homeTeam", {})
+              away = game.get("awayTeam", {})
+
+              last_game = {
+                  "date": format_date(game.get("gameStartDateTime")),
+                  "home": home.get("teamName", ""),
+                  "away": away.get("teamName", ""),
+                  "result": f'{home.get("goals", 0)}–{away.get("goals", 0)}'
+              }
+
+          data = {
+              "updatedAt": datetime.now(timezone.utc).strftime(
+                  "%d.%m.%Y %H:%M UTC"
+              ),
+              "team": {
+                  "name": "Jokerit",
+                  "position": position,
+                  "games": len(ended_games),
+                  "wins": wins,
+                  "losses": losses,
+                  "ot": ot_losses,
+                  "points": points
+              },
+              "nextGame": next_game,
+              "lastGame": last_game
+          }
+
+          with open("data.json", "w", encoding="utf-8") as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+
+          print("Jokerit data created successfully.")
+          print(json.dumps(data, ensure_ascii=False, indent=2))
 
           PY
 
@@ -50,6 +266,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add liiga-games.json
+          git add liiga-games.json data.json
           git diff --cached --quiet || git commit -m "Update Jokerit data"
           git push
