@@ -1,16 +1,141 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fi">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>Jokerit</title>
+
+  <style>
+    body {
+      margin: 0;
+      padding: 20px;
+      font-family: Arial, sans-serif;
+      background: #f4f1e8;
+      color: #111;
+      text-align: center;
+    }
+
+    .card {
+      max-width: 500px;
+      margin: 0 auto 20px;
+      padding: 20px;
+      background: white;
+      border-radius: 20px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    }
+
+    img {
+      width: 140px;
+      max-width: 50%;
+      margin-bottom: 10px;
+    }
+
+    h1 {
+      margin: 5px 0 20px;
+    }
+
+    h2 {
+      margin-bottom: 10px;
+    }
+
+    .position {
+      font-size: 48px;
+      font-weight: bold;
+    }
+
+    .stats {
+      font-size: 18px;
+      line-height: 1.7;
+    }
+
+    .game {
+      font-size: 20px;
+      font-weight: bold;
+      line-height: 1.5;
+    }
+
+    .small {
+      font-size: 13px;
+      color: #666;
+      margin-top: 20px;
+    }
+  </style>
 </head>
 
 <body>
 
-  <h1>Jokerit</h1>
+  <div class="card">
+    <img src="jokerit-logo.png" alt="Jokerit">
+    <h1>Jokerit</h1>
 
-  <p>Live data test</p>
+    <div class="position" id="position">–</div>
+    <div id="positionText">sija</div>
+
+    <div class="stats" id="stats">
+      Ladataan tilastoja...
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Seuraava ottelu</h2>
+    <div class="game" id="nextGame">
+      Ladataan...
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Viimeisin ottelu</h2>
+    <div class="game" id="lastGame">
+      Ladataan...
+    </div>
+  </div>
+
+  <div class="small" id="updated">
+    Päivitetään...
+  </div>
+
+  <script>
+    async function loadData() {
+      try {
+        const response = await fetch("data.json?" + Date.now());
+        const data = await response.json();
+
+        document.getElementById("position").textContent =
+          data.team.position;
+
+        document.getElementById("stats").innerHTML = `
+          Ottelut: ${data.team.games}<br>
+          Voitot: ${data.team.wins}<br>
+          Tappiot: ${data.team.losses}<br>
+          Jatkoaikatappiot: ${data.team.ot}<br>
+          Pisteet: <strong>${data.team.points}</strong>
+        `;
+
+        document.getElementById("nextGame").innerHTML = `
+          ${data.nextGame.date}<br>
+          ${data.nextGame.time}<br>
+          ${data.nextGame.away} – ${data.nextGame.home}
+        `;
+
+        document.getElementById("lastGame").innerHTML = `
+          ${data.lastGame.date}<br>
+          ${data.lastGame.away} – ${data.lastGame.home}<br>
+          ${data.lastGame.result}
+        `;
+
+        document.getElementById("updated").textContent =
+          "Päivitetty: " + data.updatedAt;
+
+      } catch (error) {
+        document.getElementById("stats").textContent =
+          "Tietojen lataaminen epäonnistui.";
+        console.error(error);
+      }
+    }
+
+    loadData();
+  </script>
 
 </body>
 </html>
