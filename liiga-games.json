@@ -2518,8 +2518,8 @@
     "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/126?position=1",
     "gamblingEvent": {
       "homeTeamOdds": 161,
-      "awayTeamOdds": 485,
-      "tieOdds": 440,
+      "awayTeamOdds": 500,
+      "tieOdds": 450,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_870034"
     },
     "iceRink": {
@@ -2747,7 +2747,7 @@
     "gamblingEvent": {
       "homeTeamOdds": 298,
       "awayTeamOdds": 217,
-      "tieOdds": 390,
+      "tieOdds": 395,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_870035"
     },
     "iceRink": {
