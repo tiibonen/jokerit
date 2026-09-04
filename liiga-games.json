@@ -2631,9 +2631,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/pelicans/",
     "gamblingEvent": {
-      "homeTeamOdds": 202,
-      "awayTeamOdds": 320,
-      "tieOdds": 400,
+      "homeTeamOdds": 204,
+      "awayTeamOdds": 325,
+      "tieOdds": 405,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_870036"
     },
     "iceRink": {
@@ -2859,9 +2859,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-hpk-lippuja/1805978645",
     "gamblingEvent": {
-      "homeTeamOdds": 200,
+      "homeTeamOdds": 201,
       "awayTeamOdds": 335,
-      "tieOdds": 395,
+      "tieOdds": 400,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_870033"
     },
     "iceRink": {
