@@ -2518,8 +2518,8 @@
     "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/126?position=1",
     "gamblingEvent": {
       "homeTeamOdds": 161,
-      "awayTeamOdds": 500,
-      "tieOdds": 450,
+      "awayTeamOdds": 490,
+      "tieOdds": 445,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_870034"
     },
     "iceRink": {
@@ -2631,7 +2631,7 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/pelicans/",
     "gamblingEvent": {
-      "homeTeamOdds": 204,
+      "homeTeamOdds": 203,
       "awayTeamOdds": 325,
       "tieOdds": 405,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_870036"
@@ -2745,9 +2745,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-ilves-lippuja/2069680222",
     "gamblingEvent": {
-      "homeTeamOdds": 298,
-      "awayTeamOdds": 217,
-      "tieOdds": 395,
+      "homeTeamOdds": 299,
+      "awayTeamOdds": 218,
+      "tieOdds": 390,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_870035"
     },
     "iceRink": {
@@ -2859,9 +2859,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-hpk-lippuja/1805978645",
     "gamblingEvent": {
-      "homeTeamOdds": 201,
-      "awayTeamOdds": 335,
-      "tieOdds": 400,
+      "homeTeamOdds": 195,
+      "awayTeamOdds": 345,
+      "tieOdds": 410,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_870033"
     },
     "iceRink": {
