@@ -3557,7 +3557,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-ilves-lippuja/2069680222",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/assat",
     "gamblingEvent": {
       "homeTeamOdds": 102,
       "awayTeamOdds": 4700,
@@ -4120,6 +4120,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/jukurit/",
+    "gamblingEvent": {
+      "homeTeamOdds": 242,
+      "awayTeamOdds": 268,
+      "tieOdds": 375,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_874228"
+    },
     "iceRink": {
       "id": 111,
       "name": "Mikkelin jäähalli",
@@ -4337,8 +4343,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-jyp-lippuja/1518368956",
     "gamblingEvent": {
-      "homeTeamOdds": 210,
-      "awayTeamOdds": 298,
+      "homeTeamOdds": 212,
+      "awayTeamOdds": 292,
       "tieOdds": 415,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_874227"
     },
