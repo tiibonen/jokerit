@@ -1,24 +1,24 @@
 {
-  "updatedAt": "05.09.2026 19:08",
+  "updatedAt": "05.09.2026 20:07",
   "team": {
     "name": "Jokerit",
-    "position": 12,
-    "games": 1,
+    "position": 15,
+    "games": 2,
     "wins": 0,
-    "losses": 0,
+    "losses": 1,
     "ot": 1,
     "points": 1
   },
   "nextGame": {
-    "date": "05.09.2026",
-    "time": "17:00",
-    "home": "Lukko",
+    "date": "09.09.2026",
+    "time": "18:30",
+    "home": "Ässät",
     "away": "Jokerit"
   },
   "lastGame": {
-    "date": "01.09.2026",
-    "home": "Sport",
+    "date": "05.09.2026",
+    "home": "Lukko",
     "away": "Jokerit",
-    "result": "5–4"
+    "result": "7–2"
   }
 }
