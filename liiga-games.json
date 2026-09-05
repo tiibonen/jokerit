@@ -4121,9 +4121,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/jukurit/",
     "gamblingEvent": {
-      "homeTeamOdds": 242,
-      "awayTeamOdds": 268,
-      "tieOdds": 375,
+      "homeTeamOdds": 244,
+      "awayTeamOdds": 270,
+      "tieOdds": 380,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_874228"
     },
     "iceRink": {
@@ -4343,9 +4343,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-jyp-lippuja/1518368956",
     "gamblingEvent": {
-      "homeTeamOdds": 212,
-      "awayTeamOdds": 292,
-      "tieOdds": 415,
+      "homeTeamOdds": 214,
+      "awayTeamOdds": 295,
+      "tieOdds": 420,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_874227"
     },
     "iceRink": {
@@ -4457,9 +4457,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/63?position=2",
     "gamblingEvent": {
-      "homeTeamOdds": 202,
-      "awayTeamOdds": 315,
-      "tieOdds": 415,
+      "homeTeamOdds": 204,
+      "awayTeamOdds": 320,
+      "tieOdds": 420,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_874226"
     },
     "iceRink": {
