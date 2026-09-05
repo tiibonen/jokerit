@@ -4123,7 +4123,7 @@
     "gamblingEvent": {
       "homeTeamOdds": 250,
       "awayTeamOdds": 262,
-      "tieOdds": 375,
+      "tieOdds": 380,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_874228"
     },
     "iceRink": {
@@ -4349,8 +4349,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-jyp-lippuja/1518368956",
     "gamblingEvent": {
-      "homeTeamOdds": 212,
-      "awayTeamOdds": 294,
+      "homeTeamOdds": 214,
+      "awayTeamOdds": 295,
       "tieOdds": 420,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_874227"
     },
@@ -4465,7 +4465,7 @@
     "gamblingEvent": {
       "homeTeamOdds": 205,
       "awayTeamOdds": 315,
-      "tieOdds": 415,
+      "tieOdds": 420,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_874226"
     },
     "iceRink": {
