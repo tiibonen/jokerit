@@ -4030,17 +4030,45 @@
     "id": 2701286,
     "season": 2027,
     "start": "2026-09-05T14:00:00Z",
+    "end": "2026-09-05T17:00:00Z",
     "homeTeam": {
       "teamId": "292293444:jukurit",
       "teamPlaceholder": null,
       "teamName": "Jukurit",
-      "goals": 0,
+      "goals": 1,
       "timeOut": null,
-      "goalEvents": [],
+      "goalEvents": [
+        {
+          "scorerPlayerId": 60456415,
+          "scorerPlayer": {
+            "playerId": 60456415,
+            "firstName": "Bogdans",
+            "lastName": "Hodass"
+          },
+          "logTime": "2026-09-05T11:06:30Z",
+          "winningGoal": false,
+          "gameTime": 226,
+          "period": 1,
+          "eventId": 15,
+          "goalTypes": [],
+          "assistantPlayerIds": [],
+          "assistantPlayers": [],
+          "plusPlayerIds": "28 93 27 16",
+          "minusPlayerIds": "71 3 62",
+          "homeTeamScore": 1,
+          "awayTeamScore": 0,
+          "assistsSoFarInSeason": {},
+          "goalsSoFarInSeason": 1,
+          "videoClipUrl": null,
+          "videoClipPlaylistUrl": null,
+          "videoThumbnailUrl": null
+        }
+      ],
       "powerplayInstances": 0,
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.21,
       "ranking": 17,
       "gameStartDateTime": "2026-09-05T17:00:00+03:00",
       "logos": {
@@ -4061,6 +4089,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.0032,
       "ranking": 11,
       "gameStartDateTime": "2026-09-05T17:00:00+03:00",
       "logos": {
@@ -4073,7 +4102,7 @@
     "periods": [
       {
         "index": 1,
-        "homeTeamGoals": 0,
+        "homeTeamGoals": 1,
         "awayTeamGoals": 0,
         "category": "NORMAL",
         "startTime": 0,
@@ -4113,9 +4142,10 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 280,
+    "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
@@ -4135,7 +4165,7 @@
       "zip": "50100",
       "city": "MIKKELI"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 1,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 1
@@ -4144,6 +4174,7 @@
     "id": 2701287,
     "season": 2027,
     "start": "2026-09-05T14:00:00Z",
+    "end": "2026-09-05T17:00:00Z",
     "homeTeam": {
       "teamId": "1368624751:k-espoo",
       "teamPlaceholder": null,
@@ -4153,8 +4184,9 @@
       "goalEvents": [],
       "powerplayInstances": 0,
       "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "shortHandedInstances": 1,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.2,
       "ranking": 1,
       "gameStartDateTime": "2026-09-05T17:00:00+03:00",
       "logos": {
@@ -4171,10 +4203,11 @@
       "goals": 0,
       "timeOut": null,
       "goalEvents": [],
-      "powerplayInstances": 0,
+      "powerplayInstances": 1,
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.6,
       "ranking": 2,
       "gameStartDateTime": "2026-09-05T17:00:00+03:00",
       "logos": {
@@ -4227,9 +4260,10 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 222,
+    "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
@@ -4249,7 +4283,7 @@
       "zip": "02200",
       "city": "ESPOO"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 1,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 1
@@ -4258,6 +4292,7 @@
     "id": 2701288,
     "season": 2027,
     "start": "2026-09-05T14:00:00Z",
+    "end": "2026-09-05T17:00:00Z",
     "homeTeam": {
       "teamId": "495643563:kärpät",
       "teamPlaceholder": null,
@@ -4269,6 +4304,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.026,
       "ranking": 7,
       "gameStartDateTime": "2026-09-05T17:00:00+03:00",
       "logos": {
@@ -4282,13 +4318,57 @@
       "teamId": "219244634:jyp",
       "teamPlaceholder": null,
       "teamName": "JYP",
-      "goals": 0,
+      "goals": 1,
       "timeOut": null,
-      "goalEvents": [],
+      "goalEvents": [
+        {
+          "scorerPlayerId": 27854909,
+          "scorerPlayer": {
+            "playerId": 27854909,
+            "firstName": "Aaro",
+            "lastName": "Vidgren"
+          },
+          "logTime": "2026-09-05T11:03:07Z",
+          "winningGoal": false,
+          "gameTime": 25,
+          "period": 1,
+          "eventId": 15,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            60962804,
+            60907490
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 60962804,
+              "firstName": "Alexander",
+              "lastName": "True"
+            },
+            {
+              "playerId": 60907490,
+              "firstName": "Daniel",
+              "lastName": "Torgersson"
+            }
+          ],
+          "plusPlayerIds": "",
+          "minusPlayerIds": "",
+          "homeTeamScore": 0,
+          "awayTeamScore": 1,
+          "assistsSoFarInSeason": {
+            "60907490": 1,
+            "60962804": 1
+          },
+          "goalsSoFarInSeason": 1,
+          "videoClipUrl": "https://videos.liiga.fi/videos/b7868831-b317-4acb-ae0b-2cb17f8f8995/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/b7868831-b317-4acb-ae0b-2cb17f8f8995/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/b7868831-b317-4acb-ae0b-2cb17f8f8995/thumbnail.jpeg"
+        }
+      ],
       "powerplayInstances": 0,
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.67,
       "ranking": 13,
       "gameStartDateTime": "2026-09-05T17:00:00+03:00",
       "logos": {
@@ -4302,7 +4382,7 @@
       {
         "index": 1,
         "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
+        "awayTeamGoals": 1,
         "category": "NORMAL",
         "startTime": 0,
         "endTime": 1200
@@ -4341,9 +4421,10 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 197,
+    "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
@@ -4363,7 +4444,7 @@
       "zip": "90100",
       "city": "OULU"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 1,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 1
@@ -4372,6 +4453,7 @@
     "id": 2701289,
     "season": 2027,
     "start": "2026-09-05T14:00:00Z",
+    "end": "2026-09-05T17:00:00Z",
     "homeTeam": {
       "teamId": "624554857:lukko",
       "teamPlaceholder": null,
@@ -4381,8 +4463,9 @@
       "goalEvents": [],
       "powerplayInstances": 0,
       "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "shortHandedInstances": 2,
       "shortHandedGoals": 0,
+      "expectedGoals": 0,
       "ranking": 16,
       "gameStartDateTime": "2026-09-05T17:00:00+03:00",
       "logos": {
@@ -4399,10 +4482,11 @@
       "goals": 0,
       "timeOut": null,
       "goalEvents": [],
-      "powerplayInstances": 0,
+      "powerplayInstances": 2,
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.46,
       "ranking": 12,
       "gameStartDateTime": "2026-09-05T17:00:00+03:00",
       "logos": {
@@ -4455,9 +4539,10 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 259,
+    "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
@@ -4477,7 +4562,7 @@
       "zip": "26100",
       "city": "RAUMA"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 1,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 1
@@ -4486,6 +4571,7 @@
     "id": 2701290,
     "season": 2027,
     "start": "2026-09-05T14:00:00Z",
+    "end": "2026-09-05T17:00:00Z",
     "homeTeam": {
       "teamId": "651304385:tps",
       "teamPlaceholder": null,
@@ -4497,6 +4583,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.011,
       "ranking": 6,
       "gameStartDateTime": "2026-09-05T17:00:00+03:00",
       "logos": {
@@ -4517,6 +4604,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.01,
       "ranking": 4,
       "gameStartDateTime": "2026-09-05T17:00:00+03:00",
       "logos": {
@@ -4569,9 +4657,10 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 247,
+    "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
@@ -4591,7 +4680,7 @@
       "zip": "20210",
       "city": "TURKU"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 1,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 1
