@@ -4121,9 +4121,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/jukurit/",
     "gamblingEvent": {
-      "homeTeamOdds": 244,
-      "awayTeamOdds": 270,
-      "tieOdds": 380,
+      "homeTeamOdds": 250,
+      "awayTeamOdds": 262,
+      "tieOdds": 375,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_874228"
     },
     "iceRink": {
@@ -4235,9 +4235,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kiekkoespoo.tmtickets.fi",
     "gamblingEvent": {
-      "homeTeamOdds": 167,
-      "awayTeamOdds": 460,
-      "tieOdds": 440,
+      "homeTeamOdds": 172,
+      "awayTeamOdds": 425,
+      "tieOdds": 435,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_874224"
     },
     "iceRink": {
@@ -4349,8 +4349,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-jyp-lippuja/1518368956",
     "gamblingEvent": {
-      "homeTeamOdds": 214,
-      "awayTeamOdds": 295,
+      "homeTeamOdds": 212,
+      "awayTeamOdds": 294,
       "tieOdds": 420,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_874227"
     },
@@ -4463,9 +4463,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/63?position=2",
     "gamblingEvent": {
-      "homeTeamOdds": 204,
-      "awayTeamOdds": 320,
-      "tieOdds": 420,
+      "homeTeamOdds": 205,
+      "awayTeamOdds": 315,
+      "tieOdds": 415,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_874226"
     },
     "iceRink": {
@@ -4577,8 +4577,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/hctps/",
     "gamblingEvent": {
-      "homeTeamOdds": 215,
-      "awayTeamOdds": 300,
+      "homeTeamOdds": 214,
+      "awayTeamOdds": 305,
       "tieOdds": 405,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_874225"
     },
