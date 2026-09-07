@@ -6166,8 +6166,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/jukurit/",
     "gamblingEvent": {
-      "homeTeamOdds": 325,
-      "awayTeamOdds": 204,
+      "homeTeamOdds": 310,
+      "awayTeamOdds": 210,
       "tieOdds": 390,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_891290"
     },
@@ -6279,6 +6279,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kiekkoespoo.tmtickets.fi",
+    "gamblingEvent": {
+      "homeTeamOdds": 198,
+      "awayTeamOdds": 325,
+      "tieOdds": 420,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_891291"
+    },
     "iceRink": {
       "id": 190,
       "name": "Tapiolan monitoimiareena",
