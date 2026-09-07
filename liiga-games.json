@@ -40,8 +40,8 @@
               "lastName": "Hodass"
             }
           ],
-          "plusPlayerIds": "27 25 26 27 92",
-          "minusPlayerIds": "7 11 29 39 81",
+          "plusPlayerIds": "27 10 26 92 25",
+          "minusPlayerIds": "81 7 39 11 29",
           "homeTeamScore": 1,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
@@ -148,8 +148,8 @@
               "lastName": "Hakulinen"
             }
           ],
-          "plusPlayerIds": "4 12 43 94 95",
-          "minusPlayerIds": "20 26 28 40 89",
+          "plusPlayerIds": "43 4 94 12 95",
+          "minusPlayerIds": "40 26 28 89 20",
           "homeTeamScore": 1,
           "awayTeamScore": 2,
           "assistsSoFarInSeason": {
@@ -190,8 +190,8 @@
               "lastName": "Nychuk"
             }
           ],
-          "plusPlayerIds": "94 12 7 39 95",
-          "minusPlayerIds": "26 16 29 15 40",
+          "plusPlayerIds": "12 95 39 94 7",
+          "minusPlayerIds": "29 40 26 15 16",
           "homeTeamScore": 1,
           "awayTeamScore": 3,
           "assistsSoFarInSeason": {
@@ -234,8 +234,8 @@
               "lastName": "Kukkonen"
             }
           ],
-          "plusPlayerIds": "94 43 12 4 95",
-          "minusPlayerIds": "40 10 16 29 92 15",
+          "plusPlayerIds": "43 95 12 4 94",
+          "minusPlayerIds": "16 92 29 15 10 40",
           "homeTeamScore": 1,
           "awayTeamScore": 4,
           "assistsSoFarInSeason": {
@@ -374,8 +374,8 @@
               "lastName": "Jurmo"
             }
           ],
-          "plusPlayerIds": "12 7 78 51 78",
-          "minusPlayerIds": "8 12 22 22 42",
+          "plusPlayerIds": "51 7 78 4 12",
+          "minusPlayerIds": "42 22 8 12 4",
           "homeTeamScore": 1,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -412,8 +412,8 @@
               "lastName": "Talvitie"
             }
           ],
-          "plusPlayerIds": "4 17 3 47 77",
-          "minusPlayerIds": "94 41 85 94 97",
+          "plusPlayerIds": "4 77 47 3 17",
+          "minusPlayerIds": "97 41 94 85 4",
           "homeTeamScore": 2,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -453,8 +453,8 @@
               "lastName": "Aronsson"
             }
           ],
-          "plusPlayerIds": "55 5 16 55 72",
-          "minusPlayerIds": "22 42 22 42 57",
+          "plusPlayerIds": "55 5 16 72 15",
+          "minusPlayerIds": "42 18 22 57 12",
           "homeTeamScore": 3,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -484,7 +484,7 @@
           "assistantPlayerIds": [],
           "assistantPlayers": [],
           "plusPlayerIds": "12",
-          "minusPlayerIds": "42",
+          "minusPlayerIds": "",
           "homeTeamScore": 4,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {},
@@ -588,8 +588,8 @@
               "lastName": "Rissanen"
             }
           ],
-          "plusPlayerIds": "28 20 8 22 42",
-          "minusPlayerIds": "76 47 3 51 76",
+          "plusPlayerIds": "28 42 22 8 20",
+          "minusPlayerIds": "17 76 47 3 51",
           "homeTeamScore": 4,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
@@ -772,8 +772,8 @@
               "lastName": "Loponen"
             }
           ],
-          "plusPlayerIds": "31 2 27 62",
-          "minusPlayerIds": "74 36 47 55 80",
+          "plusPlayerIds": "62 31 27 2 43",
+          "minusPlayerIds": "47 55 74 36 80",
           "homeTeamScore": 2,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
@@ -814,8 +814,8 @@
               "lastName": "Okany"
             }
           ],
-          "plusPlayerIds": "16 11 21 26 62",
-          "minusPlayerIds": "79 61 10 8 92",
+          "plusPlayerIds": "62 11 16 21 26",
+          "minusPlayerIds": "8 10 61 92 79",
           "homeTeamScore": 3,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
@@ -878,8 +878,8 @@
               "lastName": "Alasiurua"
             }
           ],
-          "plusPlayerIds": "92 37 19 18 92",
-          "minusPlayerIds": "2 43 16 62 11",
+          "plusPlayerIds": "37 3 18 19 92",
+          "minusPlayerIds": "62 11 16 43 2",
           "homeTeamScore": 1,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
@@ -1066,8 +1066,8 @@
               "lastName": "Török"
             }
           ],
-          "plusPlayerIds": "27 44 46 57 67",
-          "minusPlayerIds": "25 16 25 27 91",
+          "plusPlayerIds": "57 27 46 44 67",
+          "minusPlayerIds": "91 16 25 15 27",
           "homeTeamScore": 0,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
@@ -1250,8 +1250,8 @@
               "lastName": "Airola"
             }
           ],
-          "plusPlayerIds": "15 41 7 41 52",
-          "minusPlayerIds": "25 25 40 41 52",
+          "plusPlayerIds": "6 41 52 15 7",
+          "minusPlayerIds": "52 40 23 41 25",
           "homeTeamScore": 1,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -1295,7 +1295,7 @@
             }
           ],
           "plusPlayerIds": "14 7 75 70",
-          "minusPlayerIds": "63 89 33 88",
+          "minusPlayerIds": "63 33 89 88",
           "homeTeamScore": 2,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -1446,8 +1446,8 @@
               "lastName": "Haapala"
             }
           ],
-          "plusPlayerIds": "40 63 41 33 63",
-          "minusPlayerIds": "50 28 10 11 2",
+          "plusPlayerIds": "25 33 40 63 41",
+          "minusPlayerIds": "2 50 28 11 10",
           "homeTeamScore": 2,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
@@ -1718,8 +1718,8 @@
               "lastName": "Wernblom"
             }
           ],
-          "plusPlayerIds": "5 22 49 38 97",
-          "minusPlayerIds": "10 39 27 58 7",
+          "plusPlayerIds": "49 22 38 97 5",
+          "minusPlayerIds": "27 10 7 39 58",
           "homeTeamScore": 3,
           "awayTeamScore": 2,
           "assistsSoFarInSeason": {
@@ -1760,8 +1760,8 @@
               "lastName": "Haudum"
             }
           ],
-          "plusPlayerIds": "22 49 61 97",
-          "minusPlayerIds": "17 71 20 27 71",
+          "plusPlayerIds": "61 97 49 25 22",
+          "minusPlayerIds": "20 27 6 17 71",
           "homeTeamScore": 4,
           "awayTeamScore": 2,
           "assistsSoFarInSeason": {
@@ -1837,8 +1837,8 @@
           "goalTypes": [],
           "assistantPlayerIds": [],
           "assistantPlayers": [],
-          "plusPlayerIds": "39 7 82 71 24",
-          "minusPlayerIds": "6 22 49 97",
+          "plusPlayerIds": "7 39 82 24 71",
+          "minusPlayerIds": "22 49 97 40 6",
           "homeTeamScore": 1,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {},
@@ -1870,8 +1870,8 @@
               "lastName": "Holmström"
             }
           ],
-          "plusPlayerIds": "10 39 58 7 25",
-          "minusPlayerIds": "2 42 22 49 97",
+          "plusPlayerIds": "25 7 10 58 39",
+          "minusPlayerIds": "49 42 2 97 22",
           "homeTeamScore": 1,
           "awayTeamScore": 2,
           "assistsSoFarInSeason": {
@@ -1995,8 +1995,8 @@
           "goalTypes": [],
           "assistantPlayerIds": [],
           "assistantPlayers": [],
-          "plusPlayerIds": "55 8 3 21 55",
-          "minusPlayerIds": "28 12 71 43 71",
+          "plusPlayerIds": "3 8 55 17 21",
+          "minusPlayerIds": "7 28 71 12 43",
           "homeTeamScore": 1,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {},
@@ -2034,8 +2034,8 @@
               "lastName": "Ervasti"
             }
           ],
-          "plusPlayerIds": "7 9 55 80 86",
-          "minusPlayerIds": "21 22 55 77 98",
+          "plusPlayerIds": "9 80 86 55 7",
+          "minusPlayerIds": "21 22 55 98 77",
           "homeTeamScore": 2,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
@@ -2076,8 +2076,8 @@
               "lastName": "Bürger"
             }
           ],
-          "plusPlayerIds": "17 21 22 16 26",
-          "minusPlayerIds": "33 41 21 22 55",
+          "plusPlayerIds": "22 17 26 21 16",
+          "minusPlayerIds": "33 41 55 22 21",
           "homeTeamScore": 3,
           "awayTeamScore": 3,
           "assistsSoFarInSeason": {
@@ -2112,8 +2112,8 @@
               "lastName": "Åkerström"
             }
           ],
-          "plusPlayerIds": "71 55 62 21 22",
-          "minusPlayerIds": "41 21 77 22 55",
+          "plusPlayerIds": "21 22 71 62 55",
+          "minusPlayerIds": "41 55 77 21 22",
           "homeTeamScore": 4,
           "awayTeamScore": 4,
           "assistsSoFarInSeason": {
@@ -2202,8 +2202,8 @@
               "lastName": "Kuusla"
             }
           ],
-          "plusPlayerIds": "77 55 55 77 82",
-          "minusPlayerIds": "62 26 62 63",
+          "plusPlayerIds": "25 82 22 55 77",
+          "minusPlayerIds": "12 26 62 63",
           "homeTeamScore": 0,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
@@ -2244,8 +2244,8 @@
               "lastName": "Kuusla"
             }
           ],
-          "plusPlayerIds": "53 43 43 53 82",
-          "minusPlayerIds": "10 9 10 55 86",
+          "plusPlayerIds": "53 43 82 26 25",
+          "minusPlayerIds": "10 9 86 55 7",
           "homeTeamScore": 2,
           "awayTeamScore": 2,
           "assistsSoFarInSeason": {
@@ -2280,8 +2280,8 @@
               "lastName": "Kallio"
             }
           ],
-          "plusPlayerIds": "47 92 29 47 92",
-          "minusPlayerIds": "86 9 9 17 86",
+          "plusPlayerIds": "47 12 25 92 29",
+          "minusPlayerIds": "8 86 17 7 9",
           "homeTeamScore": 2,
           "awayTeamScore": 3,
           "assistsSoFarInSeason": {
@@ -2457,8 +2457,8 @@
               "lastName": "Borchardt"
             }
           ],
-          "plusPlayerIds": "42 7 12 97 22",
-          "minusPlayerIds": "15 10 93",
+          "plusPlayerIds": "42 22 7 12 97",
+          "minusPlayerIds": "27 15 10 16 93",
           "homeTeamScore": 1,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -2542,8 +2542,8 @@
               "lastName": "Mononen"
             }
           ],
-          "plusPlayerIds": "70 20 91 55 7",
-          "minusPlayerIds": "89 6 57 28",
+          "plusPlayerIds": "91 55 70 7 20",
+          "minusPlayerIds": "6 93 89 28 57",
           "homeTeamScore": 3,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -2741,8 +2741,8 @@
               "lastName": "Hawel"
             }
           ],
-          "plusPlayerIds": "10 95 15 55 90",
-          "minusPlayerIds": "55 4 17 21 22",
+          "plusPlayerIds": "90 95 55 10 15",
+          "minusPlayerIds": "55 4 21 17 22",
           "homeTeamScore": 1,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -2782,8 +2782,8 @@
               "lastName": "Hämäläinen"
             }
           ],
-          "plusPlayerIds": "12 96",
-          "minusPlayerIds": "86 86",
+          "plusPlayerIds": "87 96 47 12 4",
+          "minusPlayerIds": "6 16 86 9 80",
           "homeTeamScore": 2,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -2824,8 +2824,8 @@
               "lastName": "Hämäläinen"
             }
           ],
-          "plusPlayerIds": "12 96 47 4 87",
-          "minusPlayerIds": "55 8 86 80 9",
+          "plusPlayerIds": "47 87 12 96 4",
+          "minusPlayerIds": "8 55 80 86 9",
           "homeTeamScore": 3,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -2860,8 +2860,8 @@
               "lastName": "Hawel"
             }
           ],
-          "plusPlayerIds": "10 95 90 4",
-          "minusPlayerIds": "63 10 4 62 21",
+          "plusPlayerIds": "95 90 47 4 10",
+          "minusPlayerIds": "62 21 4 10 63",
           "homeTeamScore": 4,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -2898,8 +2898,8 @@
               "lastName": "Forsberg"
             }
           ],
-          "plusPlayerIds": "82 47 4 23",
-          "minusPlayerIds": "80 28 17 21 22",
+          "plusPlayerIds": "23 4 47 82",
+          "minusPlayerIds": "62 17 28 80 21 22",
           "homeTeamScore": 5,
           "awayTeamScore": 3,
           "assistsSoFarInSeason": {
@@ -2936,8 +2936,8 @@
               "lastName": "Olkinuora"
             }
           ],
-          "plusPlayerIds": "29 47 4 9",
-          "minusPlayerIds": "55 71 3 10 86 9",
+          "plusPlayerIds": "9 29 47 4",
+          "minusPlayerIds": "86 9 71 3 55 10",
           "homeTeamScore": 6,
           "awayTeamScore": 3,
           "assistsSoFarInSeason": {
@@ -2999,8 +2999,8 @@
               "lastName": "Viljanen"
             }
           ],
-          "plusPlayerIds": "8 63 9",
-          "minusPlayerIds": "4 23",
+          "plusPlayerIds": "63 62 21 8 9",
+          "minusPlayerIds": "82 23 74 47 4",
           "homeTeamScore": 4,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
@@ -3041,8 +3041,8 @@
               "lastName": "Pietilä"
             }
           ],
-          "plusPlayerIds": "10 63",
-          "minusPlayerIds": "",
+          "plusPlayerIds": "28 16 63 6 10",
+          "minusPlayerIds": "95 15 90 55 10",
           "homeTeamScore": 4,
           "awayTeamScore": 2,
           "assistsSoFarInSeason": {
@@ -3248,8 +3248,8 @@
               "lastName": "Määttä"
             }
           ],
-          "plusPlayerIds": "3 37 18 63",
-          "minusPlayerIds": "71 38 77 28",
+          "plusPlayerIds": "63 3 74 37 18",
+          "minusPlayerIds": "77 71 19 28 38",
           "homeTeamScore": 1,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -3286,8 +3286,8 @@
               "lastName": "Hillis"
             }
           ],
-          "plusPlayerIds": "",
-          "minusPlayerIds": "",
+          "plusPlayerIds": "55 61 10 36",
+          "minusPlayerIds": "6 9 92 15 71",
           "homeTeamScore": 2,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -3327,8 +3327,8 @@
               "lastName": "Bednar"
             }
           ],
-          "plusPlayerIds": "55 80 10 34 7",
-          "minusPlayerIds": "6 77 9 29 92",
+          "plusPlayerIds": "34 10 80 7 55",
+          "minusPlayerIds": "9 6 77 92 29",
           "homeTeamScore": 3,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -3415,8 +3415,8 @@
               "lastName": "Jürgens"
             }
           ],
-          "plusPlayerIds": "",
-          "minusPlayerIds": "",
+          "plusPlayerIds": "10 48 34 61 55",
+          "minusPlayerIds": "28 71 77 86 19 22",
           "homeTeamScore": 5,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -3479,8 +3479,8 @@
               "lastName": "Utunen"
             }
           ],
-          "plusPlayerIds": "3 11",
-          "minusPlayerIds": "72 3 37 18",
+          "plusPlayerIds": "11 27 22 3 92",
+          "minusPlayerIds": "3 37 72 18 26",
           "homeTeamScore": 5,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
@@ -3663,8 +3663,8 @@
               "lastName": "Salmela"
             }
           ],
-          "plusPlayerIds": "81 90 93 37 18",
-          "minusPlayerIds": "94 16 95 12 5",
+          "plusPlayerIds": "37 93 90 18 81",
+          "minusPlayerIds": "16 95 94 12 5",
           "homeTeamScore": 2,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -3743,8 +3743,8 @@
               "lastName": "Kiviharju"
             }
           ],
-          "plusPlayerIds": "90 88 72 2 77",
-          "minusPlayerIds": "11 29",
+          "plusPlayerIds": "72 90 77 2 88",
+          "minusPlayerIds": "95 16 5 29 11",
           "homeTeamScore": 4,
           "awayTeamScore": 3,
           "assistsSoFarInSeason": {
@@ -3780,8 +3780,8 @@
               "lastName": "Juel"
             }
           ],
-          "plusPlayerIds": "21 88 72 25 67",
-          "minusPlayerIds": "94 15 12 28 39 95",
+          "plusPlayerIds": "67 21 88 72 25",
+          "minusPlayerIds": "95 94 28 39 12 15",
           "homeTeamScore": 5,
           "awayTeamScore": 3,
           "assistsSoFarInSeason": {
@@ -3843,8 +3843,8 @@
               "lastName": "Jokirinne"
             }
           ],
-          "plusPlayerIds": "94 95 43 4",
-          "minusPlayerIds": "21 71 33 43 28",
+          "plusPlayerIds": "95 12 4 94 43",
+          "minusPlayerIds": "28 33 21 43 71",
           "homeTeamScore": 2,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
@@ -3885,8 +3885,8 @@
               "lastName": "Andzans"
             }
           ],
-          "plusPlayerIds": "55 64 10 5 28",
-          "minusPlayerIds": "90 19 12 54 2",
+          "plusPlayerIds": "55 5 64 10 28",
+          "minusPlayerIds": "2 90 54 12 19",
           "homeTeamScore": 2,
           "awayTeamScore": 2,
           "assistsSoFarInSeason": {
@@ -3927,8 +3927,8 @@
               "lastName": "Pyke"
             }
           ],
-          "plusPlayerIds": "12 7 39 94 95",
-          "minusPlayerIds": "33 72 77 77",
+          "plusPlayerIds": "7 94 39 95 12",
+          "minusPlayerIds": "77 25 72 88 33",
           "homeTeamScore": 2,
           "awayTeamScore": 3,
           "assistsSoFarInSeason": {
@@ -4053,8 +4053,8 @@
           "goalTypes": [],
           "assistantPlayerIds": [],
           "assistantPlayers": [],
-          "plusPlayerIds": "28 93 27 16",
-          "minusPlayerIds": "71 3 62",
+          "plusPlayerIds": "15 16 93 27 28",
+          "minusPlayerIds": "3 71 26 28 62",
           "homeTeamScore": 1,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {},
@@ -4092,8 +4092,8 @@
               "lastName": "Addamo"
             }
           ],
-          "plusPlayerIds": "15 53 20",
-          "minusPlayerIds": "3",
+          "plusPlayerIds": "20 70 15 53 28",
+          "minusPlayerIds": "17 21 26 8 3",
           "homeTeamScore": 2,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -4180,8 +4180,8 @@
               "lastName": "Sustr"
             }
           ],
-          "plusPlayerIds": "",
-          "minusPlayerIds": "62",
+          "plusPlayerIds": "10 29 26 36 20",
+          "minusPlayerIds": "28 62 17 80 22 21",
           "homeTeamScore": 4,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -4369,8 +4369,8 @@
               "lastName": "Näkyvä"
             }
           ],
-          "plusPlayerIds": "8 16 15 3",
-          "minusPlayerIds": "47 37 7",
+          "plusPlayerIds": "16 72 15 3 8",
+          "minusPlayerIds": "37 9 47 7 4",
           "homeTeamScore": 1,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
@@ -4433,8 +4433,8 @@
               "lastName": "Hämäläinen"
             }
           ],
-          "plusPlayerIds": "65",
-          "minusPlayerIds": "28 55 15",
+          "plusPlayerIds": "71 65 12 87 96",
+          "minusPlayerIds": "5 90 28 55 15",
           "homeTeamScore": 0,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
@@ -4613,8 +4613,8 @@
               "lastName": "Salmela"
             }
           ],
-          "plusPlayerIds": "61 2 59",
-          "minusPlayerIds": "71 44 77 28 61",
+          "plusPlayerIds": "2 61 59 11",
+          "minusPlayerIds": "71 61 44 28 77",
           "homeTeamScore": 1,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
@@ -4648,8 +4648,8 @@
               "lastName": "Kantner"
             }
           ],
-          "plusPlayerIds": "61 9",
-          "minusPlayerIds": "40",
+          "plusPlayerIds": "9 61 93 31 27",
+          "minusPlayerIds": "61 44 18 17 40",
           "homeTeamScore": 2,
           "awayTeamScore": 2,
           "assistsSoFarInSeason": {
@@ -4685,8 +4685,8 @@
               "lastName": "Hirvonen"
             }
           ],
-          "plusPlayerIds": "31 73 33 93 62 21",
-          "minusPlayerIds": "92 40 7 31 32",
+          "plusPlayerIds": "21 33 31 62 73 93",
+          "minusPlayerIds": "32 31 8 39 82",
           "homeTeamScore": 3,
           "awayTeamScore": 4,
           "assistsSoFarInSeason": {
@@ -4748,8 +4748,8 @@
               "lastName": "Torgersson"
             }
           ],
-          "plusPlayerIds": "",
-          "minusPlayerIds": "",
+          "plusPlayerIds": "7 31 40 44 92",
+          "minusPlayerIds": "21 26 73 82 33",
           "homeTeamScore": 0,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
@@ -4790,8 +4790,8 @@
               "lastName": "Bourque"
             }
           ],
-          "plusPlayerIds": "",
-          "minusPlayerIds": "",
+          "plusPlayerIds": "61 77 28 63 3",
+          "minusPlayerIds": "25 11 2 62 16",
           "homeTeamScore": 1,
           "awayTeamScore": 2,
           "assistsSoFarInSeason": {
@@ -4872,8 +4872,8 @@
               "lastName": "True"
             }
           ],
-          "plusPlayerIds": "31 32 39 40 7 8",
-          "minusPlayerIds": "31 73 21 33 93 62",
+          "plusPlayerIds": "32 7 31 40 92",
+          "minusPlayerIds": "31 33 62 93 73 21",
           "homeTeamScore": 2,
           "awayTeamScore": 4,
           "assistsSoFarInSeason": {
@@ -5011,8 +5011,8 @@
               "lastName": "Krannila"
             }
           ],
-          "plusPlayerIds": "18 24 43 27",
-          "minusPlayerIds": "82 26 4",
+          "plusPlayerIds": "43 93 27 24 18",
+          "minusPlayerIds": "41 4 26 25 82",
           "homeTeamScore": 1,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -5053,8 +5053,8 @@
               "lastName": "Robert"
             }
           ],
-          "plusPlayerIds": "27 9 25 16",
-          "minusPlayerIds": "7 77 55 98",
+          "plusPlayerIds": "27 25 9 91 16",
+          "minusPlayerIds": "22 7 55 98 77",
           "homeTeamScore": 2,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -5089,8 +5089,8 @@
               "lastName": "Virtanen"
             }
           ],
-          "plusPlayerIds": "48 47 34 75 43",
-          "minusPlayerIds": "22 47 25",
+          "plusPlayerIds": "43 48 34 75 47",
+          "minusPlayerIds": "47 43 25 82 22",
           "homeTeamScore": 3,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -5174,8 +5174,8 @@
               "lastName": "Tukiainen"
             }
           ],
-          "plusPlayerIds": "56 96",
-          "minusPlayerIds": "",
+          "plusPlayerIds": "47 96 75 56 48",
+          "minusPlayerIds": "53 77 4 21 22",
           "homeTeamScore": 5,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -5216,8 +5216,8 @@
               "lastName": "Saarela"
             }
           ],
-          "plusPlayerIds": "34 25 43 16 91",
-          "minusPlayerIds": "92 21 77 55 98",
+          "plusPlayerIds": "16 25 91 43 34",
+          "minusPlayerIds": "98 21 77 92 55",
           "homeTeamScore": 6,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -5258,8 +5258,8 @@
               "lastName": "Seppälä"
             }
           ],
-          "plusPlayerIds": "90 29 23",
-          "minusPlayerIds": "4",
+          "plusPlayerIds": "90 29 9 23 27",
+          "minusPlayerIds": "4 53 71 21 77",
           "homeTeamScore": 7,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
@@ -5366,8 +5366,8 @@
               "lastName": "Fortier"
             }
           ],
-          "plusPlayerIds": "4 53 28 25 7",
-          "minusPlayerIds": "56 75",
+          "plusPlayerIds": "28 7 53 4 25",
+          "minusPlayerIds": "48 75 43 47 56",
           "homeTeamScore": 7,
           "awayTeamScore": 2,
           "assistsSoFarInSeason": {
@@ -5594,8 +5594,8 @@
               "lastName": "Wernblom"
             }
           ],
-          "plusPlayerIds": "",
-          "minusPlayerIds": "19",
+          "plusPlayerIds": "38 5 22 49 97",
+          "minusPlayerIds": "28 93 19 33 18",
           "homeTeamScore": 3,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
@@ -5680,8 +5680,8 @@
               "lastName": "Haudum"
             }
           ],
-          "plusPlayerIds": "49 97 6 40 22",
-          "minusPlayerIds": "21 71 15 67 25",
+          "plusPlayerIds": "97 40 6 49 22",
+          "minusPlayerIds": "71 67 25 21 15",
           "homeTeamScore": 5,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
@@ -5744,8 +5744,8 @@
               "lastName": "Mäkiaho"
             }
           ],
-          "plusPlayerIds": "33",
-          "minusPlayerIds": "",
+          "plusPlayerIds": "21 13 71 33 15",
+          "minusPlayerIds": "40 6 10 57 47",
           "homeTeamScore": 3,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
