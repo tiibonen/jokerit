@@ -5855,11 +5855,11 @@
       "goals": 0,
       "timeOut": null,
       "goalEvents": [],
-      "powerplayInstances": 1,
+      "powerplayInstances": 2,
       "powerplayGoals": 0,
-      "shortHandedInstances": 1,
+      "shortHandedInstances": 2,
       "shortHandedGoals": 0,
-      "expectedGoals": 1.01,
+      "expectedGoals": 2.51,
       "ranking": 7,
       "gameStartDateTime": "2026-09-08T18:30:00+03:00",
       "logos": {
@@ -5928,7 +5928,7 @@
           ],
           "assistantPlayerIds": [
             60972169,
-            61084035
+            60661835
           ],
           "assistantPlayers": [
             {
@@ -5937,9 +5937,9 @@
               "lastName": "Henman"
             },
             {
-              "playerId": 61084035,
-              "firstName": "Austin",
-              "lastName": "Strand"
+              "playerId": 60661835,
+              "firstName": "Ondrej",
+              "lastName": "Kos"
             }
           ],
           "plusPlayerIds": null,
@@ -5947,8 +5947,8 @@
           "homeTeamScore": 0,
           "awayTeamScore": 2,
           "assistsSoFarInSeason": {
-            "60972169": 2,
-            "61084035": 1
+            "60661835": 1,
+            "60972169": 2
           },
           "goalsSoFarInSeason": 2,
           "videoClipUrl": "https://videos.liiga.fi/videos/f52ede11-24e6-49ed-9b34-cd452a8d87ea/playlist.m3u8",
@@ -5956,11 +5956,11 @@
           "videoThumbnailUrl": "https://videos.liiga.fi/videos/f52ede11-24e6-49ed-9b34-cd452a8d87ea/thumbnail.jpeg"
         }
       ],
-      "powerplayInstances": 1,
+      "powerplayInstances": 2,
       "powerplayGoals": 1,
-      "shortHandedInstances": 1,
+      "shortHandedInstances": 2,
       "shortHandedGoals": 0,
-      "expectedGoals": 1.56,
+      "expectedGoals": 2.81,
       "ranking": 12,
       "gameStartDateTime": "2026-09-08T18:30:00+03:00",
       "logos": {
@@ -6015,16 +6015,16 @@
     "finishedType": "ACTIVE_OR_NOT_STARTED",
     "started": true,
     "ended": false,
-    "gameTime": 1200,
+    "gameTime": 2400,
     "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://liveday.fi/stores/2vjYW5qER9OnYBi0Ds6U3bqeh2l",
     "gamblingEvent": {
-      "homeTeamOdds": 850,
-      "awayTeamOdds": 130,
-      "tieOdds": 550,
+      "homeTeamOdds": 2000,
+      "awayTeamOdds": 115,
+      "tieOdds": 685,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_887438"
     },
     "iceRink": {
@@ -6036,7 +6036,7 @@
       "zip": "13130",
       "city": "HÄMEENLINNA"
     },
-    "currentPeriod": 1,
+    "currentPeriod": 2,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 2
