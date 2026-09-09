@@ -6215,9 +6215,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/pelicans/",
     "gamblingEvent": {
-      "homeTeamOdds": 222,
-      "awayTeamOdds": 290,
-      "tieOdds": 405,
+      "homeTeamOdds": 225,
+      "awayTeamOdds": 285,
+      "tieOdds": 400,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_891294"
     },
     "iceRink": {
@@ -6443,9 +6443,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kiekkoespoo.tmtickets.fi",
     "gamblingEvent": {
-      "homeTeamOdds": 198,
-      "awayTeamOdds": 325,
-      "tieOdds": 425,
+      "homeTeamOdds": 181,
+      "awayTeamOdds": 375,
+      "tieOdds": 450,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_891291"
     },
     "iceRink": {
@@ -6557,8 +6557,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/64?position=3",
     "gamblingEvent": {
-      "homeTeamOdds": 222,
-      "awayTeamOdds": 277,
+      "homeTeamOdds": 217,
+      "awayTeamOdds": 290,
       "tieOdds": 420,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_891292"
     },
@@ -6671,9 +6671,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
     "gamblingEvent": {
-      "homeTeamOdds": 310,
-      "awayTeamOdds": 212,
-      "tieOdds": 400,
+      "homeTeamOdds": 320,
+      "awayTeamOdds": 207,
+      "tieOdds": 405,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_891293"
     },
     "iceRink": {
@@ -6785,8 +6785,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-jokerit-lippuja/1788763774",
     "gamblingEvent": {
-      "homeTeamOdds": 235,
-      "awayTeamOdds": 270,
+      "homeTeamOdds": 232,
+      "awayTeamOdds": 275,
       "tieOdds": 400,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_891295"
     },
@@ -11757,7 +11757,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-saipa-lippuja/172689890",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/karpat-lippuja/96763",
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
@@ -13377,7 +13377,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-k-espoo-opiskelijapeli-lippuja/213162761",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/karpat-lippuja/96763",
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
@@ -23529,7 +23529,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-tappara-lippuja/665998317",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/karpat-lippuja/96763",
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
@@ -26661,7 +26661,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-pelicans-lippuja/599586506",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/karpat-lippuja/96763",
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
@@ -35625,7 +35625,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-jyp-lippuja/771045552",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/karpat-lippuja/96763",
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
@@ -37353,7 +37353,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-tappara-lippuja/300749759",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/karpat-lippuja/96763",
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
@@ -41997,7 +41997,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-pelicans-lippuja/704222511",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/karpat-lippuja/96763",
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
