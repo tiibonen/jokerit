@@ -7381,7 +7381,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/64?position=3",
+    "buyTicketsUrl": "https://lukko.tmtickets.fi/",
     "gamblingEvent": {
       "homeTeamOdds": 4800,
       "awayTeamOdds": 100,
@@ -7966,7 +7966,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-jokerit-lippuja/1788763774",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/assat",
     "gamblingEvent": {
       "homeTeamOdds": 108,
       "awayTeamOdds": 4500,
