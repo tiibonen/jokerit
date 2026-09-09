@@ -6215,9 +6215,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/pelicans/",
     "gamblingEvent": {
-      "homeTeamOdds": 220,
-      "awayTeamOdds": 288,
-      "tieOdds": 400,
+      "homeTeamOdds": 222,
+      "awayTeamOdds": 290,
+      "tieOdds": 405,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_891294"
     },
     "iceRink": {
@@ -6329,8 +6329,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/jukurit/",
     "gamblingEvent": {
-      "homeTeamOdds": 310,
-      "awayTeamOdds": 210,
+      "homeTeamOdds": 315,
+      "awayTeamOdds": 212,
       "tieOdds": 390,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_891290"
     },
@@ -6445,7 +6445,7 @@
     "gamblingEvent": {
       "homeTeamOdds": 198,
       "awayTeamOdds": 325,
-      "tieOdds": 420,
+      "tieOdds": 425,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_891291"
     },
     "iceRink": {
@@ -6557,9 +6557,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/64?position=3",
     "gamblingEvent": {
-      "homeTeamOdds": 222,
+      "homeTeamOdds": 224,
       "awayTeamOdds": 278,
-      "tieOdds": 415,
+      "tieOdds": 420,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_891292"
     },
     "iceRink": {
@@ -6671,9 +6671,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
     "gamblingEvent": {
-      "homeTeamOdds": 305,
+      "homeTeamOdds": 310,
       "awayTeamOdds": 212,
-      "tieOdds": 395,
+      "tieOdds": 400,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_891293"
     },
     "iceRink": {
@@ -6785,9 +6785,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-jokerit-lippuja/1788763774",
     "gamblingEvent": {
-      "homeTeamOdds": 234,
-      "awayTeamOdds": 268,
-      "tieOdds": 395,
+      "homeTeamOdds": 235,
+      "awayTeamOdds": 270,
+      "tieOdds": 400,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_891295"
     },
     "iceRink": {
