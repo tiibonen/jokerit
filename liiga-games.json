@@ -8081,6 +8081,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/127?position=2",
+    "gamblingEvent": {
+      "homeTeamOdds": 215,
+      "awayTeamOdds": 305,
+      "tieOdds": 390,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_916581"
+    },
     "iceRink": {
       "id": 78,
       "name": "Kuopion jäähalli",
@@ -8513,6 +8519,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-sport-lippuja/543963731",
+    "gamblingEvent": {
+      "homeTeamOdds": 176,
+      "awayTeamOdds": 400,
+      "tieOdds": 420,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_916586"
+    },
     "iceRink": {
       "id": 153,
       "name": "Porin jäähalli I",
