@@ -8082,9 +8082,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/127?position=2",
     "gamblingEvent": {
-      "homeTeamOdds": 215,
-      "awayTeamOdds": 305,
-      "tieOdds": 390,
+      "homeTeamOdds": 217,
+      "awayTeamOdds": 300,
+      "tieOdds": 385,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_916581"
     },
     "iceRink": {
@@ -8196,9 +8196,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/pelicans/",
     "gamblingEvent": {
-      "homeTeamOdds": 292,
-      "awayTeamOdds": 222,
-      "tieOdds": 385,
+      "homeTeamOdds": 298,
+      "awayTeamOdds": 217,
+      "tieOdds": 390,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_916583"
     },
     "iceRink": {
@@ -8310,9 +8310,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://elippu.net/saipa/53:610?affiliate=ADV",
     "gamblingEvent": {
-      "homeTeamOdds": 225,
-      "awayTeamOdds": 280,
-      "tieOdds": 395,
+      "homeTeamOdds": 224,
+      "awayTeamOdds": 282,
+      "tieOdds": 400,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_916582"
     },
     "iceRink": {
