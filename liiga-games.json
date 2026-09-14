@@ -8651,6 +8651,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/113?position=5",
+    "gamblingEvent": {
+      "homeTeamOdds": 255,
+      "awayTeamOdds": 235,
+      "tieOdds": 420,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_921057"
+    },
     "iceRink": {
       "id": 74,
       "name": "Kouvolan jäähalli",
