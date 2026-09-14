@@ -8424,9 +8424,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/hctps/",
     "gamblingEvent": {
-      "homeTeamOdds": 170,
-      "awayTeamOdds": 450,
-      "tieOdds": 415,
+      "homeTeamOdds": 167,
+      "awayTeamOdds": 465,
+      "tieOdds": 420,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_916585"
     },
     "iceRink": {
