@@ -8083,7 +8083,7 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/127?position=2",
     "gamblingEvent": {
-      "homeTeamOdds": 217,
+      "homeTeamOdds": 218,
       "awayTeamOdds": 300,
       "tieOdds": 400,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_916581"
@@ -8315,7 +8315,7 @@
     "gamblingEvent": {
       "homeTeamOdds": 222,
       "awayTeamOdds": 288,
-      "tieOdds": 400,
+      "tieOdds": 405,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_916582"
     },
     "iceRink": {
@@ -48849,7 +48849,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/karpat-lippuja/96763",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-kookoo-lippuja/1782718442",
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
@@ -51117,7 +51117,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/karpat-lippuja/96763",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-assat-lippuja/1957560728",
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
@@ -55329,7 +55329,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/karpat-lippuja/96763",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-ilves-lippuja/1627559765",
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
@@ -57921,7 +57921,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/karpat-lippuja/96763",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-lukko-lippuja/1116853757",
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
@@ -60837,7 +60837,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/karpat-lippuja/96763",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-hifk-lippuja/145386583",
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
@@ -62133,7 +62133,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/karpat-lippuja/96763",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-tps-lippuja/1084661843",
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
@@ -63861,7 +63861,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/karpat-lippuja/96763",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-jukurit-lippuja/1150816364",
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
