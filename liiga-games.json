@@ -8374,7 +8374,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/127?position=2",
+    "buyTicketsUrl": "https://kalpa.tmtickets.fi",
     "gamblingEvent": {
       "homeTeamOdds": 104,
       "awayTeamOdds": 4800,
@@ -8956,7 +8956,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://elippu.net/saipa/53:610?affiliate=ADV",
+    "buyTicketsUrl": "https://elippu.net/saipa",
     "gamblingEvent": {
       "homeTeamOdds": 1350,
       "awayTeamOdds": 1500,
@@ -9674,7 +9674,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-sport-lippuja/543963731",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/assat",
     "gamblingEvent": {
       "homeTeamOdds": 100,
       "awayTeamOdds": 4800,
