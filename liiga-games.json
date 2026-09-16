@@ -9790,9 +9790,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/113?position=5",
     "gamblingEvent": {
-      "homeTeamOdds": 264,
+      "homeTeamOdds": 265,
       "awayTeamOdds": 230,
-      "tieOdds": 420,
+      "tieOdds": 425,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_921057"
     },
     "iceRink": {
@@ -9904,9 +9904,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-ilves-lippuja/1234373811",
     "gamblingEvent": {
-      "homeTeamOdds": 244,
-      "awayTeamOdds": 260,
-      "tieOdds": 390,
+      "homeTeamOdds": 245,
+      "awayTeamOdds": 262,
+      "tieOdds": 395,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_921059"
     },
     "iceRink": {
@@ -10019,8 +10019,8 @@
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-jukurit-lippuja/1757684611",
     "gamblingEvent": {
       "homeTeamOdds": 155,
-      "awayTeamOdds": 525,
-      "tieOdds": 460,
+      "awayTeamOdds": 535,
+      "tieOdds": 465,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_921060"
     },
     "iceRink": {
