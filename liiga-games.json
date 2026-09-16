@@ -9790,7 +9790,7 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/113?position=5",
     "gamblingEvent": {
-      "homeTeamOdds": 265,
+      "homeTeamOdds": 268,
       "awayTeamOdds": 230,
       "tieOdds": 425,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_921057"
@@ -10018,9 +10018,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-jukurit-lippuja/1757684611",
     "gamblingEvent": {
-      "homeTeamOdds": 155,
-      "awayTeamOdds": 530,
-      "tieOdds": 460,
+      "homeTeamOdds": 154,
+      "awayTeamOdds": 550,
+      "tieOdds": 465,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_921060"
     },
     "iceRink": {
