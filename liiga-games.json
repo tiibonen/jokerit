@@ -11444,9 +11444,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/artist/jokerit-lippuja/973335",
     "gamblingEvent": {
-      "homeTeamOdds": 280,
-      "awayTeamOdds": 222,
-      "tieOdds": 420,
+      "homeTeamOdds": 288,
+      "awayTeamOdds": 217,
+      "tieOdds": 425,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_929170"
     },
     "iceRink": {
@@ -11779,6 +11779,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/133?position=6",
+    "gamblingEvent": {
+      "homeTeamOdds": 242,
+      "awayTeamOdds": 250,
+      "tieOdds": 415,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_929179"
+    },
     "iceRink": {
       "id": 74,
       "name": "Kouvolan jäähalli",
