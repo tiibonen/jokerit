@@ -11215,6 +11215,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/65?position=4",
+    "gamblingEvent": {
+      "homeTeamOdds": 161,
+      "awayTeamOdds": 475,
+      "tieOdds": 465,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_929175"
+    },
     "iceRink": {
       "id": 166,
       "name": "Rauman jäähalli / Äijänsuo Areena",
@@ -11323,6 +11329,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/hctps/",
+    "gamblingEvent": {
+      "homeTeamOdds": 268,
+      "awayTeamOdds": 244,
+      "tieOdds": 385,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_929173"
+    },
     "iceRink": {
       "id": 199,
       "name": "Turun Monitoimihalli Oy",
@@ -11432,9 +11444,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/artist/jokerit-lippuja/973335",
     "gamblingEvent": {
-      "homeTeamOdds": 278,
+      "homeTeamOdds": 280,
       "awayTeamOdds": 222,
-      "tieOdds": 415,
+      "tieOdds": 420,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_929170"
     },
     "iceRink": {
