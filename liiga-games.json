@@ -12433,6 +12433,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-k-espoo-lasten-lauantai-lippuja/1547527398",
+    "gamblingEvent": {
+      "homeTeamOdds": 232,
+      "awayTeamOdds": 278,
+      "tieOdds": 385,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_933207"
+    },
     "iceRink": {
       "id": 153,
       "name": "Porin jäähalli I",
@@ -51204,7 +51210,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://lukko.tmtickets.fi/",
+    "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/86?position=24",
     "iceRink": {
       "id": 166,
       "name": "Rauman jäähalli / Äijänsuo Areena",
@@ -52608,7 +52614,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://lukko.tmtickets.fi/",
+    "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/87?position=25",
     "iceRink": {
       "id": 166,
       "name": "Rauman jäähalli / Äijänsuo Areena",
