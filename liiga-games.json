@@ -11216,9 +11216,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/65?position=4",
     "gamblingEvent": {
-      "homeTeamOdds": 160,
-      "awayTeamOdds": 485,
-      "tieOdds": 465,
+      "homeTeamOdds": 157,
+      "awayTeamOdds": 500,
+      "tieOdds": 475,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_929175"
     },
     "iceRink": {
@@ -11330,8 +11330,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/hctps/",
     "gamblingEvent": {
-      "homeTeamOdds": 260,
-      "awayTeamOdds": 250,
+      "homeTeamOdds": 262,
+      "awayTeamOdds": 247,
       "tieOdds": 390,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_929173"
     },
@@ -11444,8 +11444,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/artist/jokerit-lippuja/973335",
     "gamblingEvent": {
-      "homeTeamOdds": 280,
-      "awayTeamOdds": 222,
+      "homeTeamOdds": 275,
+      "awayTeamOdds": 224,
       "tieOdds": 425,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_929170"
     },
