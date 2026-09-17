@@ -11331,7 +11331,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/65?position=4",
+    "buyTicketsUrl": "https://lukko.tmtickets.fi/",
     "gamblingEvent": {
       "homeTeamOdds": 4100,
       "awayTeamOdds": 108,
