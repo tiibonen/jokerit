@@ -12090,6 +12090,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/jukurit/",
+    "gamblingEvent": {
+      "homeTeamOdds": 270,
+      "awayTeamOdds": 245,
+      "tieOdds": 380,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_929171"
+    },
     "iceRink": {
       "id": 111,
       "name": "Mikkelin jäähalli",
@@ -12199,9 +12205,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/128?position=3",
     "gamblingEvent": {
-      "homeTeamOdds": 248,
-      "awayTeamOdds": 254,
-      "tieOdds": 390,
+      "homeTeamOdds": 250,
+      "awayTeamOdds": 255,
+      "tieOdds": 395,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_929178"
     },
     "iceRink": {
@@ -12426,6 +12432,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-lukko-lippuja/1270487184",
+    "gamblingEvent": {
+      "homeTeamOdds": 218,
+      "awayTeamOdds": 290,
+      "tieOdds": 400,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_933201"
+    },
     "iceRink": {
       "id": 21,
       "name": "Helsingin jäähalli I",
@@ -12648,6 +12660,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-sport-perhepeli-lippuja/1614762252",
+    "gamblingEvent": {
+      "homeTeamOdds": 159,
+      "awayTeamOdds": 475,
+      "tieOdds": 465,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_933204"
+    },
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
@@ -13086,6 +13104,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/artist/jokerit-lippuja/973335",
+    "gamblingEvent": {
+      "homeTeamOdds": 325,
+      "awayTeamOdds": 200,
+      "tieOdds": 405,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_933202"
+    },
     "iceRink": {
       "id": 17,
       "name": "Helsinki Areena",
