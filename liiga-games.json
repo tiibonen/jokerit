@@ -12502,19 +12502,43 @@
     "id": 2701311,
     "season": 2027,
     "start": "2026-09-18T16:30:00Z",
-    "end": "2026-09-18T19:30:00Z",
+    "end": "2026-09-18T18:59:47Z",
     "homeTeam": {
       "teamId": "461765763:kookoo",
       "teamPlaceholder": null,
       "teamName": "KooKoo",
       "goals": 0,
       "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 2,
+      "goalEvents": [
+        {
+          "scorerPlayerId": 0,
+          "scorerPlayer": null,
+          "logTime": "2026-09-18T15:20:11Z",
+          "winningGoal": false,
+          "gameTime": 2456,
+          "period": 3,
+          "eventId": 130,
+          "goalTypes": [
+            "VT0"
+          ],
+          "assistantPlayerIds": [],
+          "assistantPlayers": [],
+          "plusPlayerIds": "",
+          "minusPlayerIds": "",
+          "homeTeamScore": 0,
+          "awayTeamScore": 3,
+          "assistsSoFarInSeason": {},
+          "goalsSoFarInSeason": 0,
+          "videoClipUrl": null,
+          "videoClipPlaylistUrl": null,
+          "videoThumbnailUrl": null
+        }
+      ],
+      "powerplayInstances": 4,
       "powerplayGoals": 0,
       "shortHandedInstances": 2,
       "shortHandedGoals": 0,
-      "expectedGoals": 1.17,
+      "expectedGoals": 2.86,
       "ranking": 17,
       "gameStartDateTime": "2026-09-18T19:30:00+03:00",
       "logos": {
@@ -12528,7 +12552,7 @@
       "teamId": "933686567:saipa",
       "teamPlaceholder": null,
       "teamName": "SaiPa",
-      "goals": 3,
+      "goals": 4,
       "timeOut": null,
       "goalEvents": [
         {
@@ -12539,7 +12563,7 @@
             "lastName": "Fridrich"
           },
           "logTime": "2026-09-18T13:46:35Z",
-          "winningGoal": false,
+          "winningGoal": true,
           "gameTime": 551,
           "period": 1,
           "eventId": 36,
@@ -12651,13 +12675,48 @@
           "videoClipUrl": "https://videos.liiga.fi/videos/dee611bb-5e35-4aeb-aff0-0a5864add726/playlist.m3u8",
           "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/dee611bb-5e35-4aeb-aff0-0a5864add726/playlist.m3u8",
           "videoThumbnailUrl": "https://videos.liiga.fi/videos/dee611bb-5e35-4aeb-aff0-0a5864add726/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 29937251,
+          "scorerPlayer": {
+            "playerId": 29937251,
+            "firstName": "Patrik",
+            "lastName": "Siikanen"
+          },
+          "logTime": "2026-09-18T15:39:42Z",
+          "winningGoal": false,
+          "gameTime": 3062,
+          "period": 3,
+          "eventId": 169,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            30434484
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 30434484,
+              "firstName": "Mikko",
+              "lastName": "Perttu"
+            }
+          ],
+          "plusPlayerIds": "70 75 34 2 7",
+          "minusPlayerIds": "77 7 71 24 82",
+          "homeTeamScore": 0,
+          "awayTeamScore": 4,
+          "assistsSoFarInSeason": {
+            "30434484": 2
+          },
+          "goalsSoFarInSeason": 2,
+          "videoClipUrl": "https://videos.liiga.fi/videos/8fc7a852-c86e-4638-a742-9c9854003066/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/8fc7a852-c86e-4638-a742-9c9854003066/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/8fc7a852-c86e-4638-a742-9c9854003066/thumbnail.jpeg"
         }
       ],
       "powerplayInstances": 2,
       "powerplayGoals": 0,
-      "shortHandedInstances": 2,
+      "shortHandedInstances": 4,
       "shortHandedGoals": 1,
-      "expectedGoals": 1.99,
+      "expectedGoals": 3.35,
       "ranking": 10,
       "gameStartDateTime": "2026-09-18T19:30:00+03:00",
       "logos": {
@@ -12687,7 +12746,7 @@
       {
         "index": 3,
         "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
+        "awayTeamGoals": 1,
         "category": "NORMAL",
         "startTime": 2400,
         "endTime": 3600
@@ -12709,19 +12768,19 @@
         "endTime": 3900
       }
     ],
-    "finishedType": "ACTIVE_OR_NOT_STARTED",
+    "finishedType": "ENDED_DURING_REGULAR_GAME_TIME",
     "started": true,
-    "ended": false,
-    "gameTime": 2400,
-    "spectators": 0,
+    "ended": true,
+    "gameTime": 3600,
+    "spectators": 4144,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/133?position=6",
     "gamblingEvent": {
-      "homeTeamOdds": 3700,
-      "awayTeamOdds": 102,
-      "tieOdds": 1750,
+      "homeTeamOdds": 4800,
+      "awayTeamOdds": 100,
+      "tieOdds": 4500,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_929179"
     },
     "iceRink": {
@@ -12733,7 +12792,7 @@
       "zip": "45100",
       "city": "KOUVOLA"
     },
-    "currentPeriod": 2,
+    "currentPeriod": 3,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 3
@@ -13001,7 +13060,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-09-19T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -13203,7 +13262,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-09-19T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -13331,7 +13390,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-09-19T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -13883,7 +13942,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-09-23T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -13971,7 +14030,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-09-23T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -14079,7 +14138,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-09-23T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -14099,7 +14158,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-09-23T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -14531,7 +14590,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-09-25T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -14747,7 +14806,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-09-25T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -15051,7 +15110,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-09-26T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -15159,7 +15218,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-09-26T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -15483,7 +15542,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-09-26T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -15611,7 +15670,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-09-26T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -16023,7 +16082,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-09-30T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -16151,7 +16210,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-09-30T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -16455,7 +16514,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-10-02T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -16475,7 +16534,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-10-02T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -16563,7 +16622,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-10-02T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -17015,7 +17074,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-10-03T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -17123,7 +17182,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-10-03T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -17427,7 +17486,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-10-03T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -17643,7 +17702,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-10-03T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -17771,7 +17830,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-10-06T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -18075,7 +18134,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-10-07T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -18183,7 +18242,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-10-08T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -18399,7 +18458,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-10-09T17:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -18851,7 +18910,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-10-09T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -19047,7 +19106,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-10-09T19:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -19607,7 +19666,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-10-10T18:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -19695,7 +19754,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-10-13T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -20019,7 +20078,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-10-15T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -20127,7 +20186,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-10-15T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -20363,7 +20422,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-10-16T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -20687,7 +20746,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-10-16T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -20991,7 +21050,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-10-17T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -21227,7 +21286,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-10-17T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -21315,7 +21374,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-10-17T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -22071,7 +22130,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-10-20T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -22179,7 +22238,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-10-21T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -22523,7 +22582,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-10-23T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -22719,7 +22778,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-10-23T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -22739,7 +22798,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-10-23T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -22935,7 +22994,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-10-23T19:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -23387,7 +23446,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-10-24T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -23691,7 +23750,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-10-24T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -23711,7 +23770,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-10-24T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -23799,7 +23858,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-10-27T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -23819,7 +23878,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-10-27T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -24123,7 +24182,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-10-28T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -24467,7 +24526,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-10-28T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -24683,7 +24742,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-10-30T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -24879,7 +24938,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-10-30T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -25311,7 +25370,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-10-30T19:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -25439,7 +25498,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-10-31T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -25871,7 +25930,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-10-31T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -25959,7 +26018,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-10-31T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -26195,7 +26254,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-11-10T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -26607,7 +26666,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-11-11T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -26627,7 +26686,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-11-11T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -26735,7 +26794,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-11-11T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -27039,7 +27098,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-11-13T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -27059,7 +27118,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-11-13T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -27255,7 +27314,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-11-13T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -28011,7 +28070,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-11-14T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -28247,7 +28306,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-11-15T15:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -28355,7 +28414,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-11-17T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -28463,7 +28522,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-11-18T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -28659,7 +28718,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-11-18T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -28767,7 +28826,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-11-18T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -29111,7 +29170,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-11-19T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -29631,7 +29690,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-11-20T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -29847,7 +29906,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-11-21T14:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -29955,7 +30014,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-11-21T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -30171,7 +30230,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-11-21T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -30603,7 +30662,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-11-24T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -30711,7 +30770,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-11-24T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -30731,7 +30790,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-11-24T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -31251,7 +31310,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-11-26T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -31359,7 +31418,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-11-27T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -31703,7 +31762,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-11-27T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -31811,7 +31870,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-11-27T19:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -32027,7 +32086,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-11-28T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -32223,7 +32282,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-11-28T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -32351,7 +32410,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-11-28T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -32871,7 +32930,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-12-02T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -32979,7 +33038,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-12-02T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -32999,7 +33058,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-12-02T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -33323,7 +33382,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-12-02T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -33539,7 +33598,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-12-04T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -33627,7 +33686,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-12-04T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -33647,7 +33706,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-12-04T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -34295,7 +34354,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-12-05T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -34491,7 +34550,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-12-05T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -34727,7 +34786,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-12-05T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -34923,7 +34982,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-12-08T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -34943,7 +35002,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-12-08T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -35051,7 +35110,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-12-08T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -35463,7 +35522,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-12-09T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -35571,7 +35630,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-12-09T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -36111,7 +36170,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-12-11T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -36131,7 +36190,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-12-11T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -36435,7 +36494,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-12-11T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -36651,7 +36710,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-12-12T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -36759,7 +36818,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-12-12T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -37299,7 +37358,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-12-15T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -37427,7 +37486,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-12-15T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -37623,7 +37682,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-12-16T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -38075,7 +38134,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-12-17T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -38487,7 +38546,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-12-18T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -38723,7 +38782,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-12-18T19:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -38919,7 +38978,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-12-19T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -39243,7 +39302,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-12-19T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -39371,7 +39430,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-12-19T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -39479,7 +39538,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-12-20T15:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -39567,7 +39626,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-12-21T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -39695,7 +39754,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-12-26T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -39783,7 +39842,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-12-26T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -39891,7 +39950,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-12-26T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -40215,7 +40274,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-12-26T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -40539,7 +40598,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-12-28T17:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -40883,7 +40942,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-12-28T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -40971,7 +41030,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-12-28T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -41315,7 +41374,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2026-12-29T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -41423,7 +41482,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2026-12-29T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -41531,7 +41590,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2026-12-30T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -41835,7 +41894,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2026-12-30T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -42267,7 +42326,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-01-02T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -42719,7 +42778,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-01-02T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -42827,7 +42886,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-01-02T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -42935,7 +42994,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-01-05T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -43131,7 +43190,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-01-05T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -43151,7 +43210,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-01-05T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -43259,7 +43318,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-01-05T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -43691,7 +43750,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-01-06T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -43887,7 +43946,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-01-07T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -43907,7 +43966,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-01-07T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -44447,7 +44506,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-01-08T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -44663,7 +44722,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-01-09T15:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -45075,7 +45134,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-01-09T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -45183,7 +45242,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-01-09T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -45291,7 +45350,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-01-09T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -45939,7 +45998,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-01-13T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -46067,7 +46126,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-01-13T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -46175,7 +46234,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-01-13T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -46263,7 +46322,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-01-14T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -46607,7 +46666,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-01-15T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -46911,7 +46970,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-01-15T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -47019,7 +47078,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-01-15T19:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -47343,7 +47402,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-01-16T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -47451,7 +47510,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-01-16T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -47687,7 +47746,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-01-19T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -47903,7 +47962,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-01-19T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -47991,7 +48050,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-01-19T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -48119,7 +48178,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-01-19T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -48335,7 +48394,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-01-20T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -48551,7 +48610,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-01-22T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -48639,7 +48698,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-01-22T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -48983,7 +49042,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-01-22T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -49307,7 +49366,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-01-23T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -49503,7 +49562,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-01-23T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -49739,7 +49798,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-01-23T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -49955,7 +50014,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-01-26T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -50151,7 +50210,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-01-26T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -50171,7 +50230,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-01-26T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -50279,7 +50338,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-01-26T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -50691,7 +50750,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-01-28T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -51035,7 +51094,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-01-29T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -51123,7 +51182,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-01-29T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -51447,7 +51506,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-01-29T19:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -51899,7 +51958,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-01-30T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -52331,7 +52390,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-02-01T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -52743,7 +52802,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-02-02T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -52763,7 +52822,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-02-02T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -52871,7 +52930,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-02-03T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -53067,7 +53126,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-02-03T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -53519,7 +53578,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-02-05T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -53715,7 +53774,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-02-05T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -53735,7 +53794,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-02-05T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -54039,7 +54098,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-02-06T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -54363,7 +54422,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-02-06T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -54383,7 +54442,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-02-06T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -54707,7 +54766,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-02-07T15:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -55119,7 +55178,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-02-16T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -55139,7 +55198,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-02-16T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -55443,7 +55502,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-02-17T17:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -55463,7 +55522,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-02-17T17:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -55679,7 +55738,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-02-18T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -55983,7 +56042,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-02-19T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -56307,7 +56366,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-02-19T19:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -56435,7 +56494,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-02-19T19:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -56631,7 +56690,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-02-20T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -56739,7 +56798,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-02-20T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -56867,7 +56926,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-02-20T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -57171,7 +57230,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-02-20T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -57603,7 +57662,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-02-23T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -57819,7 +57878,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-02-24T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -58055,7 +58114,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-02-24T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -58163,7 +58222,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-02-25T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -58271,7 +58330,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-02-26T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -58595,7 +58654,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-02-26T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -58811,7 +58870,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-02-26T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -59135,7 +59194,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-02-27T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -59331,7 +59390,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-02-27T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -59459,7 +59518,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-02-27T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -59547,7 +59606,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-02-27T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -59891,7 +59950,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-03-02T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -60215,7 +60274,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-03-03T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -60323,7 +60382,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-03-03T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -60647,7 +60706,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-03-04T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -60863,7 +60922,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-03-05T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -61167,7 +61226,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-03-05T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -61511,7 +61570,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-03-06T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -61619,7 +61678,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-03-06T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -61943,7 +62002,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-03-06T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -62031,7 +62090,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-03-07T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -62159,7 +62218,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-03-09T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -62267,7 +62326,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-03-09T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -62463,7 +62522,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-03-09T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -62571,7 +62630,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-03-10T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -62807,7 +62866,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-03-10T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -63327,7 +63386,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-03-12T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -63563,7 +63622,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-03-12T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -63651,7 +63710,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-03-12T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -63671,7 +63730,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-03-12T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -64083,7 +64142,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-03-13T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -64319,7 +64378,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-03-13T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -64427,7 +64486,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-03-16T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -64515,7 +64574,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-03-16T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -64643,7 +64702,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-03-16T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -64947,7 +65006,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-03-16T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -65811,7 +65870,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-03-20T14:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -66027,7 +66086,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-03-20T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -66243,7 +66302,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-03-20T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -66351,7 +66410,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-03-20T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
@@ -66695,7 +66754,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 10,
+      "ranking": 7,
       "gameStartDateTime": "2027-03-23T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -66783,7 +66842,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 9,
+      "ranking": 10,
       "gameStartDateTime": "2027-03-23T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F1183427f2aed401184bc2f96bb1a3303",
@@ -66891,7 +66950,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 8,
+      "ranking": 9,
       "gameStartDateTime": "2027-03-23T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
@@ -66911,7 +66970,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 7,
+      "ranking": 8,
       "gameStartDateTime": "2027-03-23T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
