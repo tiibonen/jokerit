@@ -12319,9 +12319,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/133?position=6",
     "gamblingEvent": {
-      "homeTeamOdds": 248,
-      "awayTeamOdds": 245,
-      "tieOdds": 415,
+      "homeTeamOdds": 250,
+      "awayTeamOdds": 247,
+      "tieOdds": 420,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_929179"
     },
     "iceRink": {
