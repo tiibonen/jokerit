@@ -12477,7 +12477,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/128?position=3",
+    "buyTicketsUrl": "https://kalpa.tmtickets.fi",
     "gamblingEvent": {
       "homeTeamOdds": 4500,
       "awayTeamOdds": 111,
@@ -12776,7 +12776,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/133?position=6",
+    "buyTicketsUrl": "https://kookoo.tmtickets.fi/",
     "gamblingEvent": {
       "homeTeamOdds": 4800,
       "awayTeamOdds": 100,
@@ -13233,6 +13233,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/pelicans/",
+    "gamblingEvent": {
+      "homeTeamOdds": 298,
+      "awayTeamOdds": 212,
+      "tieOdds": 405,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_933203"
+    },
     "iceRink": {
       "id": 85,
       "name": "Lahden jäähalli",
@@ -13564,9 +13570,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/artist/jokerit-lippuja/973335",
     "gamblingEvent": {
-      "homeTeamOdds": 325,
-      "awayTeamOdds": 200,
-      "tieOdds": 405,
+      "homeTeamOdds": 340,
+      "awayTeamOdds": 195,
+      "tieOdds": 410,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_933202"
     },
     "iceRink": {
