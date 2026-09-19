@@ -14365,19 +14365,19 @@
             "YV"
           ],
           "assistantPlayerIds": [
-            60374697,
-            40050351
+            29783858,
+            60374697
           ],
           "assistantPlayers": [
+            {
+              "playerId": 29783858,
+              "firstName": "Kasper",
+              "lastName": "Björkqvist"
+            },
             {
               "playerId": 60374697,
               "firstName": "Alexandr",
               "lastName": "Kim"
-            },
-            {
-              "playerId": 40050351,
-              "firstName": "Sakari",
-              "lastName": "Kostilainen"
             }
           ],
           "plusPlayerIds": null,
@@ -14385,7 +14385,7 @@
           "homeTeamScore": 2,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
-            "40050351": 1,
+            "29783858": 1,
             "60374697": 1
           },
           "goalsSoFarInSeason": 2,
