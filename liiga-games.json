@@ -12893,7 +12893,7 @@
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-lukko-lippuja/1270487184",
     "gamblingEvent": {
       "homeTeamOdds": 222,
-      "awayTeamOdds": 288,
+      "awayTeamOdds": 286,
       "tieOdds": 405,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_933201"
     },
@@ -13006,8 +13006,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://liveday.fi/stores/2vjYW5qER9OnYBi0Ds6U3bqeh2l",
     "gamblingEvent": {
-      "homeTeamOdds": 244,
-      "awayTeamOdds": 270,
+      "homeTeamOdds": 242,
+      "awayTeamOdds": 268,
       "tieOdds": 380,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_933199"
     },
@@ -13350,7 +13350,7 @@
     "gamblingEvent": {
       "homeTeamOdds": 170,
       "awayTeamOdds": 420,
-      "tieOdds": 460,
+      "tieOdds": 450,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_933200"
     },
     "iceRink": {
