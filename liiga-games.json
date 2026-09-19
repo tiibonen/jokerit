@@ -12892,9 +12892,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-lukko-lippuja/1270487184",
     "gamblingEvent": {
-      "homeTeamOdds": 220,
-      "awayTeamOdds": 285,
-      "tieOdds": 400,
+      "homeTeamOdds": 222,
+      "awayTeamOdds": 288,
+      "tieOdds": 405,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_933201"
     },
     "iceRink": {
