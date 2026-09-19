@@ -12801,6 +12801,7 @@
     "id": 2701316,
     "season": 2027,
     "start": "2026-09-19T12:00:00Z",
+    "end": "2026-09-19T15:00:00Z",
     "homeTeam": {
       "teamId": "168761288:hifk",
       "teamPlaceholder": null,
@@ -12812,6 +12813,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.017,
       "ranking": 14,
       "gameStartDateTime": "2026-09-19T15:00:00+03:00",
       "logos": {
@@ -12832,6 +12834,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.14,
       "ranking": 12,
       "gameStartDateTime": "2026-09-19T15:00:00+03:00",
       "logos": {
@@ -12884,9 +12887,10 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 166,
+    "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
@@ -12906,7 +12910,7 @@
       "zip": "00250",
       "city": "HELSINKI"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 1,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 3
@@ -13236,7 +13240,7 @@
     "gamblingEvent": {
       "homeTeamOdds": 310,
       "awayTeamOdds": 208,
-      "tieOdds": 405,
+      "tieOdds": 410,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_933203"
     },
     "iceRink": {
