@@ -13006,9 +13006,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://liveday.fi/stores/2vjYW5qER9OnYBi0Ds6U3bqeh2l",
     "gamblingEvent": {
-      "homeTeamOdds": 242,
-      "awayTeamOdds": 268,
-      "tieOdds": 375,
+      "homeTeamOdds": 244,
+      "awayTeamOdds": 270,
+      "tieOdds": 380,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_933199"
     },
     "iceRink": {
@@ -13120,9 +13120,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-sport-perhepeli-lippuja/1614762252",
     "gamblingEvent": {
-      "homeTeamOdds": 159,
-      "awayTeamOdds": 475,
-      "tieOdds": 465,
+      "homeTeamOdds": 160,
+      "awayTeamOdds": 485,
+      "tieOdds": 475,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_933204"
     },
     "iceRink": {
@@ -13234,9 +13234,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/pelicans/",
     "gamblingEvent": {
-      "homeTeamOdds": 298,
-      "awayTeamOdds": 212,
-      "tieOdds": 405,
+      "homeTeamOdds": 300,
+      "awayTeamOdds": 214,
+      "tieOdds": 410,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_933203"
     },
     "iceRink": {
@@ -13456,9 +13456,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-k-espoo-lasten-lauantai-lippuja/1547527398",
     "gamblingEvent": {
-      "homeTeamOdds": 232,
-      "awayTeamOdds": 278,
-      "tieOdds": 385,
+      "homeTeamOdds": 234,
+      "awayTeamOdds": 280,
+      "tieOdds": 390,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_933207"
     },
     "iceRink": {
@@ -13572,7 +13572,7 @@
     "gamblingEvent": {
       "homeTeamOdds": 340,
       "awayTeamOdds": 195,
-      "tieOdds": 410,
+      "tieOdds": 415,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_933202"
     },
     "iceRink": {
