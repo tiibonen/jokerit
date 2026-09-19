@@ -12806,7 +12806,7 @@
       "teamId": "168761288:hifk",
       "teamPlaceholder": null,
       "teamName": "HIFK",
-      "goals": 1,
+      "goals": 2,
       "timeOut": null,
       "goalEvents": [
         {
@@ -12852,13 +12852,57 @@
           "videoClipUrl": "https://videos.liiga.fi/videos/154afc4b-7c20-4a8e-9b92-1ad714331d6e/playlist.m3u8",
           "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/154afc4b-7c20-4a8e-9b92-1ad714331d6e/playlist.m3u8",
           "videoThumbnailUrl": "https://videos.liiga.fi/videos/154afc4b-7c20-4a8e-9b92-1ad714331d6e/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 32701115,
+          "scorerPlayer": {
+            "playerId": 32701115,
+            "firstName": "Niko",
+            "lastName": "Huuhtanen"
+          },
+          "logTime": "2026-09-19T10:15:31Z",
+          "winningGoal": false,
+          "gameTime": 1654,
+          "period": 2,
+          "eventId": 120,
+          "goalTypes": [
+            "YV"
+          ],
+          "assistantPlayerIds": [
+            32675788,
+            31519609
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 32675788,
+              "firstName": "Daniel",
+              "lastName": "Mäkiaho"
+            },
+            {
+              "playerId": 31519609,
+              "firstName": "Kasper",
+              "lastName": "Puutio"
+            }
+          ],
+          "plusPlayerIds": null,
+          "minusPlayerIds": null,
+          "homeTeamScore": 2,
+          "awayTeamScore": 0,
+          "assistsSoFarInSeason": {
+            "31519609": 4,
+            "32675788": 3
+          },
+          "goalsSoFarInSeason": 3,
+          "videoClipUrl": "https://videos.liiga.fi/videos/7de5a3dd-1111-48bd-ae1f-bf2aafce72df/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/7de5a3dd-1111-48bd-ae1f-bf2aafce72df/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/7de5a3dd-1111-48bd-ae1f-bf2aafce72df/thumbnail.jpeg"
         }
       ],
-      "powerplayInstances": 2,
-      "powerplayGoals": 1,
-      "shortHandedInstances": 2,
+      "powerplayInstances": 4,
+      "powerplayGoals": 2,
+      "shortHandedInstances": 4,
       "shortHandedGoals": 0,
-      "expectedGoals": 0.41,
+      "expectedGoals": 0.62,
       "ranking": 14,
       "gameStartDateTime": "2026-09-19T15:00:00+03:00",
       "logos": {
@@ -12872,14 +12916,59 @@
       "teamId": "624554857:lukko",
       "teamPlaceholder": null,
       "teamName": "Lukko",
-      "goals": 0,
+      "goals": 1,
       "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 2,
-      "powerplayGoals": 0,
-      "shortHandedInstances": 2,
+      "goalEvents": [
+        {
+          "scorerPlayerId": 25126574,
+          "scorerPlayer": {
+            "playerId": 25126574,
+            "firstName": "Mikael",
+            "lastName": "Ruohomaa"
+          },
+          "logTime": "2026-09-19T10:19:58Z",
+          "winningGoal": false,
+          "gameTime": 1807,
+          "period": 2,
+          "eventId": 130,
+          "goalTypes": [
+            "YV"
+          ],
+          "assistantPlayerIds": [
+            60960461,
+            60351426
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 60960461,
+              "firstName": "Alex",
+              "lastName": "Beaucage"
+            },
+            {
+              "playerId": 60351426,
+              "firstName": "Jakob",
+              "lastName": "Stenqvist"
+            }
+          ],
+          "plusPlayerIds": null,
+          "minusPlayerIds": null,
+          "homeTeamScore": 2,
+          "awayTeamScore": 1,
+          "assistsSoFarInSeason": {
+            "60351426": 3,
+            "60960461": 3
+          },
+          "goalsSoFarInSeason": 1,
+          "videoClipUrl": "https://videos.liiga.fi/videos/7aefbd21-0721-4dd2-985c-2600975d2970/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/7aefbd21-0721-4dd2-985c-2600975d2970/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/7aefbd21-0721-4dd2-985c-2600975d2970/thumbnail.jpeg"
+        }
+      ],
+      "powerplayInstances": 4,
+      "powerplayGoals": 1,
+      "shortHandedInstances": 3,
       "shortHandedGoals": 0,
-      "expectedGoals": 0.74,
+      "expectedGoals": 2.22,
       "ranking": 12,
       "gameStartDateTime": "2026-09-19T15:00:00+03:00",
       "logos": {
@@ -12900,8 +12989,8 @@
       },
       {
         "index": 2,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
+        "homeTeamGoals": 1,
+        "awayTeamGoals": 1,
         "category": "NORMAL",
         "startTime": 1200,
         "endTime": 2400
@@ -12934,16 +13023,16 @@
     "finishedType": "ACTIVE_OR_NOT_STARTED",
     "started": true,
     "ended": false,
-    "gameTime": 1488,
-    "spectators": 0,
+    "gameTime": 2807,
+    "spectators": 7141,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-lukko-lippuja/1270487184",
     "gamblingEvent": {
       "homeTeamOdds": 158,
-      "awayTeamOdds": 485,
-      "tieOdds": 450,
+      "awayTeamOdds": 475,
+      "tieOdds": 460,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_933201"
     },
     "iceRink": {
@@ -12955,7 +13044,7 @@
       "zip": "00250",
       "city": "HELSINKI"
     },
-    "currentPeriod": 2,
+    "currentPeriod": 3,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 3
@@ -12964,6 +13053,7 @@
     "id": 2701312,
     "season": 2027,
     "start": "2026-09-19T14:00:00Z",
+    "end": "2026-09-19T17:00:00Z",
     "homeTeam": {
       "teamId": "55786244:hpk",
       "teamPlaceholder": null,
@@ -12971,10 +13061,11 @@
       "goals": 0,
       "timeOut": null,
       "goalEvents": [],
-      "powerplayInstances": 0,
+      "powerplayInstances": 2,
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.13,
       "ranking": 15,
       "gameStartDateTime": "2026-09-19T17:00:00+03:00",
       "logos": {
@@ -12993,8 +13084,9 @@
       "goalEvents": [],
       "powerplayInstances": 0,
       "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "shortHandedInstances": 2,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.39,
       "ranking": 5,
       "gameStartDateTime": "2026-09-19T17:00:00+03:00",
       "logos": {
@@ -13047,9 +13139,10 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 258,
+    "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
@@ -13069,7 +13162,7 @@
       "zip": "13130",
       "city": "HÄMEENLINNA"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 1,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 3
@@ -13078,6 +13171,7 @@
     "id": 2701313,
     "season": 2027,
     "start": "2026-09-19T14:00:00Z",
+    "end": "2026-09-19T17:00:00Z",
     "homeTeam": {
       "teamId": "495643563:kärpät",
       "teamPlaceholder": null,
@@ -13089,6 +13183,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.25,
       "ranking": 11,
       "gameStartDateTime": "2026-09-19T17:00:00+03:00",
       "logos": {
@@ -13109,6 +13204,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.004,
       "ranking": 8,
       "gameStartDateTime": "2026-09-19T17:00:00+03:00",
       "logos": {
@@ -13161,9 +13257,10 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 221,
+    "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
@@ -13183,7 +13280,7 @@
       "zip": "90100",
       "city": "OULU"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 1,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 3
@@ -13192,17 +13289,62 @@
     "id": 2701314,
     "season": 2027,
     "start": "2026-09-19T14:00:00Z",
+    "end": "2026-09-19T17:00:00Z",
     "homeTeam": {
       "teamId": "875886777:pelicans",
       "teamPlaceholder": null,
       "teamName": "Pelicans",
-      "goals": 0,
+      "goals": 1,
       "timeOut": null,
-      "goalEvents": [],
+      "goalEvents": [
+        {
+          "scorerPlayerId": 60744044,
+          "scorerPlayer": {
+            "playerId": 60744044,
+            "firstName": "Carl-Johan",
+            "lastName": "Lerby"
+          },
+          "logTime": "2026-09-19T11:07:14Z",
+          "winningGoal": false,
+          "gameTime": 27,
+          "period": 1,
+          "eventId": 11,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            60904682,
+            60580517
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 60904682,
+              "firstName": "Hampus",
+              "lastName": "Falk"
+            },
+            {
+              "playerId": 60580517,
+              "firstName": "Oskars",
+              "lastName": "Batna"
+            }
+          ],
+          "plusPlayerIds": "",
+          "minusPlayerIds": "",
+          "homeTeamScore": 1,
+          "awayTeamScore": 0,
+          "assistsSoFarInSeason": {
+            "60580517": 2,
+            "60904682": 1
+          },
+          "goalsSoFarInSeason": 1,
+          "videoClipUrl": null,
+          "videoClipPlaylistUrl": null,
+          "videoThumbnailUrl": null
+        }
+      ],
       "powerplayInstances": 0,
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0,
       "ranking": 6,
       "gameStartDateTime": "2026-09-19T17:00:00+03:00",
       "logos": {
@@ -13223,6 +13365,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0,
       "ranking": 2,
       "gameStartDateTime": "2026-09-19T17:00:00+03:00",
       "logos": {
@@ -13235,7 +13378,7 @@
     "periods": [
       {
         "index": 1,
-        "homeTeamGoals": 0,
+        "homeTeamGoals": 1,
         "awayTeamGoals": 0,
         "category": "NORMAL",
         "startTime": 0,
@@ -13275,9 +13418,10 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 34,
+    "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
@@ -13297,7 +13441,7 @@
       "zip": "15110",
       "city": "LAHTI"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 1,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 3
@@ -13306,6 +13450,7 @@
     "id": 2701315,
     "season": 2027,
     "start": "2026-09-19T14:00:00Z",
+    "end": "2026-09-19T17:00:00Z",
     "homeTeam": {
       "teamId": "933686567:saipa",
       "teamPlaceholder": null,
@@ -13317,6 +13462,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.37,
       "ranking": 7,
       "gameStartDateTime": "2026-09-19T17:00:00+03:00",
       "logos": {
@@ -13337,6 +13483,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.2,
       "ranking": 17,
       "gameStartDateTime": "2026-09-19T17:00:00+03:00",
       "logos": {
@@ -13389,9 +13536,10 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 192,
+    "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
@@ -13411,7 +13559,7 @@
       "zip": "53200",
       "city": "LAPPEENRANTA"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 1,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 3
@@ -13420,6 +13568,7 @@
     "id": 2701317,
     "season": 2027,
     "start": "2026-09-19T14:00:00Z",
+    "end": "2026-09-19T17:00:00Z",
     "homeTeam": {
       "teamId": "679171680:ässät",
       "teamPlaceholder": null,
@@ -13429,8 +13578,9 @@
       "goalEvents": [],
       "powerplayInstances": 0,
       "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "shortHandedInstances": 1,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.045,
       "ranking": 4,
       "gameStartDateTime": "2026-09-19T17:00:00+03:00",
       "logos": {
@@ -13447,10 +13597,11 @@
       "goals": 0,
       "timeOut": null,
       "goalEvents": [],
-      "powerplayInstances": 0,
+      "powerplayInstances": 1,
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.32,
       "ranking": 9,
       "gameStartDateTime": "2026-09-19T17:00:00+03:00",
       "logos": {
@@ -13503,9 +13654,10 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 174,
+    "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
@@ -13525,7 +13677,7 @@
       "zip": "28130",
       "city": "PORI"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 1,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 3
@@ -13534,6 +13686,7 @@
     "id": 2701318,
     "season": 2027,
     "start": "2026-09-19T14:00:00Z",
+    "end": "2026-09-19T17:00:00Z",
     "homeTeam": {
       "teamId": "238306801:jokerit",
       "teamPlaceholder": null,
@@ -13545,6 +13698,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.23,
       "ranking": 16,
       "gameStartDateTime": "2026-09-19T17:00:00+03:00",
       "logos": {
@@ -13558,13 +13712,99 @@
       "teamId": "362185137:tappara",
       "teamPlaceholder": null,
       "teamName": "Tappara",
-      "goals": 0,
+      "goals": 2,
       "timeOut": null,
-      "goalEvents": [],
+      "goalEvents": [
+        {
+          "scorerPlayerId": 24501132,
+          "scorerPlayer": {
+            "playerId": 24501132,
+            "firstName": "Jyrki",
+            "lastName": "Jokipakka"
+          },
+          "logTime": "2026-09-19T11:05:03Z",
+          "winningGoal": false,
+          "gameTime": 155,
+          "period": 1,
+          "eventId": 20,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            21468906,
+            31574013
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 21468906,
+              "firstName": "Henrik",
+              "lastName": "Haapala"
+            },
+            {
+              "playerId": 31574013,
+              "firstName": "Kasper",
+              "lastName": "Simontaival"
+            }
+          ],
+          "plusPlayerIds": "63 23 11 89 25",
+          "minusPlayerIds": "41 22 82 12 74",
+          "homeTeamScore": 0,
+          "awayTeamScore": 1,
+          "assistsSoFarInSeason": {
+            "21468906": 3,
+            "31574013": 1
+          },
+          "goalsSoFarInSeason": 1,
+          "videoClipUrl": "https://videos.liiga.fi/videos/e7538f70-a6cf-4f2a-8417-676fe7b49112/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/e7538f70-a6cf-4f2a-8417-676fe7b49112/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/e7538f70-a6cf-4f2a-8417-676fe7b49112/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 29780877,
+          "scorerPlayer": {
+            "playerId": 29780877,
+            "firstName": "Niclas",
+            "lastName": "Almari"
+          },
+          "logTime": "2026-09-19T11:07:25Z",
+          "winningGoal": false,
+          "gameTime": 217,
+          "period": 1,
+          "eventId": 30,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            29969041,
+            61081803
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 29969041,
+              "firstName": "Aapeli",
+              "lastName": "Räsänen"
+            },
+            {
+              "playerId": 61081803,
+              "firstName": "Olle",
+              "lastName": "Strandell"
+            }
+          ],
+          "plusPlayerIds": "",
+          "minusPlayerIds": "",
+          "homeTeamScore": 0,
+          "awayTeamScore": 2,
+          "assistsSoFarInSeason": {
+            "29969041": 3,
+            "61081803": 1
+          },
+          "goalsSoFarInSeason": 1,
+          "videoClipUrl": null,
+          "videoClipPlaylistUrl": null,
+          "videoThumbnailUrl": null
+        }
+      ],
       "powerplayInstances": 0,
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.1,
       "ranking": 13,
       "gameStartDateTime": "2026-09-19T17:00:00+03:00",
       "logos": {
@@ -13578,7 +13818,7 @@
       {
         "index": 1,
         "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
+        "awayTeamGoals": 2,
         "category": "NORMAL",
         "startTime": 0,
         "endTime": 1200
@@ -13617,17 +13857,18 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 231,
+    "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/artist/jokerit-lippuja/973335",
     "gamblingEvent": {
-      "homeTeamOdds": 325,
-      "awayTeamOdds": 202,
-      "tieOdds": 410,
+      "homeTeamOdds": 330,
+      "awayTeamOdds": 200,
+      "tieOdds": 415,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_933202"
     },
     "iceRink": {
@@ -13639,7 +13880,7 @@
       "zip": "00240",
       "city": "HELSINKI"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 1,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 3
