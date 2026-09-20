@@ -15008,6 +15008,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://liveday.fi/stores/2vjYW5qER9OnYBi0Ds6U3bqeh2l",
+    "gamblingEvent": {
+      "homeTeamOdds": 247,
+      "awayTeamOdds": 257,
+      "tieOdds": 385,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_948865"
+    },
     "iceRink": {
       "id": 31,
       "name": "Hämeenlinnan jäähalli I",
@@ -15116,6 +15122,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/en/artist/tappara/",
+    "gamblingEvent": {
+      "homeTeamOdds": 178,
+      "awayTeamOdds": 390,
+      "tieOdds": 425,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_948869"
+    },
     "iceRink": {
       "id": 537,
       "name": "Tampereen Kansi Areena",
@@ -15224,6 +15236,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/artist/jokerit-lippuja/973335",
+    "gamblingEvent": {
+      "homeTeamOdds": 254,
+      "awayTeamOdds": 247,
+      "tieOdds": 395,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_948872"
+    },
     "iceRink": {
       "id": 17,
       "name": "Helsinki Areena",
