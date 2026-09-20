@@ -15350,6 +15350,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/115?position=7",
+    "gamblingEvent": {
+      "homeTeamOdds": 0,
+      "awayTeamOdds": 0,
+      "tieOdds": 0,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1002372"
+    },
     "iceRink": {
       "id": 74,
       "name": "Kouvolan jäähalli",
@@ -15566,6 +15572,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
+    "gamblingEvent": {
+      "homeTeamOdds": 0,
+      "awayTeamOdds": 0,
+      "tieOdds": 0,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_953612"
+    },
     "iceRink": {
       "id": 205,
       "name": "Vaasan jäähalli I",
