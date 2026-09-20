@@ -15351,9 +15351,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/115?position=7",
     "gamblingEvent": {
-      "homeTeamOdds": 0,
-      "awayTeamOdds": 0,
-      "tieOdds": 0,
+      "homeTeamOdds": 272,
+      "awayTeamOdds": 228,
+      "tieOdds": 405,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1002372"
     },
     "iceRink": {
@@ -15573,9 +15573,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
     "gamblingEvent": {
-      "homeTeamOdds": 0,
-      "awayTeamOdds": 0,
-      "tieOdds": 0,
+      "homeTeamOdds": 305,
+      "awayTeamOdds": 212,
+      "tieOdds": 390,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_953612"
     },
     "iceRink": {
