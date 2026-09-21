@@ -15464,6 +15464,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://elippu.net/saipa/53:581?affiliate=ADV",
+    "gamblingEvent": {
+      "homeTeamOdds": 192,
+      "awayTeamOdds": 350,
+      "tieOdds": 405,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_953614"
+    },
     "iceRink": {
       "id": 89,
       "name": "Lappeenrannan jäähalli I",
