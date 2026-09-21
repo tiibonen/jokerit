@@ -12341,7 +12341,7 @@
           "videoThumbnailUrl": "https://videos.liiga.fi/videos/8cbe2bff-9cd6-4f25-b983-888e511d9e4b/thumbnail.jpeg"
         }
       ],
-      "powerplayInstances": 6,
+      "powerplayInstances": 5,
       "powerplayGoals": 0,
       "shortHandedInstances": 3,
       "shortHandedGoals": 0,
@@ -12388,18 +12388,20 @@
           "videoThumbnailUrl": "https://videos.liiga.fi/videos/210e09d3-56b1-4ef8-9073-f546d3c76638/thumbnail.jpeg"
         },
         {
-          "scorerPlayerId": 31110600,
+          "scorerPlayerId": 60540148,
           "scorerPlayer": {
-            "playerId": 31110600,
-            "firstName": "Benjamin",
-            "lastName": "Korhonen"
+            "playerId": 60540148,
+            "firstName": "Leo",
+            "lastName": "Lööf"
           },
           "logTime": "2026-09-18T13:22:37Z",
           "winningGoal": true,
           "gameTime": 1342,
           "period": 2,
           "eventId": 58,
-          "goalTypes": [],
+          "goalTypes": [
+            "TM"
+          ],
           "assistantPlayerIds": [],
           "assistantPlayers": [],
           "plusPlayerIds": "77 71 19 6 86",
@@ -12407,7 +12409,7 @@
           "homeTeamScore": 0,
           "awayTeamScore": 2,
           "assistsSoFarInSeason": {},
-          "goalsSoFarInSeason": 4,
+          "goalsSoFarInSeason": 1,
           "videoClipUrl": "https://videos.liiga.fi/videos/d0e4e491-e745-4aca-84da-a014dad926eb/playlist.m3u8",
           "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/d0e4e491-e745-4aca-84da-a014dad926eb/playlist.m3u8",
           "videoThumbnailUrl": "https://videos.liiga.fi/videos/d0e4e491-e745-4aca-84da-a014dad926eb/thumbnail.jpeg"
@@ -12977,19 +12979,19 @@
           "eventId": 218,
           "goalTypes": [],
           "assistantPlayerIds": [
-            32194874,
-            60794693
+            24466028,
+            32194874
           ],
           "assistantPlayers": [
+            {
+              "playerId": 24466028,
+              "firstName": "Henri",
+              "lastName": "Ikonen"
+            },
             {
               "playerId": 32194874,
               "firstName": "Jami",
               "lastName": "Krannila"
-            },
-            {
-              "playerId": 60794693,
-              "firstName": "Anton",
-              "lastName": "Olsson"
             }
           ],
           "plusPlayerIds": "47 96 24 48 56",
@@ -12997,8 +12999,8 @@
           "homeTeamScore": 2,
           "awayTeamScore": 2,
           "assistsSoFarInSeason": {
-            "32194874": 2,
-            "60794693": 1
+            "24466028": 2,
+            "32194874": 2
           },
           "goalsSoFarInSeason": 2,
           "videoClipUrl": null,
@@ -13753,19 +13755,19 @@
           "eventId": 11,
           "goalTypes": [],
           "assistantPlayerIds": [
-            60904682,
-            60580517
+            32869811,
+            61083288
           ],
           "assistantPlayers": [
             {
-              "playerId": 60904682,
-              "firstName": "Hampus",
-              "lastName": "Falk"
+              "playerId": 32869811,
+              "firstName": "Roni",
+              "lastName": "Karvinen"
             },
             {
-              "playerId": 60580517,
-              "firstName": "Oskars",
-              "lastName": "Batna"
+              "playerId": 61083288,
+              "firstName": "Liam",
+              "lastName": "Hawel"
             }
           ],
           "plusPlayerIds": "95 55 15 10 90",
@@ -13773,8 +13775,8 @@
           "homeTeamScore": 1,
           "awayTeamScore": 0,
           "assistsSoFarInSeason": {
-            "60580517": 2,
-            "60904682": 1
+            "32869811": 3,
+            "61083288": 4
           },
           "goalsSoFarInSeason": 1,
           "videoClipUrl": "https://videos.liiga.fi/videos/e561fb5d-b14f-46cc-a8fd-de388a3a6b6f/playlist.m3u8",
