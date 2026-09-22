@@ -1,24 +1,24 @@
 {
-  "updatedAt": "22.09.2026 20:07",
+  "updatedAt": "22.09.2026 21:10",
   "team": {
     "name": "Jokerit",
-    "position": 16,
-    "games": 5,
-    "wins": 0,
+    "position": 15,
+    "games": 6,
+    "wins": 1,
     "losses": 4,
     "ot": 1,
-    "points": 1
+    "points": 4
   },
   "nextGame": {
-    "date": "22.09.2026",
-    "time": "18:30",
+    "date": "25.09.2026",
+    "time": "19:30",
     "home": "Jokerit",
-    "away": "Pelicans"
+    "away": "TPS"
   },
   "lastGame": {
-    "date": "19.09.2026",
+    "date": "22.09.2026",
     "home": "Jokerit",
-    "away": "Tappara",
-    "result": "0–6"
+    "away": "Pelicans",
+    "result": "3–0"
   }
 }
