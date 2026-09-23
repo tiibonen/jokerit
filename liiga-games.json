@@ -15845,9 +15845,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/115?position=7",
     "gamblingEvent": {
-      "homeTeamOdds": 272,
-      "awayTeamOdds": 228,
-      "tieOdds": 405,
+      "homeTeamOdds": 275,
+      "awayTeamOdds": 230,
+      "tieOdds": 410,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1002372"
     },
     "iceRink": {
@@ -15960,8 +15960,8 @@
     "buyTicketsUrl": "https://elippu.net/saipa/53:581?affiliate=ADV",
     "gamblingEvent": {
       "homeTeamOdds": 192,
-      "awayTeamOdds": 350,
-      "tieOdds": 405,
+      "awayTeamOdds": 355,
+      "tieOdds": 410,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_953614"
     },
     "iceRink": {
@@ -16073,9 +16073,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
     "gamblingEvent": {
-      "homeTeamOdds": 305,
-      "awayTeamOdds": 212,
-      "tieOdds": 390,
+      "homeTeamOdds": 310,
+      "awayTeamOdds": 214,
+      "tieOdds": 395,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_953612"
     },
     "iceRink": {
@@ -16186,6 +16186,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-karpat-lippuja/1077382151",
+    "gamblingEvent": {
+      "homeTeamOdds": 257,
+      "awayTeamOdds": 247,
+      "tieOdds": 405,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1002371"
+    },
     "iceRink": {
       "id": 21,
       "name": "Helsingin jäähalli I",
@@ -16840,6 +16846,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/artist/jokerit-lippuja/973335",
+    "gamblingEvent": {
+      "homeTeamOdds": 282,
+      "awayTeamOdds": 225,
+      "tieOdds": 390,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_963459"
+    },
     "iceRink": {
       "id": 17,
       "name": "Helsinki Areena",
