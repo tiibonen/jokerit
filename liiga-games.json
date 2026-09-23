@@ -15845,9 +15845,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/115?position=7",
     "gamblingEvent": {
-      "homeTeamOdds": 275,
-      "awayTeamOdds": 230,
-      "tieOdds": 410,
+      "homeTeamOdds": 272,
+      "awayTeamOdds": 229,
+      "tieOdds": 405,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1002372"
     },
     "iceRink": {
@@ -15961,7 +15961,7 @@
     "gamblingEvent": {
       "homeTeamOdds": 192,
       "awayTeamOdds": 355,
-      "tieOdds": 410,
+      "tieOdds": 405,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_953614"
     },
     "iceRink": {
@@ -16073,8 +16073,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
     "gamblingEvent": {
-      "homeTeamOdds": 310,
-      "awayTeamOdds": 214,
+      "homeTeamOdds": 308,
+      "awayTeamOdds": 212,
       "tieOdds": 395,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_953612"
     },
@@ -16187,9 +16187,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-karpat-lippuja/1077382151",
     "gamblingEvent": {
-      "homeTeamOdds": 257,
-      "awayTeamOdds": 247,
-      "tieOdds": 405,
+      "homeTeamOdds": 245,
+      "awayTeamOdds": 254,
+      "tieOdds": 410,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1002371"
     },
     "iceRink": {
