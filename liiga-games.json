@@ -16217,7 +16217,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/115?position=7",
+    "buyTicketsUrl": "https://kookoo.tmtickets.fi/",
     "gamblingEvent": {
       "homeTeamOdds": 4500,
       "awayTeamOdds": 108,
@@ -16496,7 +16496,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://elippu.net/saipa/53:581?affiliate=ADV",
+    "buyTicketsUrl": "https://elippu.net/saipa",
     "gamblingEvent": {
       "homeTeamOdds": 1750,
       "awayTeamOdds": 2100,
@@ -16967,7 +16967,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-karpat-lippuja/1077382151",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/hifk-lippuja/90363",
     "gamblingEvent": {
       "homeTeamOdds": 108,
       "awayTeamOdds": 4100,
