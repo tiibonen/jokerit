@@ -16294,6 +16294,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/66?position=5",
+    "gamblingEvent": {
+      "homeTeamOdds": 295,
+      "awayTeamOdds": 218,
+      "tieOdds": 395,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_958870"
+    },
     "iceRink": {
       "id": 166,
       "name": "Rauman jäähalli / Äijänsuo Areena",
