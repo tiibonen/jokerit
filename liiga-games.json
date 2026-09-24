@@ -17054,9 +17054,7 @@
           "gameTime": 1569,
           "period": 2,
           "eventId": 84,
-          "goalTypes": [
-            "VT"
-          ],
+          "goalTypes": [],
           "assistantPlayerIds": [
             32194874,
             29948651
@@ -17148,7 +17146,7 @@
       "teamPlaceholder": null,
       "teamName": "Tappara",
       "goals": 2,
-      "timeOut": null,
+      "timeOut": 1569,
       "goalEvents": [
         {
           "scorerPlayerId": 60963285,
