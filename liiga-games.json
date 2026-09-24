@@ -18306,6 +18306,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
+    "gamblingEvent": {
+      "homeTeamOdds": 310,
+      "awayTeamOdds": 208,
+      "tieOdds": 400,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_968622"
+    },
     "iceRink": {
       "id": 205,
       "name": "Vaasan jäähalli I",
