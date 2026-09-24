@@ -17520,6 +17520,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-saipa-lippuja/1907745862",
+    "gamblingEvent": {
+      "homeTeamOdds": 250,
+      "awayTeamOdds": 255,
+      "tieOdds": 385,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_963460"
+    },
     "iceRink": {
       "id": 153,
       "name": "Porin jäähalli I",
@@ -17629,8 +17635,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/artist/jokerit-lippuja/973335",
     "gamblingEvent": {
-      "homeTeamOdds": 282,
-      "awayTeamOdds": 225,
+      "homeTeamOdds": 272,
+      "awayTeamOdds": 234,
       "tieOdds": 390,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_963459"
     },
