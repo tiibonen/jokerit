@@ -17413,9 +17413,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/ilves/",
     "gamblingEvent": {
-      "homeTeamOdds": 154,
-      "awayTeamOdds": 515,
-      "tieOdds": 485,
+      "homeTeamOdds": 164,
+      "awayTeamOdds": 465,
+      "tieOdds": 460,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_963454"
     },
     "iceRink": {
@@ -17527,9 +17527,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/jukurit/",
     "gamblingEvent": {
-      "homeTeamOdds": 286,
-      "awayTeamOdds": 231,
-      "tieOdds": 375,
+      "homeTeamOdds": 285,
+      "awayTeamOdds": 232,
+      "tieOdds": 380,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_963458"
     },
     "iceRink": {
@@ -17642,8 +17642,8 @@
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-jyp-lippuja/1573449269",
     "gamblingEvent": {
       "homeTeamOdds": 315,
-      "awayTeamOdds": 203,
-      "tieOdds": 415,
+      "awayTeamOdds": 204,
+      "tieOdds": 420,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1125669"
     },
     "iceRink": {
@@ -17755,8 +17755,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-saipa-lippuja/1907745862",
     "gamblingEvent": {
-      "homeTeamOdds": 250,
-      "awayTeamOdds": 255,
+      "homeTeamOdds": 235,
+      "awayTeamOdds": 278,
       "tieOdds": 385,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_963460"
     },
@@ -17869,8 +17869,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/artist/jokerit-lippuja/973335",
     "gamblingEvent": {
-      "homeTeamOdds": 272,
-      "awayTeamOdds": 237,
+      "homeTeamOdds": 260,
+      "awayTeamOdds": 247,
       "tieOdds": 395,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_963459"
     },
