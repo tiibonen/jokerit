@@ -18983,6 +18983,7 @@
     "id": 2701332,
     "season": 2027,
     "start": "2026-09-26T14:00:00Z",
+    "end": "2026-09-26T17:00:00Z",
     "homeTeam": {
       "teamId": "55786244:hpk",
       "teamPlaceholder": null,
@@ -18994,6 +18995,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.1,
       "ranking": 15,
       "gameStartDateTime": "2026-09-26T17:00:00+03:00",
       "logos": {
@@ -19014,6 +19016,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.28,
       "ranking": 4,
       "gameStartDateTime": "2026-09-26T17:00:00+03:00",
       "logos": {
@@ -19066,9 +19069,10 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 223,
+    "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
@@ -19088,7 +19092,7 @@
       "zip": "13130",
       "city": "HÄMEENLINNA"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 1,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 4
@@ -19097,6 +19101,7 @@
     "id": 2701333,
     "season": 2027,
     "start": "2026-09-26T14:00:00Z",
+    "end": "2026-09-26T17:00:00Z",
     "homeTeam": {
       "teamId": "859884935:kalpa",
       "teamPlaceholder": null,
@@ -19108,6 +19113,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.14,
       "ranking": 9,
       "gameStartDateTime": "2026-09-26T17:00:00+03:00",
       "logos": {
@@ -19128,6 +19134,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.16,
       "ranking": 7,
       "gameStartDateTime": "2026-09-26T17:00:00+03:00",
       "logos": {
@@ -19180,9 +19187,10 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 298,
+    "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
@@ -19202,7 +19210,7 @@
       "zip": "70100",
       "city": "KUOPIO"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 1,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 4
@@ -19211,6 +19219,7 @@
     "id": 2701334,
     "season": 2027,
     "start": "2026-09-26T14:00:00Z",
+    "end": "2026-09-26T17:00:00Z",
     "homeTeam": {
       "teamId": "1368624751:k-espoo",
       "teamPlaceholder": null,
@@ -19222,6 +19231,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.03,
       "ranking": 8,
       "gameStartDateTime": "2026-09-26T17:00:00+03:00",
       "logos": {
@@ -19242,6 +19252,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.37,
       "ranking": 16,
       "gameStartDateTime": "2026-09-26T17:00:00+03:00",
       "logos": {
@@ -19294,9 +19305,10 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 289,
+    "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
@@ -19316,7 +19328,7 @@
       "zip": "02200",
       "city": "ESPOO"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 1,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 4
@@ -19325,6 +19337,7 @@
     "id": 2701335,
     "season": 2027,
     "start": "2026-09-26T14:00:00Z",
+    "end": "2026-09-26T17:00:00Z",
     "homeTeam": {
       "teamId": "461765763:kookoo",
       "teamPlaceholder": null,
@@ -19336,6 +19349,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.12,
       "ranking": 17,
       "gameStartDateTime": "2026-09-26T17:00:00+03:00",
       "logos": {
@@ -19356,6 +19370,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.01,
       "ranking": 2,
       "gameStartDateTime": "2026-09-26T17:00:00+03:00",
       "logos": {
@@ -19408,9 +19423,10 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 221,
+    "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
@@ -19430,7 +19446,7 @@
       "zip": "45100",
       "city": "KOUVOLA"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 1,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 4
@@ -19439,6 +19455,7 @@
     "id": 2701336,
     "season": 2027,
     "start": "2026-09-26T14:00:00Z",
+    "end": "2026-09-26T17:00:00Z",
     "homeTeam": {
       "teamId": "875886777:pelicans",
       "teamPlaceholder": null,
@@ -19448,8 +19465,9 @@
       "goalEvents": [],
       "powerplayInstances": 0,
       "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "shortHandedInstances": 1,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.0089,
       "ranking": 11,
       "gameStartDateTime": "2026-09-26T17:00:00+03:00",
       "logos": {
@@ -19466,10 +19484,11 @@
       "goals": 0,
       "timeOut": null,
       "goalEvents": [],
-      "powerplayInstances": 0,
+      "powerplayInstances": 1,
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.034,
       "ranking": 14,
       "gameStartDateTime": "2026-09-26T17:00:00+03:00",
       "logos": {
@@ -19522,9 +19541,10 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 122,
+    "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
@@ -19544,7 +19564,7 @@
       "zip": "15110",
       "city": "LAHTI"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 1,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 4
@@ -19553,6 +19573,7 @@
     "id": 2701337,
     "season": 2027,
     "start": "2026-09-26T14:00:00Z",
+    "end": "2026-09-26T17:00:00Z",
     "homeTeam": {
       "teamId": "626537494:sport",
       "teamPlaceholder": null,
@@ -19564,6 +19585,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.039,
       "ranking": 12,
       "gameStartDateTime": "2026-09-26T17:00:00+03:00",
       "logos": {
@@ -19584,6 +19606,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.03,
       "ranking": 13,
       "gameStartDateTime": "2026-09-26T17:00:00+03:00",
       "logos": {
@@ -19636,9 +19659,10 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 308,
+    "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
@@ -19658,7 +19682,7 @@
       "zip": "65350",
       "city": "VAASA"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 1,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 4
@@ -19667,6 +19691,7 @@
     "id": 2701338,
     "season": 2027,
     "start": "2026-09-26T14:00:00Z",
+    "end": "2026-09-26T17:00:00Z",
     "homeTeam": {
       "teamId": "362185137:tappara",
       "teamPlaceholder": null,
@@ -19678,6 +19703,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.2,
       "ranking": 10,
       "gameStartDateTime": "2026-09-26T17:00:00+03:00",
       "logos": {
@@ -19698,6 +19724,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.049,
       "ranking": 5,
       "gameStartDateTime": "2026-09-26T17:00:00+03:00",
       "logos": {
@@ -19750,9 +19777,10 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 313,
+    "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
@@ -19772,7 +19800,7 @@
       "zip": "33100",
       "city": "TAMPERE"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 1,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 4
