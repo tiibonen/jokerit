@@ -19073,6 +19073,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://liveday.fi/stores/2vjYW5qER9OnYBi0Ds6U3bqeh2l",
+    "gamblingEvent": {
+      "homeTeamOdds": 220,
+      "awayTeamOdds": 305,
+      "tieOdds": 385,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_968612"
+    },
     "iceRink": {
       "id": 31,
       "name": "Hämeenlinnan jäähalli I",
@@ -19181,6 +19187,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/129?position=4",
+    "gamblingEvent": {
+      "homeTeamOdds": 234,
+      "awayTeamOdds": 275,
+      "tieOdds": 400,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_968611"
+    },
     "iceRink": {
       "id": 78,
       "name": "Kuopion jäähalli",
@@ -19289,6 +19301,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kiekkoespoo.tmtickets.fi",
+    "gamblingEvent": {
+      "homeTeamOdds": 185,
+      "awayTeamOdds": 380,
+      "tieOdds": 415,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_968614"
+    },
     "iceRink": {
       "id": 190,
       "name": "Tapiolan monitoimiareena",
@@ -19740,8 +19758,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/en/artist/tappara/",
     "gamblingEvent": {
-      "homeTeamOdds": 162,
-      "awayTeamOdds": 485,
+      "homeTeamOdds": 165,
+      "awayTeamOdds": 475,
       "tieOdds": 450,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_968618"
     },
