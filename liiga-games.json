@@ -19397,6 +19397,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/117?position=8",
+    "gamblingEvent": {
+      "homeTeamOdds": 217,
+      "awayTeamOdds": 305,
+      "tieOdds": 395,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_968616"
+    },
     "iceRink": {
       "id": 74,
       "name": "Kouvolan jäähalli",
@@ -19733,6 +19739,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/en/artist/tappara/",
+    "gamblingEvent": {
+      "homeTeamOdds": 162,
+      "awayTeamOdds": 485,
+      "tieOdds": 450,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_968618"
+    },
     "iceRink": {
       "id": 537,
       "name": "Tampereen Kansi Areena",
