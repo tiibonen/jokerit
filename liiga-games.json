@@ -22091,6 +22091,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-saipa-lippuja/172689890",
+    "gamblingEvent": {
+      "homeTeamOdds": 237,
+      "awayTeamOdds": 265,
+      "tieOdds": 395,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_988930"
+    },
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
