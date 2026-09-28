@@ -22230,6 +22230,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/en/artist/tappara/",
+    "gamblingEvent": {
+      "homeTeamOdds": 152,
+      "awayTeamOdds": 535,
+      "tieOdds": 485,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_988931"
+    },
     "iceRink": {
       "id": 537,
       "name": "Tampereen Kansi Areena",
