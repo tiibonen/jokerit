@@ -18496,13 +18496,19 @@
             "AV"
           ],
           "assistantPlayerIds": [
-            32555154
+            32555154,
+            29942725
           ],
           "assistantPlayers": [
             {
               "playerId": 32555154,
               "firstName": "Eero",
               "lastName": "Klintrup"
+            },
+            {
+              "playerId": 29942725,
+              "firstName": "Saku",
+              "lastName": "Salminen"
             }
           ],
           "plusPlayerIds": "57 81 50 2",
@@ -18510,6 +18516,7 @@
           "homeTeamScore": 0,
           "awayTeamScore": 2,
           "assistsSoFarInSeason": {
+            "29942725": 2,
             "32555154": 3
           },
           "goalsSoFarInSeason": 1,
