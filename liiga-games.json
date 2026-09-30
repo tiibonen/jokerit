@@ -50899,6 +50899,114 @@
     "gameWeek": 18
   },
   {
+    "id": 2701611,
+    "season": 2027,
+    "start": "2027-01-09T13:00:00Z",
+    "homeTeam": {
+      "teamId": "1368624751:k-espoo",
+      "teamPlaceholder": null,
+      "teamName": "K-Espoo",
+      "goals": 0,
+      "timeOut": null,
+      "goalEvents": [],
+      "powerplayInstances": 0,
+      "powerplayGoals": 0,
+      "shortHandedInstances": 0,
+      "shortHandedGoals": 0,
+      "ranking": 7,
+      "gameStartDateTime": "2027-01-09T15:00:00+02:00",
+      "logos": {
+        "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
+        "lightBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
+        "darkBgOriginal": null,
+        "lightBgOriginal": null
+      }
+    },
+    "awayTeam": {
+      "teamId": "362185137:tappara",
+      "teamPlaceholder": null,
+      "teamName": "Tappara",
+      "goals": 0,
+      "timeOut": null,
+      "goalEvents": [],
+      "powerplayInstances": 0,
+      "powerplayGoals": 0,
+      "shortHandedInstances": 0,
+      "shortHandedGoals": 0,
+      "ranking": 12,
+      "gameStartDateTime": "2027-01-09T15:00:00+02:00",
+      "logos": {
+        "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F8bb664ba2392481ebc1091a33ee75513",
+        "lightBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F8bb664ba2392481ebc1091a33ee75513",
+        "darkBgOriginal": null,
+        "lightBgOriginal": null
+      }
+    },
+    "periods": [
+      {
+        "index": 1,
+        "homeTeamGoals": 0,
+        "awayTeamGoals": 0,
+        "category": "NORMAL",
+        "startTime": 0,
+        "endTime": 1200
+      },
+      {
+        "index": 2,
+        "homeTeamGoals": 0,
+        "awayTeamGoals": 0,
+        "category": "NORMAL",
+        "startTime": 1200,
+        "endTime": 2400
+      },
+      {
+        "index": 3,
+        "homeTeamGoals": 0,
+        "awayTeamGoals": 0,
+        "category": "NORMAL",
+        "startTime": 2400,
+        "endTime": 3600
+      },
+      {
+        "index": 4,
+        "homeTeamGoals": 0,
+        "awayTeamGoals": 0,
+        "category": "OVERTIME",
+        "startTime": 3600,
+        "endTime": 3900
+      },
+      {
+        "index": 5,
+        "homeTeamGoals": 0,
+        "awayTeamGoals": 0,
+        "category": "WINNING_SHOT_COMPETITION",
+        "startTime": 3900,
+        "endTime": 3900
+      }
+    ],
+    "finishedType": "ACTIVE_OR_NOT_STARTED",
+    "started": false,
+    "ended": false,
+    "gameTime": 0,
+    "playOffPair": 0,
+    "playOffPhase": 0,
+    "playOffReqWins": 0,
+    "buyTicketsUrl": "https://kiekkoespoo.tmtickets.fi",
+    "iceRink": {
+      "id": 190,
+      "name": "Tapiolan monitoimiareena",
+      "latitude": 60.1782,
+      "longitude": 24.7857,
+      "streetAddress": "Urheilupuistontie 3",
+      "zip": "02200",
+      "city": "ESPOO"
+    },
+    "currentPeriod": 0,
+    "stale": false,
+    "serie": "RUNKOSARJA",
+    "gameWeek": 18
+  },
+  {
     "id": 2701612,
     "season": 2027,
     "start": "2027-01-09T13:00:00Z",
@@ -51432,114 +51540,6 @@
       "streetAddress": "Hannes Kolehmaisenkatu 4",
       "zip": "70100",
       "city": "KUOPIO"
-    },
-    "currentPeriod": 0,
-    "stale": false,
-    "serie": "RUNKOSARJA",
-    "gameWeek": 18
-  },
-  {
-    "id": 2701611,
-    "season": 2027,
-    "start": "2027-01-09T15:00:00Z",
-    "homeTeam": {
-      "teamId": "1368624751:k-espoo",
-      "teamPlaceholder": null,
-      "teamName": "K-Espoo",
-      "goals": 0,
-      "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
-      "powerplayGoals": 0,
-      "shortHandedInstances": 0,
-      "shortHandedGoals": 0,
-      "ranking": 7,
-      "gameStartDateTime": "2027-01-09T17:00:00+02:00",
-      "logos": {
-        "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
-        "lightBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
-        "darkBgOriginal": null,
-        "lightBgOriginal": null
-      }
-    },
-    "awayTeam": {
-      "teamId": "362185137:tappara",
-      "teamPlaceholder": null,
-      "teamName": "Tappara",
-      "goals": 0,
-      "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
-      "powerplayGoals": 0,
-      "shortHandedInstances": 0,
-      "shortHandedGoals": 0,
-      "ranking": 12,
-      "gameStartDateTime": "2027-01-09T17:00:00+02:00",
-      "logos": {
-        "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F8bb664ba2392481ebc1091a33ee75513",
-        "lightBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F8bb664ba2392481ebc1091a33ee75513",
-        "darkBgOriginal": null,
-        "lightBgOriginal": null
-      }
-    },
-    "periods": [
-      {
-        "index": 1,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
-        "category": "NORMAL",
-        "startTime": 0,
-        "endTime": 1200
-      },
-      {
-        "index": 2,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
-        "category": "NORMAL",
-        "startTime": 1200,
-        "endTime": 2400
-      },
-      {
-        "index": 3,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
-        "category": "NORMAL",
-        "startTime": 2400,
-        "endTime": 3600
-      },
-      {
-        "index": 4,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
-        "category": "OVERTIME",
-        "startTime": 3600,
-        "endTime": 3900
-      },
-      {
-        "index": 5,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
-        "category": "WINNING_SHOT_COMPETITION",
-        "startTime": 3900,
-        "endTime": 3900
-      }
-    ],
-    "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
-    "ended": false,
-    "gameTime": 0,
-    "playOffPair": 0,
-    "playOffPhase": 0,
-    "playOffReqWins": 0,
-    "buyTicketsUrl": "https://kiekkoespoo.tmtickets.fi",
-    "iceRink": {
-      "id": 190,
-      "name": "Tapiolan monitoimiareena",
-      "latitude": 60.1782,
-      "longitude": 24.7857,
-      "streetAddress": "Urheilupuistontie 3",
-      "zip": "02200",
-      "city": "ESPOO"
     },
     "currentPeriod": 0,
     "stale": false,
