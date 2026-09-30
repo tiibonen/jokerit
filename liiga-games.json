@@ -22337,8 +22337,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kiekkoespoo.tmtickets.fi",
     "gamblingEvent": {
-      "homeTeamOdds": 227,
-      "awayTeamOdds": 295,
+      "homeTeamOdds": 232,
+      "awayTeamOdds": 290,
       "tieOdds": 375,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_988927"
     },
@@ -22451,9 +22451,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-saipa-lippuja/172689890",
     "gamblingEvent": {
-      "homeTeamOdds": 237,
-      "awayTeamOdds": 268,
-      "tieOdds": 400,
+      "homeTeamOdds": 234,
+      "awayTeamOdds": 270,
+      "tieOdds": 405,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_988930"
     },
     "iceRink": {
@@ -22565,9 +22565,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/en/artist/tappara/",
     "gamblingEvent": {
-      "homeTeamOdds": 149,
-      "awayTeamOdds": 560,
-      "tieOdds": 500,
+      "homeTeamOdds": 145,
+      "awayTeamOdds": 600,
+      "tieOdds": 515,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_988931"
     },
     "iceRink": {
