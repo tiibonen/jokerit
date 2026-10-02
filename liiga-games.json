@@ -23763,9 +23763,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-lukko-lippuja/698147180",
     "gamblingEvent": {
-      "homeTeamOdds": 252,
-      "awayTeamOdds": 252,
-      "tieOdds": 385,
+      "homeTeamOdds": 254,
+      "awayTeamOdds": 254,
+      "tieOdds": 390,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_999534"
     },
     "iceRink": {
