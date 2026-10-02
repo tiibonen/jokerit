@@ -23307,9 +23307,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://liveday.fi/stores/2vjYW5qER9OnYBi0Ds6U3bqeh2l",
     "gamblingEvent": {
-      "homeTeamOdds": 345,
-      "awayTeamOdds": 194,
-      "tieOdds": 405,
+      "homeTeamOdds": 350,
+      "awayTeamOdds": 195,
+      "tieOdds": 410,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_999531"
     },
     "iceRink": {
@@ -23421,9 +23421,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/130?position=5",
     "gamblingEvent": {
-      "homeTeamOdds": 234,
-      "awayTeamOdds": 270,
-      "tieOdds": 395,
+      "homeTeamOdds": 235,
+      "awayTeamOdds": 272,
+      "tieOdds": 400,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_999530"
     },
     "iceRink": {
@@ -23535,9 +23535,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kiekkoespoo.tmtickets.fi",
     "gamblingEvent": {
-      "homeTeamOdds": 211,
-      "awayTeamOdds": 305,
-      "tieOdds": 395,
+      "homeTeamOdds": 212,
+      "awayTeamOdds": 310,
+      "tieOdds": 400,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_999528"
     },
     "iceRink": {
@@ -23649,7 +23649,7 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/en/artist/tappara/",
     "gamblingEvent": {
-      "homeTeamOdds": 158,
+      "homeTeamOdds": 161,
       "awayTeamOdds": 500,
       "tieOdds": 460,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_999533"
