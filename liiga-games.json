@@ -26256,7 +26256,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/135?position=9",
+    "buyTicketsUrl": "https://kookoo.tmtickets.fi/",
     "gamblingEvent": {
       "homeTeamOdds": 850,
       "awayTeamOdds": 144,
@@ -26667,7 +26667,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/67?position=6",
+    "buyTicketsUrl": "https://lukko.tmtickets.fi/",
     "gamblingEvent": {
       "homeTeamOdds": 685,
       "awayTeamOdds": 162,
@@ -27001,7 +27001,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://elippu.net/saipa/53:582?affiliate=ADV",
+    "buyTicketsUrl": "https://elippu.net/saipa",
     "gamblingEvent": {
       "homeTeamOdds": 108,
       "awayTeamOdds": 4100,
