@@ -27805,6 +27805,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/jukurit/",
+    "gamblingEvent": {
+      "homeTeamOdds": 278,
+      "awayTeamOdds": 235,
+      "tieOdds": 370,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1025796"
+    },
     "iceRink": {
       "id": 111,
       "name": "Mikkelin jäähalli",
@@ -27913,6 +27919,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-k-espoo-lippuja/213162761",
+    "gamblingEvent": {
+      "homeTeamOdds": 235,
+      "awayTeamOdds": 275,
+      "tieOdds": 380,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1020136"
+    },
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
@@ -28135,6 +28147,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://elippu.net/saipa/53:583?affiliate=ADV",
+    "gamblingEvent": {
+      "homeTeamOdds": 225,
+      "awayTeamOdds": 275,
+      "tieOdds": 405,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1031049"
+    },
     "iceRink": {
       "id": 89,
       "name": "Lappeenrannan jäähalli I",
@@ -28243,6 +28261,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/artist/jokerit-lippuja/973335",
+    "gamblingEvent": {
+      "homeTeamOdds": 210,
+      "awayTeamOdds": 305,
+      "tieOdds": 400,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1031050"
+    },
     "iceRink": {
       "id": 17,
       "name": "Helsinki Areena",
