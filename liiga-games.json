@@ -27920,9 +27920,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-k-espoo-lippuja/213162761",
     "gamblingEvent": {
-      "homeTeamOdds": 235,
+      "homeTeamOdds": 234,
       "awayTeamOdds": 275,
-      "tieOdds": 380,
+      "tieOdds": 385,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1020136"
     },
     "iceRink": {
