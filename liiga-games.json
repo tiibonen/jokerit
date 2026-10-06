@@ -23530,14 +23530,14 @@
             "YV"
           ],
           "assistantPlayerIds": [
-            31578145,
+            27471447,
             23065792
           ],
           "assistantPlayers": [
             {
-              "playerId": 31578145,
-              "firstName": "Juuso",
-              "lastName": "Mäenpää"
+              "playerId": 27471447,
+              "firstName": "Aleksi",
+              "lastName": "Klemetti"
             },
             {
               "playerId": 23065792,
@@ -23551,7 +23551,7 @@
           "awayTeamScore": 2,
           "assistsSoFarInSeason": {
             "23065792": 5,
-            "31578145": 4
+            "27471447": 3
           },
           "goalsSoFarInSeason": 2,
           "videoClipUrl": "https://videos.liiga.fi/videos/533c29a0-d99e-4c6b-b756-0353b1fe7228/playlist.m3u8",
@@ -23637,7 +23637,7 @@
           "awayTeamScore": 3,
           "assistsSoFarInSeason": {
             "24338350": 3,
-            "31578145": 5
+            "31578145": 4
           },
           "goalsSoFarInSeason": 3,
           "videoClipUrl": "https://videos.liiga.fi/videos/b951b273-e181-447c-926e-c4c50ace23b4/playlist.m3u8",
@@ -23751,11 +23751,11 @@
           "videoThumbnailUrl": "https://videos.liiga.fi/videos/460194e0-6a7f-4000-950d-e79efad131a8/thumbnail.jpeg"
         },
         {
-          "scorerPlayerId": 31809869,
+          "scorerPlayerId": 25556746,
           "scorerPlayer": {
-            "playerId": 31809869,
-            "firstName": "Juuso",
-            "lastName": "Heikkilä"
+            "playerId": 25556746,
+            "firstName": "Miikka",
+            "lastName": "Salomäki"
           },
           "logTime": "2026-10-02T13:52:56Z",
           "winningGoal": false,
@@ -25664,7 +25664,7 @@
           "homeTeamScore": 0,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
-            "31578145": 6,
+            "31578145": 5,
             "40431875": 4
           },
           "goalsSoFarInSeason": 2,
@@ -52242,7 +52242,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/hifk-lippuja/90363",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-tappara-lippuja/188181527",
     "iceRink": {
       "id": 21,
       "name": "Helsingin jäähalli I",
@@ -53430,7 +53430,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/hifk-lippuja/90363",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-sport-lippuja/1211575739",
     "iceRink": {
       "id": 21,
       "name": "Helsingin jäähalli I",
@@ -54510,7 +54510,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/hifk-lippuja/90363",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-assat-lippuja/1295334178",
     "iceRink": {
       "id": 21,
       "name": "Helsingin jäähalli I",
@@ -58506,7 +58506,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/hifk-lippuja/90363",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-kalpa-lippuja/1919716213",
     "iceRink": {
       "id": 21,
       "name": "Helsingin jäähalli I",
@@ -60018,7 +60018,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/hifk-lippuja/90363",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-pelicans-lippuja/1076749917",
     "iceRink": {
       "id": 21,
       "name": "Helsingin jäähalli I",
@@ -61746,7 +61746,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/hifk-lippuja/90363",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-jukurit-lippuja/1720601012",
     "iceRink": {
       "id": 21,
       "name": "Helsingin jäähalli I",
