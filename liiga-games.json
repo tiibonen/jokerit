@@ -27724,8 +27724,9 @@
       "goalEvents": [],
       "powerplayInstances": 0,
       "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "shortHandedInstances": 1,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.45,
       "ranking": 2,
       "gameStartDateTime": "2026-10-07T12:00:00+03:00",
       "logos": {
@@ -27742,10 +27743,11 @@
       "goals": 0,
       "timeOut": null,
       "goalEvents": [],
-      "powerplayInstances": 0,
+      "powerplayInstances": 1,
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
+      "expectedGoals": 0.57,
       "ranking": 5,
       "gameStartDateTime": "2026-10-07T12:00:00+03:00",
       "logos": {
@@ -27798,17 +27800,18 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 1200,
+    "spectators": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/jukurit/",
     "gamblingEvent": {
-      "homeTeamOdds": 268,
-      "awayTeamOdds": 247,
-      "tieOdds": 380,
+      "homeTeamOdds": 255,
+      "awayTeamOdds": 265,
+      "tieOdds": 340,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1025796"
     },
     "iceRink": {
@@ -27820,7 +27823,7 @@
       "zip": "50100",
       "city": "MIKKELI"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 1,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 6
@@ -27920,9 +27923,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-k-espoo-lippuja/213162761",
     "gamblingEvent": {
-      "homeTeamOdds": 237,
-      "awayTeamOdds": 270,
-      "tieOdds": 380,
+      "homeTeamOdds": 244,
+      "awayTeamOdds": 268,
+      "tieOdds": 385,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1020136"
     },
     "iceRink": {
@@ -28034,8 +28037,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
     "gamblingEvent": {
-      "homeTeamOdds": 375,
-      "awayTeamOdds": 185,
+      "homeTeamOdds": 370,
+      "awayTeamOdds": 189,
       "tieOdds": 410,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1025795"
     },
