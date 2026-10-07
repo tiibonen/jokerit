@@ -27715,18 +27715,19 @@
     "id": 2701361,
     "season": 2027,
     "start": "2026-10-07T09:00:00Z",
+    "end": "2026-10-07T11:14:19Z",
     "homeTeam": {
       "teamId": "292293444:jukurit",
       "teamPlaceholder": null,
       "teamName": "Jukurit",
       "goals": 0,
-      "timeOut": null,
+      "timeOut": 3543,
       "goalEvents": [],
-      "powerplayInstances": 0,
+      "powerplayInstances": 2,
       "powerplayGoals": 0,
-      "shortHandedInstances": 1,
+      "shortHandedInstances": 3,
       "shortHandedGoals": 0,
-      "expectedGoals": 0.45,
+      "expectedGoals": 1.96,
       "ranking": 2,
       "gameStartDateTime": "2026-10-07T12:00:00+03:00",
       "logos": {
@@ -27740,14 +27741,59 @@
       "teamId": "679171680:ässät",
       "teamPlaceholder": null,
       "teamName": "Ässät",
-      "goals": 0,
+      "goals": 1,
       "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 1,
-      "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "goalEvents": [
+        {
+          "scorerPlayerId": 60861292,
+          "scorerPlayer": {
+            "playerId": 60861292,
+            "firstName": "Cameron",
+            "lastName": "Hillis"
+          },
+          "logTime": "2026-10-07T07:08:59Z",
+          "winningGoal": true,
+          "gameTime": 1951,
+          "period": 2,
+          "eventId": 83,
+          "goalTypes": [
+            "YV"
+          ],
+          "assistantPlayerIds": [
+            40050351,
+            61074020
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 40050351,
+              "firstName": "Sakari",
+              "lastName": "Kostilainen"
+            },
+            {
+              "playerId": 61074020,
+              "firstName": "Simon",
+              "lastName": "Pinard"
+            }
+          ],
+          "plusPlayerIds": null,
+          "minusPlayerIds": null,
+          "homeTeamScore": 0,
+          "awayTeamScore": 1,
+          "assistsSoFarInSeason": {
+            "40050351": 2,
+            "61074020": 4
+          },
+          "goalsSoFarInSeason": 3,
+          "videoClipUrl": "https://videos.liiga.fi/videos/fa947ea9-e7ac-4e36-98fb-703a8a58d84e/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/fa947ea9-e7ac-4e36-98fb-703a8a58d84e/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/fa947ea9-e7ac-4e36-98fb-703a8a58d84e/thumbnail.jpeg"
+        }
+      ],
+      "powerplayInstances": 3,
+      "powerplayGoals": 1,
+      "shortHandedInstances": 2,
       "shortHandedGoals": 0,
-      "expectedGoals": 0.57,
+      "expectedGoals": 2.42,
       "ranking": 5,
       "gameStartDateTime": "2026-10-07T12:00:00+03:00",
       "logos": {
@@ -27762,6 +27808,671 @@
         "index": 1,
         "homeTeamGoals": 0,
         "awayTeamGoals": 0,
+        "category": "NORMAL",
+        "startTime": 0,
+        "endTime": 1200
+      },
+      {
+        "index": 2,
+        "homeTeamGoals": 0,
+        "awayTeamGoals": 1,
+        "category": "NORMAL",
+        "startTime": 1200,
+        "endTime": 2400
+      },
+      {
+        "index": 3,
+        "homeTeamGoals": 0,
+        "awayTeamGoals": 0,
+        "category": "NORMAL",
+        "startTime": 2400,
+        "endTime": 3600
+      },
+      {
+        "index": 4,
+        "homeTeamGoals": 0,
+        "awayTeamGoals": 0,
+        "category": "OVERTIME",
+        "startTime": 3600,
+        "endTime": 3900
+      },
+      {
+        "index": 5,
+        "homeTeamGoals": 0,
+        "awayTeamGoals": 0,
+        "category": "WINNING_SHOT_COMPETITION",
+        "startTime": 3900,
+        "endTime": 3900
+      }
+    ],
+    "finishedType": "ENDED_DURING_REGULAR_GAME_TIME",
+    "started": true,
+    "ended": true,
+    "gameTime": 3600,
+    "spectators": 4200,
+    "playOffPair": 0,
+    "playOffPhase": 0,
+    "playOffReqWins": 0,
+    "buyTicketsUrl": "https://www.lippu.fi/artist/jukurit/",
+    "gamblingEvent": {
+      "homeTeamOdds": 4500,
+      "awayTeamOdds": 104,
+      "tieOdds": 1300,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1025796"
+    },
+    "iceRink": {
+      "id": 111,
+      "name": "Mikkelin jäähalli",
+      "latitude": 61.6926,
+      "longitude": 27.2546,
+      "streetAddress": "Raviradantie 1",
+      "zip": "50100",
+      "city": "MIKKELI"
+    },
+    "currentPeriod": 3,
+    "stale": false,
+    "serie": "RUNKOSARJA",
+    "gameWeek": 6
+  },
+  {
+    "id": 2701359,
+    "season": 2027,
+    "start": "2026-10-07T15:30:00Z",
+    "homeTeam": {
+      "teamId": "495643563:kärpät",
+      "teamPlaceholder": null,
+      "teamName": "Kärpät",
+      "goals": 6,
+      "timeOut": null,
+      "goalEvents": [
+        {
+          "scorerPlayerId": 28506900,
+          "scorerPlayer": {
+            "playerId": 28506900,
+            "firstName": "Tommi",
+            "lastName": "Tikka"
+          },
+          "logTime": "2026-10-07T12:46:52Z",
+          "winningGoal": false,
+          "gameTime": 467,
+          "period": 1,
+          "eventId": 30,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            23168071,
+            28967947
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 23168071,
+              "firstName": "Tuomas",
+              "lastName": "Salmela"
+            },
+            {
+              "playerId": 28967947,
+              "firstName": "Samuli",
+              "lastName": "Ratinen"
+            }
+          ],
+          "plusPlayerIds": "25 19 61 27 8",
+          "minusPlayerIds": "28 12 15 47 55",
+          "homeTeamScore": 1,
+          "awayTeamScore": 0,
+          "assistsSoFarInSeason": {
+            "23168071": 2,
+            "28967947": 3
+          },
+          "goalsSoFarInSeason": 1,
+          "videoClipUrl": "https://videos.liiga.fi/videos/e97745ab-6e0f-400c-858b-fc86dfd7c96c/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/e97745ab-6e0f-400c-858b-fc86dfd7c96c/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/e97745ab-6e0f-400c-858b-fc86dfd7c96c/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 25657580,
+          "scorerPlayer": {
+            "playerId": 25657580,
+            "firstName": "Rasmus",
+            "lastName": "Rissanen"
+          },
+          "logTime": "2026-10-07T12:53:16Z",
+          "winningGoal": false,
+          "gameTime": 784,
+          "period": 1,
+          "eventId": 37,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            23889127,
+            29864256
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 23889127,
+              "firstName": "Eetu",
+              "lastName": "Koivistoinen"
+            },
+            {
+              "playerId": 29864256,
+              "firstName": "Eemil",
+              "lastName": "Erholtz"
+            }
+          ],
+          "plusPlayerIds": "61 93 73 2 31",
+          "minusPlayerIds": "51 17 25 55 90",
+          "homeTeamScore": 2,
+          "awayTeamScore": 0,
+          "assistsSoFarInSeason": {
+            "23889127": 2,
+            "29864256": 2
+          },
+          "goalsSoFarInSeason": 1,
+          "videoClipUrl": "https://videos.liiga.fi/videos/1a8cee4c-8650-47b7-aa00-69519834757b/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/1a8cee4c-8650-47b7-aa00-69519834757b/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/1a8cee4c-8650-47b7-aa00-69519834757b/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 32873373,
+          "scorerPlayer": {
+            "playerId": 32873373,
+            "firstName": "Andreas",
+            "lastName": "Okany"
+          },
+          "logTime": "2026-10-07T13:00:59Z",
+          "winningGoal": false,
+          "gameTime": 982,
+          "period": 1,
+          "eventId": 61,
+          "goalTypes": [
+            "AV"
+          ],
+          "assistantPlayerIds": [
+            28506900
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 28506900,
+              "firstName": "Tommi",
+              "lastName": "Tikka"
+            }
+          ],
+          "plusPlayerIds": "19 25 26 16",
+          "minusPlayerIds": "78 47 4 76 24",
+          "homeTeamScore": 3,
+          "awayTeamScore": 0,
+          "assistsSoFarInSeason": {
+            "28506900": 3
+          },
+          "goalsSoFarInSeason": 3,
+          "videoClipUrl": "https://videos.liiga.fi/videos/290141ed-5c4c-433c-8172-e4356aeba97a/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/290141ed-5c4c-433c-8172-e4356aeba97a/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/290141ed-5c4c-433c-8172-e4356aeba97a/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 30984675,
+          "scorerPlayer": {
+            "playerId": 30984675,
+            "firstName": "Aleksi",
+            "lastName": "Matinmikko"
+          },
+          "logTime": "2026-10-07T13:40:07Z",
+          "winningGoal": false,
+          "gameTime": 1613,
+          "period": 2,
+          "eventId": 133,
+          "goalTypes": [
+            "YV"
+          ],
+          "assistantPlayerIds": [
+            28967947,
+            32558931
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 28967947,
+              "firstName": "Samuli",
+              "lastName": "Ratinen"
+            },
+            {
+              "playerId": 32558931,
+              "firstName": "Tuukka",
+              "lastName": "Tieksola"
+            }
+          ],
+          "plusPlayerIds": null,
+          "minusPlayerIds": null,
+          "homeTeamScore": 4,
+          "awayTeamScore": 1,
+          "assistsSoFarInSeason": {
+            "28967947": 4,
+            "32558931": 1
+          },
+          "goalsSoFarInSeason": 2,
+          "videoClipUrl": "https://videos.liiga.fi/videos/3e20d0d9-dfb6-4a99-9d43-92050099b235/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/3e20d0d9-dfb6-4a99-9d43-92050099b235/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/3e20d0d9-dfb6-4a99-9d43-92050099b235/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 30984675,
+          "scorerPlayer": {
+            "playerId": 30984675,
+            "firstName": "Aleksi",
+            "lastName": "Matinmikko"
+          },
+          "logTime": "2026-10-07T13:57:05Z",
+          "winningGoal": false,
+          "gameTime": 2148,
+          "period": 2,
+          "eventId": 161,
+          "goalTypes": [],
+          "assistantPlayerIds": [],
+          "assistantPlayers": [],
+          "plusPlayerIds": "21 25 19 27 8",
+          "minusPlayerIds": "51 8 4 77 78",
+          "homeTeamScore": 5,
+          "awayTeamScore": 2,
+          "assistsSoFarInSeason": {},
+          "goalsSoFarInSeason": 3,
+          "videoClipUrl": "https://videos.liiga.fi/videos/2026f12c-f634-4666-9c79-0bf841a690ed/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/2026f12c-f634-4666-9c79-0bf841a690ed/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/2026f12c-f634-4666-9c79-0bf841a690ed/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 25657580,
+          "scorerPlayer": {
+            "playerId": 25657580,
+            "firstName": "Rasmus",
+            "lastName": "Rissanen"
+          },
+          "logTime": "2026-10-07T13:59:54Z",
+          "winningGoal": false,
+          "gameTime": 2245,
+          "period": 2,
+          "eventId": 168,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            29864256,
+            23889127
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 29864256,
+              "firstName": "Eemil",
+              "lastName": "Erholtz"
+            },
+            {
+              "playerId": 23889127,
+              "firstName": "Eetu",
+              "lastName": "Koivistoinen"
+            }
+          ],
+          "plusPlayerIds": "3 2 31 73 93",
+          "minusPlayerIds": "90 17 55 25 51",
+          "homeTeamScore": 6,
+          "awayTeamScore": 2,
+          "assistsSoFarInSeason": {
+            "23889127": 3,
+            "29864256": 3
+          },
+          "goalsSoFarInSeason": 2,
+          "videoClipUrl": "https://videos.liiga.fi/videos/20250d62-fce4-4eb0-85f6-5707f1b6e6ac/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/20250d62-fce4-4eb0-85f6-5707f1b6e6ac/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/20250d62-fce4-4eb0-85f6-5707f1b6e6ac/thumbnail.jpeg"
+        }
+      ],
+      "powerplayInstances": 1,
+      "powerplayGoals": 1,
+      "shortHandedInstances": 2,
+      "shortHandedGoals": 1,
+      "expectedGoals": 1.77,
+      "ranking": 7,
+      "gameStartDateTime": "2026-10-07T18:30:00+03:00",
+      "logos": {
+        "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F57b5b1a6c04f43368910ee73822513d8",
+        "lightBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F57b5b1a6c04f43368910ee73822513d8",
+        "darkBgOriginal": null,
+        "lightBgOriginal": null
+      }
+    },
+    "awayTeam": {
+      "teamId": "1368624751:k-espoo",
+      "teamPlaceholder": null,
+      "teamName": "K-Espoo",
+      "goals": 2,
+      "timeOut": null,
+      "goalEvents": [
+        {
+          "scorerPlayerId": 61067273,
+          "scorerPlayer": {
+            "playerId": 61067273,
+            "firstName": "Mathias",
+            "lastName": "From"
+          },
+          "logTime": "2026-10-07T13:06:12Z",
+          "winningGoal": false,
+          "gameTime": 1116,
+          "period": 1,
+          "eventId": 77,
+          "goalTypes": [
+            "YV"
+          ],
+          "assistantPlayerIds": [
+            60899622,
+            61067270
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 60899622,
+              "firstName": "Lukas",
+              "lastName": "Svejkovsky"
+            },
+            {
+              "playerId": 61067270,
+              "firstName": "Connor",
+              "lastName": "Corcoran"
+            }
+          ],
+          "plusPlayerIds": null,
+          "minusPlayerIds": null,
+          "homeTeamScore": 3,
+          "awayTeamScore": 1,
+          "assistsSoFarInSeason": {
+            "60899622": 4,
+            "61067270": 2
+          },
+          "goalsSoFarInSeason": 4,
+          "videoClipUrl": "https://videos.liiga.fi/videos/5dd51906-2b20-4b3a-b1b1-5862aefeaf7d/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/5dd51906-2b20-4b3a-b1b1-5862aefeaf7d/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/5dd51906-2b20-4b3a-b1b1-5862aefeaf7d/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 61067273,
+          "scorerPlayer": {
+            "playerId": 61067273,
+            "firstName": "Mathias",
+            "lastName": "From"
+          },
+          "logTime": "2026-10-07T13:51:36Z",
+          "winningGoal": false,
+          "gameTime": 2018,
+          "period": 2,
+          "eventId": 152,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            61067270,
+            22768061
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 61067270,
+              "firstName": "Connor",
+              "lastName": "Corcoran"
+            },
+            {
+              "playerId": 22768061,
+              "firstName": "Kristian",
+              "lastName": "Näkyvä"
+            }
+          ],
+          "plusPlayerIds": "51 4 8 17 77",
+          "minusPlayerIds": "80 62 59 3 26",
+          "homeTeamScore": 4,
+          "awayTeamScore": 2,
+          "assistsSoFarInSeason": {
+            "22768061": 6,
+            "61067270": 3
+          },
+          "goalsSoFarInSeason": 5,
+          "videoClipUrl": "https://videos.liiga.fi/videos/40aa9c9a-b53b-42bf-8ed3-3f5c07e1d623/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/40aa9c9a-b53b-42bf-8ed3-3f5c07e1d623/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/40aa9c9a-b53b-42bf-8ed3-3f5c07e1d623/thumbnail.jpeg"
+        }
+      ],
+      "powerplayInstances": 2,
+      "powerplayGoals": 1,
+      "shortHandedInstances": 1,
+      "shortHandedGoals": 0,
+      "expectedGoals": 1.1,
+      "ranking": 8,
+      "gameStartDateTime": "2026-10-07T18:30:00+03:00",
+      "logos": {
+        "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
+        "lightBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
+        "darkBgOriginal": null,
+        "lightBgOriginal": null
+      }
+    },
+    "periods": [
+      {
+        "index": 1,
+        "homeTeamGoals": 3,
+        "awayTeamGoals": 1,
+        "category": "NORMAL",
+        "startTime": 0,
+        "endTime": 1200
+      },
+      {
+        "index": 2,
+        "homeTeamGoals": 3,
+        "awayTeamGoals": 1,
+        "category": "NORMAL",
+        "startTime": 1200,
+        "endTime": 2400
+      },
+      {
+        "index": 3,
+        "homeTeamGoals": 0,
+        "awayTeamGoals": 0,
+        "category": "NORMAL",
+        "startTime": 2400,
+        "endTime": 3600
+      },
+      {
+        "index": 4,
+        "homeTeamGoals": 0,
+        "awayTeamGoals": 0,
+        "category": "OVERTIME",
+        "startTime": 3600,
+        "endTime": 3900
+      },
+      {
+        "index": 5,
+        "homeTeamGoals": 0,
+        "awayTeamGoals": 0,
+        "category": "WINNING_SHOT_COMPETITION",
+        "startTime": 3900,
+        "endTime": 3900
+      }
+    ],
+    "finishedType": "ACTIVE_OR_NOT_STARTED",
+    "started": true,
+    "ended": false,
+    "gameTime": 2400,
+    "spectators": 4232,
+    "playOffPair": 0,
+    "playOffPhase": 0,
+    "playOffReqWins": 0,
+    "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-k-espoo-lippuja/213162761",
+    "gamblingEvent": {
+      "homeTeamOdds": 102,
+      "awayTeamOdds": 4700,
+      "tieOdds": 3900,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1020136"
+    },
+    "iceRink": {
+      "id": 131,
+      "name": "Oulun jäähalli",
+      "latitude": 65.0084,
+      "longitude": 25.494,
+      "streetAddress": "Teuvo Pakkalankatu 11",
+      "zip": "90100",
+      "city": "OULU"
+    },
+    "currentPeriod": 2,
+    "stale": false,
+    "serie": "RUNKOSARJA",
+    "gameWeek": 6
+  },
+  {
+    "id": 2701362,
+    "season": 2027,
+    "start": "2026-10-07T15:30:00Z",
+    "homeTeam": {
+      "teamId": "626537494:sport",
+      "teamPlaceholder": null,
+      "teamName": "Sport",
+      "goals": 2,
+      "timeOut": null,
+      "goalEvents": [
+        {
+          "scorerPlayerId": 60501427,
+          "scorerPlayer": {
+            "playerId": 60501427,
+            "firstName": "Brett",
+            "lastName": "Harrison"
+          },
+          "logTime": "2026-10-07T12:40:31Z",
+          "winningGoal": false,
+          "gameTime": 375,
+          "period": 1,
+          "eventId": 26,
+          "goalTypes": [],
+          "assistantPlayerIds": [],
+          "assistantPlayers": [],
+          "plusPlayerIds": "9 44 3 8 55",
+          "minusPlayerIds": "71 6 19 43 38",
+          "homeTeamScore": 1,
+          "awayTeamScore": 0,
+          "assistsSoFarInSeason": {},
+          "goalsSoFarInSeason": 1,
+          "videoClipUrl": "https://videos.liiga.fi/videos/643f77c2-bc93-4ea0-bfa9-b6cce86de86e/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/643f77c2-bc93-4ea0-bfa9-b6cce86de86e/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/643f77c2-bc93-4ea0-bfa9-b6cce86de86e/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 60501427,
+          "scorerPlayer": {
+            "playerId": 60501427,
+            "firstName": "Brett",
+            "lastName": "Harrison"
+          },
+          "logTime": "2026-10-07T12:54:42Z",
+          "winningGoal": false,
+          "gameTime": 780,
+          "period": 1,
+          "eventId": 50,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            34254136,
+            40056206
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 34254136,
+              "firstName": "Charles",
+              "lastName": "Bertrand"
+            },
+            {
+              "playerId": 40056206,
+              "firstName": "Masi",
+              "lastName": "Härkönen"
+            }
+          ],
+          "plusPlayerIds": "26 16 3 9 44",
+          "minusPlayerIds": "9 29 57 27 92",
+          "homeTeamScore": 2,
+          "awayTeamScore": 0,
+          "assistsSoFarInSeason": {
+            "34254136": 1,
+            "40056206": 1
+          },
+          "goalsSoFarInSeason": 2,
+          "videoClipUrl": "https://videos.liiga.fi/videos/9a7cd00f-4d6a-42fa-8bf6-fc17b2e6fc22/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/9a7cd00f-4d6a-42fa-8bf6-fc17b2e6fc22/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/9a7cd00f-4d6a-42fa-8bf6-fc17b2e6fc22/thumbnail.jpeg"
+        }
+      ],
+      "powerplayInstances": 2,
+      "powerplayGoals": 0,
+      "shortHandedInstances": 0,
+      "shortHandedGoals": 0,
+      "expectedGoals": 1.25,
+      "ranking": 14,
+      "gameStartDateTime": "2026-10-07T18:30:00+03:00",
+      "logos": {
+        "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
+        "lightBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
+        "darkBgOriginal": null,
+        "lightBgOriginal": null
+      }
+    },
+    "awayTeam": {
+      "teamId": "951626834:ilves",
+      "teamPlaceholder": null,
+      "teamName": "Ilves",
+      "goals": 1,
+      "timeOut": null,
+      "goalEvents": [
+        {
+          "scorerPlayerId": 60860278,
+          "scorerPlayer": {
+            "playerId": 60860278,
+            "firstName": "Erik",
+            "lastName": "Borg"
+          },
+          "logTime": "2026-10-07T12:58:51Z",
+          "winningGoal": false,
+          "gameTime": 932,
+          "period": 1,
+          "eventId": 56,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            40036062,
+            61084035
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 40036062,
+              "firstName": "Iivari",
+              "lastName": "Heikkinen"
+            },
+            {
+              "playerId": 61084035,
+              "firstName": "Austin",
+              "lastName": "Strand"
+            }
+          ],
+          "plusPlayerIds": "11 27 57 86 22",
+          "minusPlayerIds": "89 86 16 71 26",
+          "homeTeamScore": 2,
+          "awayTeamScore": 1,
+          "assistsSoFarInSeason": {
+            "40036062": 2,
+            "61084035": 2
+          },
+          "goalsSoFarInSeason": 2,
+          "videoClipUrl": "https://videos.liiga.fi/videos/9f4c060c-2360-40b9-bb45-9ab311cdf226/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/9f4c060c-2360-40b9-bb45-9ab311cdf226/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/9f4c060c-2360-40b9-bb45-9ab311cdf226/thumbnail.jpeg"
+        }
+      ],
+      "powerplayInstances": 0,
+      "powerplayGoals": 0,
+      "shortHandedInstances": 2,
+      "shortHandedGoals": 0,
+      "expectedGoals": 1.72,
+      "ranking": 1,
+      "gameStartDateTime": "2026-10-07T18:30:00+03:00",
+      "logos": {
+        "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F079e0e0bde4f43b8b8afa667d3285ebc",
+        "lightBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F079e0e0bde4f43b8b8afa667d3285ebc",
+        "darkBgOriginal": null,
+        "lightBgOriginal": null
+      }
+    },
+    "periods": [
+      {
+        "index": 1,
+        "homeTeamGoals": 2,
+        "awayTeamGoals": 1,
         "category": "NORMAL",
         "startTime": 0,
         "endTime": 1200
@@ -27802,244 +28513,16 @@
     "finishedType": "ACTIVE_OR_NOT_STARTED",
     "started": true,
     "ended": false,
-    "gameTime": 1200,
+    "gameTime": 2400,
     "spectators": 0,
-    "playOffPair": 0,
-    "playOffPhase": 0,
-    "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.lippu.fi/artist/jukurit/",
-    "gamblingEvent": {
-      "homeTeamOdds": 255,
-      "awayTeamOdds": 265,
-      "tieOdds": 340,
-      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1025796"
-    },
-    "iceRink": {
-      "id": 111,
-      "name": "Mikkelin jäähalli",
-      "latitude": 61.6926,
-      "longitude": 27.2546,
-      "streetAddress": "Raviradantie 1",
-      "zip": "50100",
-      "city": "MIKKELI"
-    },
-    "currentPeriod": 1,
-    "stale": false,
-    "serie": "RUNKOSARJA",
-    "gameWeek": 6
-  },
-  {
-    "id": 2701359,
-    "season": 2027,
-    "start": "2026-10-07T15:30:00Z",
-    "homeTeam": {
-      "teamId": "495643563:kärpät",
-      "teamPlaceholder": null,
-      "teamName": "Kärpät",
-      "goals": 0,
-      "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
-      "powerplayGoals": 0,
-      "shortHandedInstances": 0,
-      "shortHandedGoals": 0,
-      "ranking": 7,
-      "gameStartDateTime": "2026-10-07T18:30:00+03:00",
-      "logos": {
-        "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F57b5b1a6c04f43368910ee73822513d8",
-        "lightBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F57b5b1a6c04f43368910ee73822513d8",
-        "darkBgOriginal": null,
-        "lightBgOriginal": null
-      }
-    },
-    "awayTeam": {
-      "teamId": "1368624751:k-espoo",
-      "teamPlaceholder": null,
-      "teamName": "K-Espoo",
-      "goals": 0,
-      "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
-      "powerplayGoals": 0,
-      "shortHandedInstances": 0,
-      "shortHandedGoals": 0,
-      "ranking": 8,
-      "gameStartDateTime": "2026-10-07T18:30:00+03:00",
-      "logos": {
-        "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
-        "lightBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fbf4ab47ce42640ebad139fd11a6a7861",
-        "darkBgOriginal": null,
-        "lightBgOriginal": null
-      }
-    },
-    "periods": [
-      {
-        "index": 1,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
-        "category": "NORMAL",
-        "startTime": 0,
-        "endTime": 1200
-      },
-      {
-        "index": 2,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
-        "category": "NORMAL",
-        "startTime": 1200,
-        "endTime": 2400
-      },
-      {
-        "index": 3,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
-        "category": "NORMAL",
-        "startTime": 2400,
-        "endTime": 3600
-      },
-      {
-        "index": 4,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
-        "category": "OVERTIME",
-        "startTime": 3600,
-        "endTime": 3900
-      },
-      {
-        "index": 5,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
-        "category": "WINNING_SHOT_COMPETITION",
-        "startTime": 3900,
-        "endTime": 3900
-      }
-    ],
-    "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
-    "ended": false,
-    "gameTime": 0,
-    "playOffPair": 0,
-    "playOffPhase": 0,
-    "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-k-espoo-lippuja/213162761",
-    "gamblingEvent": {
-      "homeTeamOdds": 244,
-      "awayTeamOdds": 268,
-      "tieOdds": 385,
-      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1020136"
-    },
-    "iceRink": {
-      "id": 131,
-      "name": "Oulun jäähalli",
-      "latitude": 65.0084,
-      "longitude": 25.494,
-      "streetAddress": "Teuvo Pakkalankatu 11",
-      "zip": "90100",
-      "city": "OULU"
-    },
-    "currentPeriod": 0,
-    "stale": false,
-    "serie": "RUNKOSARJA",
-    "gameWeek": 6
-  },
-  {
-    "id": 2701362,
-    "season": 2027,
-    "start": "2026-10-07T15:30:00Z",
-    "homeTeam": {
-      "teamId": "626537494:sport",
-      "teamPlaceholder": null,
-      "teamName": "Sport",
-      "goals": 0,
-      "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
-      "powerplayGoals": 0,
-      "shortHandedInstances": 0,
-      "shortHandedGoals": 0,
-      "ranking": 14,
-      "gameStartDateTime": "2026-10-07T18:30:00+03:00",
-      "logos": {
-        "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
-        "lightBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
-        "darkBgOriginal": null,
-        "lightBgOriginal": null
-      }
-    },
-    "awayTeam": {
-      "teamId": "951626834:ilves",
-      "teamPlaceholder": null,
-      "teamName": "Ilves",
-      "goals": 0,
-      "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
-      "powerplayGoals": 0,
-      "shortHandedInstances": 0,
-      "shortHandedGoals": 0,
-      "ranking": 1,
-      "gameStartDateTime": "2026-10-07T18:30:00+03:00",
-      "logos": {
-        "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F079e0e0bde4f43b8b8afa667d3285ebc",
-        "lightBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F079e0e0bde4f43b8b8afa667d3285ebc",
-        "darkBgOriginal": null,
-        "lightBgOriginal": null
-      }
-    },
-    "periods": [
-      {
-        "index": 1,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
-        "category": "NORMAL",
-        "startTime": 0,
-        "endTime": 1200
-      },
-      {
-        "index": 2,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
-        "category": "NORMAL",
-        "startTime": 1200,
-        "endTime": 2400
-      },
-      {
-        "index": 3,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
-        "category": "NORMAL",
-        "startTime": 2400,
-        "endTime": 3600
-      },
-      {
-        "index": 4,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
-        "category": "OVERTIME",
-        "startTime": 3600,
-        "endTime": 3900
-      },
-      {
-        "index": 5,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
-        "category": "WINNING_SHOT_COMPETITION",
-        "startTime": 3900,
-        "endTime": 3900
-      }
-    ],
-    "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
-    "ended": false,
-    "gameTime": 0,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
     "gamblingEvent": {
-      "homeTeamOdds": 370,
-      "awayTeamOdds": 189,
-      "tieOdds": 410,
+      "homeTeamOdds": 160,
+      "awayTeamOdds": 725,
+      "tieOdds": 331,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1025795"
     },
     "iceRink": {
@@ -28051,7 +28534,7 @@
       "zip": "65350",
       "city": "VAASA"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 2,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 6
@@ -28071,7 +28554,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-10-08T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -28091,7 +28574,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-10-08T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -28319,7 +28802,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-10-09T17:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -28839,7 +29322,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-10-09T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -29723,7 +30206,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-10-14T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -29811,7 +30294,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-10-14T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -29919,7 +30402,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-10-15T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -30479,7 +30962,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-10-16T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -30675,7 +31158,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-10-16T19:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -31215,7 +31698,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-10-17T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -31323,7 +31806,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-10-17T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -31971,7 +32454,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-10-20T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -32315,7 +32798,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-10-21T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -32403,7 +32886,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-10-22T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -32747,7 +33230,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-10-23T18:30:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -33267,7 +33750,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-10-24T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -33287,7 +33770,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-10-24T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -33827,7 +34310,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-10-24T17:00:00+03:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -34131,7 +34614,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-10-28T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -34367,7 +34850,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-10-28T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -34583,7 +35066,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-10-28T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -34995,7 +35478,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-10-30T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -35015,7 +35498,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-10-30T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -35211,7 +35694,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-10-30T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -35643,7 +36126,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-10-31T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -36095,7 +36578,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-10-31T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -36419,7 +36902,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-11-11T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -36615,7 +37098,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-11-11T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -37283,7 +37766,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-11-13T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -37371,7 +37854,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-11-13T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -37715,7 +38198,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-11-13T19:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -37911,7 +38394,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-11-14T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -38235,7 +38718,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-11-14T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -38363,7 +38846,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-11-15T15:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -38451,7 +38934,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-11-17T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -38579,7 +39062,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-11-18T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -39099,7 +39582,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-11-18T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -39639,7 +40122,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-11-20T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -39747,7 +40230,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-11-20T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -39983,7 +40466,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-11-21T14:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -40631,7 +41114,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-11-24T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -40719,7 +41202,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-11-24T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -41495,7 +41978,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-11-27T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -41927,7 +42410,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-11-27T19:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -42123,7 +42606,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-11-28T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -42339,7 +42822,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-11-28T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -42555,7 +43038,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-11-28T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -42663,7 +43146,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-12-01T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -42683,7 +43166,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-12-01T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -43115,7 +43598,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-12-02T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -43547,7 +44030,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-12-03T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -43655,7 +44138,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-12-04T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -43871,7 +44354,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-12-04T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -44283,7 +44766,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-12-05T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -44607,7 +45090,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-12-05T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -44823,7 +45306,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-12-05T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -44931,7 +45414,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-12-08T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -45039,7 +45522,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-12-08T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -45795,7 +46278,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-12-09T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -46011,7 +46494,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-12-11T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -46227,7 +46710,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-12-11T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -46463,7 +46946,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-12-11T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -46679,7 +47162,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-12-12T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -47091,7 +47574,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-12-12T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -47759,7 +48242,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-12-16T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -48387,7 +48870,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-12-18T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -48407,7 +48890,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-12-18T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -48603,7 +49086,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-12-18T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -49467,7 +49950,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-12-19T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -49595,7 +50078,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-12-20T15:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -49811,7 +50294,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-12-26T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -50135,7 +50618,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-12-26T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -50243,7 +50726,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-12-26T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -50763,7 +51246,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-12-28T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -51087,7 +51570,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-12-28T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -51195,7 +51678,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2026-12-29T17:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -51627,7 +52110,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2026-12-30T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -51951,7 +52434,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2026-12-30T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -52403,7 +52886,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-01-02T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -52815,7 +53298,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-01-02T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -53247,7 +53730,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-01-05T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -53463,7 +53946,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-01-05T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -53591,7 +54074,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-01-06T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -53699,7 +54182,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-01-06T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -54111,7 +54594,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-01-08T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -54455,7 +54938,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-01-08T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -54563,7 +55046,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-01-08T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -54887,7 +55370,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-01-09T15:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -55319,7 +55802,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-01-09T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -55751,7 +56234,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-01-12T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -55839,7 +56322,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-01-13T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -56271,7 +56754,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-01-13T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -56379,7 +56862,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-01-14T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -56919,7 +57402,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-01-15T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -57243,7 +57726,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-01-16T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -57459,7 +57942,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-01-16T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -57911,7 +58394,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-01-19T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -57999,7 +58482,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-01-19T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -58019,7 +58502,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-01-19T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -58883,7 +59366,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-01-22T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -59079,7 +59562,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-01-22T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -59099,7 +59582,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-01-22T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -59511,7 +59994,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-01-23T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -59855,7 +60338,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-01-23T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -60179,7 +60662,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-01-26T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -60395,7 +60878,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-01-26T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -60503,7 +60986,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-01-27T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -61131,7 +61614,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-01-29T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -61455,7 +61938,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-01-29T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -61563,7 +62046,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-01-29T19:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -61799,7 +62282,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-01-30T16:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -61907,7 +62390,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-01-30T16:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -62015,7 +62498,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-01-30T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -62447,7 +62930,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-02-01T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -62663,7 +63146,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-02-02T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -62967,7 +63450,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-02-03T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -63291,7 +63774,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-02-03T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -63831,7 +64314,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-02-05T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -64067,7 +64550,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-02-06T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -64391,7 +64874,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-02-06T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -64479,7 +64962,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-02-06T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -65363,7 +65846,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-02-16T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -65451,7 +65934,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-02-16T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -65579,7 +66062,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-02-17T17:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -66099,7 +66582,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-02-19T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -66207,7 +66690,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-02-19T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -66335,7 +66818,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-02-19T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -66639,7 +67122,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-02-20T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -66875,7 +67358,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-02-20T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -66983,7 +67466,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-02-20T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -67611,7 +68094,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-02-23T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -67719,7 +68202,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-02-23T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -67739,7 +68222,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-02-23T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -68279,7 +68762,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-02-25T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -68475,7 +68958,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-02-26T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -69143,7 +69626,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-02-27T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -69447,7 +69930,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-02-27T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -69771,7 +70254,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-02-28T16:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -70007,7 +70490,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-03-02T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -70115,7 +70598,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-03-02T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -70223,7 +70706,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-03-02T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -70527,7 +71010,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-03-03T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -70763,7 +71246,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-03-04T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -71067,7 +71550,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-03-05T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -71303,7 +71786,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-03-05T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -71627,7 +72110,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-03-06T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -72255,7 +72738,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-03-09T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -72471,7 +72954,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-03-09T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -73463,7 +73946,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-03-12T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -73679,7 +74162,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-03-12T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -73875,7 +74358,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-03-13T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -74091,7 +74574,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-03-13T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -74199,7 +74682,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-03-13T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -74651,7 +75134,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-03-16T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -74975,7 +75458,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-03-16T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -75063,7 +75546,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-03-16T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -75603,7 +76086,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-03-19T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -76251,7 +76734,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-03-20T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -76467,7 +76950,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-03-20T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
@@ -76487,7 +76970,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-03-20T17:00:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -76683,7 +77166,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 4,
+      "ranking": 5,
       "gameStartDateTime": "2027-03-23T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Ff4d92d41c1c44d34b6ebb117490966f6",
@@ -76703,7 +77186,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 3,
+      "ranking": 4,
       "gameStartDateTime": "2027-03-23T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F5640db8b21854732baf6afc56fc013b5",
@@ -76811,7 +77294,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 0,
       "shortHandedGoals": 0,
-      "ranking": 5,
+      "ranking": 3,
       "gameStartDateTime": "2027-03-23T18:30:00+02:00",
       "logos": {
         "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe4c7031958a043cdb8ca80c3c353f0c6",
