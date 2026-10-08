@@ -1,24 +1,24 @@
 {
-  "updatedAt": "08.10.2026 20:09",
+  "updatedAt": "09.10.2026 01:49",
   "team": {
     "name": "Jokerit",
-    "position": 16,
-    "games": 11,
-    "wins": 2,
+    "position": 15,
+    "games": 12,
+    "wins": 3,
     "losses": 8,
     "ot": 1,
-    "points": 7
+    "points": 10
   },
   "nextGame": {
-    "date": "08.10.2026",
-    "time": "18:30",
+    "date": "10.10.2026",
+    "time": "17:00",
     "home": "Jokerit",
-    "away": "HIFK"
+    "away": "Ilves"
   },
   "lastGame": {
-    "date": "03.10.2026",
-    "home": "SaiPa",
-    "away": "Jokerit",
+    "date": "08.10.2026",
+    "home": "Jokerit",
+    "away": "HIFK",
     "result": "3–2"
   }
 }
