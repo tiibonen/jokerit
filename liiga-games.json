@@ -30469,7 +30469,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/118?position=10",
+    "buyTicketsUrl": "https://kookoo.tmtickets.fi/",
     "gamblingEvent": {
       "homeTeamOdds": 108,
       "awayTeamOdds": 2800,
@@ -31253,7 +31253,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-hpk-lippuja/1961498380",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/assat",
     "gamblingEvent": {
       "homeTeamOdds": 2500,
       "awayTeamOdds": 139,
@@ -31585,7 +31585,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/148?position=6",
+    "buyTicketsUrl": "https://kalpa.tmtickets.fi",
     "gamblingEvent": {
       "homeTeamOdds": 575,
       "awayTeamOdds": 151,
@@ -32157,9 +32157,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-kalpa-lippuja/1659152026",
     "gamblingEvent": {
-      "homeTeamOdds": 235,
-      "awayTeamOdds": 268,
-      "tieOdds": 390,
+      "homeTeamOdds": 237,
+      "awayTeamOdds": 270,
+      "tieOdds": 395,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1041367"
     },
     "iceRink": {
