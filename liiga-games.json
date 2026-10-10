@@ -33340,11 +33340,11 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-kalpa-lippuja/1659152026",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/hifk-lippuja/90363",
     "gamblingEvent": {
-      "homeTeamOdds": 280,
-      "awayTeamOdds": 262,
-      "tieOdds": 307,
+      "homeTeamOdds": 100,
+      "awayTeamOdds": 4800,
+      "tieOdds": 4800,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1041367"
     },
     "iceRink": {
