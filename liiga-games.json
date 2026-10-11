@@ -33455,6 +33455,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-tps-lippuja/437099953",
+    "gamblingEvent": {
+      "homeTeamOdds": 315,
+      "awayTeamOdds": 205,
+      "tieOdds": 400,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1224865"
+    },
     "iceRink": {
       "id": 21,
       "name": "Helsingin jäähalli I",
@@ -33563,6 +33569,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/132?position=7",
+    "gamblingEvent": {
+      "homeTeamOdds": 257,
+      "awayTeamOdds": 250,
+      "tieOdds": 380,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1057420"
+    },
     "iceRink": {
       "id": 78,
       "name": "Kuopion jäähalli",
@@ -33671,6 +33683,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://jyp.tmtickets.fi/Events",
+    "gamblingEvent": {
+      "homeTeamOdds": 227,
+      "awayTeamOdds": 275,
+      "tieOdds": 400,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1063266"
+    },
     "iceRink": {
       "id": 39,
       "name": "Jyväskylän jäähalli",
