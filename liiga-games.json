@@ -33456,9 +33456,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-tps-lippuja/437099953",
     "gamblingEvent": {
-      "homeTeamOdds": 315,
+      "homeTeamOdds": 310,
       "awayTeamOdds": 208,
-      "tieOdds": 400,
+      "tieOdds": 395,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1224865"
     },
     "iceRink": {
