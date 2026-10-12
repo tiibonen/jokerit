@@ -30819,124 +30819,6 @@
     "gameWeek": 6
   },
   {
-    "id": 2701370,
-    "season": 2027,
-    "start": "2026-10-09T15:30:00Z",
-    "end": "2026-10-09T18:30:00Z",
-    "homeTeam": {
-      "teamId": "651304385:tps",
-      "teamPlaceholder": null,
-      "teamName": "TPS",
-      "goals": 0,
-      "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
-      "powerplayGoals": 0,
-      "shortHandedInstances": 0,
-      "shortHandedGoals": 0,
-      "expectedGoals": 0,
-      "ranking": 9,
-      "gameStartDateTime": "2026-10-09T18:30:00+03:00",
-      "logos": {
-        "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe07109c96edf4561b8b5021e7fc44526",
-        "lightBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe07109c96edf4561b8b5021e7fc44526",
-        "darkBgOriginal": null,
-        "lightBgOriginal": null
-      }
-    },
-    "awayTeam": {
-      "teamId": "626537494:sport",
-      "teamPlaceholder": null,
-      "teamName": "Sport",
-      "goals": 0,
-      "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
-      "powerplayGoals": 0,
-      "shortHandedInstances": 0,
-      "shortHandedGoals": 0,
-      "expectedGoals": 0,
-      "ranking": 14,
-      "gameStartDateTime": "2026-10-09T18:30:00+03:00",
-      "logos": {
-        "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
-        "lightBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
-        "darkBgOriginal": null,
-        "lightBgOriginal": null
-      }
-    },
-    "periods": [
-      {
-        "index": 1,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
-        "category": "NORMAL",
-        "startTime": 0,
-        "endTime": 1200
-      },
-      {
-        "index": 2,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
-        "category": "NORMAL",
-        "startTime": 1200,
-        "endTime": 2400
-      },
-      {
-        "index": 3,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
-        "category": "NORMAL",
-        "startTime": 2400,
-        "endTime": 3600
-      },
-      {
-        "index": 4,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
-        "category": "OVERTIME",
-        "startTime": 3600,
-        "endTime": 3900
-      },
-      {
-        "index": 5,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
-        "category": "WINNING_SHOT_COMPETITION",
-        "startTime": 3900,
-        "endTime": 3900
-      }
-    ],
-    "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
-    "ended": false,
-    "gameTime": 0,
-    "spectators": 0,
-    "playOffPair": 0,
-    "playOffPhase": 0,
-    "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.lippu.fi/artist/hctps/",
-    "gamblingEvent": {
-      "homeTeamOdds": 164,
-      "awayTeamOdds": 485,
-      "tieOdds": 440,
-      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1035528"
-    },
-    "iceRink": {
-      "id": 199,
-      "name": "Turun Monitoimihalli Oy",
-      "latitude": 60.4562,
-      "longitude": 22.1869,
-      "streetAddress": "Artukaisentie 8",
-      "zip": "20210",
-      "city": "TURKU"
-    },
-    "currentPeriod": 0,
-    "stale": false,
-    "serie": "RUNKOSARJA",
-    "gameWeek": 6
-  },
-  {
     "id": 2701371,
     "season": 2027,
     "start": "2026-10-09T15:30:00Z",
@@ -33456,8 +33338,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-tps-lippuja/437099953",
     "gamblingEvent": {
-      "homeTeamOdds": 310,
-      "awayTeamOdds": 208,
+      "homeTeamOdds": 307,
+      "awayTeamOdds": 211,
       "tieOdds": 395,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1224865"
     },
@@ -33570,8 +33452,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/132?position=7",
     "gamblingEvent": {
-      "homeTeamOdds": 257,
-      "awayTeamOdds": 250,
+      "homeTeamOdds": 265,
+      "awayTeamOdds": 242,
       "tieOdds": 380,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1057420"
     },
@@ -33905,6 +33787,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
+    "gamblingEvent": {
+      "homeTeamOdds": 228,
+      "awayTeamOdds": 275,
+      "tieOdds": 400,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1068213"
+    },
     "iceRink": {
       "id": 205,
       "name": "Vaasan jäähalli I",
@@ -46441,6 +46329,123 @@
       "streetAddress": "Isomäki",
       "zip": "28130",
       "city": "PORI"
+    },
+    "currentPeriod": 0,
+    "stale": false,
+    "serie": "RUNKOSARJA",
+    "gameWeek": 12
+  },
+  {
+    "id": 2701370,
+    "season": 2027,
+    "start": "2026-11-29T15:00:00Z",
+    "homeTeam": {
+      "teamId": "651304385:tps",
+      "teamPlaceholder": null,
+      "teamName": "TPS",
+      "goals": 0,
+      "timeOut": null,
+      "goalEvents": [],
+      "powerplayInstances": 0,
+      "powerplayGoals": 0,
+      "shortHandedInstances": 0,
+      "shortHandedGoals": 0,
+      "expectedGoals": 0,
+      "ranking": 11,
+      "gameStartDateTime": "2026-11-29T17:00:00+02:00",
+      "logos": {
+        "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe07109c96edf4561b8b5021e7fc44526",
+        "lightBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2Fe07109c96edf4561b8b5021e7fc44526",
+        "darkBgOriginal": null,
+        "lightBgOriginal": null
+      }
+    },
+    "awayTeam": {
+      "teamId": "626537494:sport",
+      "teamPlaceholder": null,
+      "teamName": "Sport",
+      "goals": 0,
+      "timeOut": null,
+      "goalEvents": [],
+      "powerplayInstances": 0,
+      "powerplayGoals": 0,
+      "shortHandedInstances": 0,
+      "shortHandedGoals": 0,
+      "expectedGoals": 0,
+      "ranking": 15,
+      "gameStartDateTime": "2026-11-29T17:00:00+02:00",
+      "logos": {
+        "darkBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
+        "lightBg": "https://cdn.builder.io/api/v1/image/assets%2Ff11503eeae084753968caac3899a5d78%2F77efd6df129843699ae9a4c2e94efcb2",
+        "darkBgOriginal": null,
+        "lightBgOriginal": null
+      }
+    },
+    "periods": [
+      {
+        "index": 1,
+        "homeTeamGoals": 0,
+        "awayTeamGoals": 0,
+        "category": "NORMAL",
+        "startTime": 0,
+        "endTime": 1200
+      },
+      {
+        "index": 2,
+        "homeTeamGoals": 0,
+        "awayTeamGoals": 0,
+        "category": "NORMAL",
+        "startTime": 1200,
+        "endTime": 2400
+      },
+      {
+        "index": 3,
+        "homeTeamGoals": 0,
+        "awayTeamGoals": 0,
+        "category": "NORMAL",
+        "startTime": 2400,
+        "endTime": 3600
+      },
+      {
+        "index": 4,
+        "homeTeamGoals": 0,
+        "awayTeamGoals": 0,
+        "category": "OVERTIME",
+        "startTime": 3600,
+        "endTime": 3900
+      },
+      {
+        "index": 5,
+        "homeTeamGoals": 0,
+        "awayTeamGoals": 0,
+        "category": "WINNING_SHOT_COMPETITION",
+        "startTime": 3900,
+        "endTime": 3900
+      }
+    ],
+    "finishedType": "ACTIVE_OR_NOT_STARTED",
+    "started": false,
+    "ended": false,
+    "gameTime": 0,
+    "spectators": 0,
+    "playOffPair": 0,
+    "playOffPhase": 0,
+    "playOffReqWins": 0,
+    "buyTicketsUrl": "https://www.lippu.fi/artist/hctps/",
+    "gamblingEvent": {
+      "homeTeamOdds": 164,
+      "awayTeamOdds": 485,
+      "tieOdds": 440,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1035528"
+    },
+    "iceRink": {
+      "id": 199,
+      "name": "Turun Monitoimihalli Oy",
+      "latitude": 60.4562,
+      "longitude": 22.1869,
+      "streetAddress": "Artukaisentie 8",
+      "zip": "20210",
+      "city": "TURKU"
     },
     "currentPeriod": 0,
     "stale": false,
