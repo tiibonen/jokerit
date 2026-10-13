@@ -33338,8 +33338,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-tps-lippuja/437099953",
     "gamblingEvent": {
-      "homeTeamOdds": 307,
-      "awayTeamOdds": 211,
+      "homeTeamOdds": 300,
+      "awayTeamOdds": 215,
       "tieOdds": 395,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1224865"
     },
@@ -33794,8 +33794,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
     "gamblingEvent": {
-      "homeTeamOdds": 228,
-      "awayTeamOdds": 275,
+      "homeTeamOdds": 224,
+      "awayTeamOdds": 280,
       "tieOdds": 400,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1068213"
     },
