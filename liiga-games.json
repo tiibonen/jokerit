@@ -33338,9 +33338,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-tps-lippuja/437099953",
     "gamblingEvent": {
-      "homeTeamOdds": 300,
-      "awayTeamOdds": 215,
-      "tieOdds": 395,
+      "homeTeamOdds": 303,
+      "awayTeamOdds": 217,
+      "tieOdds": 400,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1224865"
     },
     "iceRink": {
@@ -33452,9 +33452,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/132?position=7",
     "gamblingEvent": {
-      "homeTeamOdds": 265,
+      "homeTeamOdds": 270,
       "awayTeamOdds": 242,
-      "tieOdds": 380,
+      "tieOdds": 385,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1057420"
     },
     "iceRink": {
@@ -33566,9 +33566,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://jyp.tmtickets.fi/Events",
     "gamblingEvent": {
-      "homeTeamOdds": 227,
-      "awayTeamOdds": 275,
-      "tieOdds": 400,
+      "homeTeamOdds": 228,
+      "awayTeamOdds": 278,
+      "tieOdds": 405,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1063266"
     },
     "iceRink": {
