@@ -34384,9 +34384,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://elippu.net/saipa/53:584?affiliate=ADV",
     "gamblingEvent": {
-      "homeTeamOdds": 108,
+      "homeTeamOdds": 106,
       "awayTeamOdds": 3300,
-      "tieOdds": 1200,
+      "tieOdds": 1150,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1068210"
     },
     "iceRink": {
@@ -34694,19 +34694,19 @@
           "eventId": 230,
           "goalTypes": [],
           "assistantPlayerIds": [
-            26590031,
-            31531807
+            31531807,
+            24324348
           ],
           "assistantPlayers": [
-            {
-              "playerId": 26590031,
-              "firstName": "Ville",
-              "lastName": "Meskanen"
-            },
             {
               "playerId": 31531807,
               "firstName": "Ville",
               "lastName": "Puhakka"
+            },
+            {
+              "playerId": 24324348,
+              "firstName": "Ari",
+              "lastName": "Gröndahl"
             }
           ],
           "plusPlayerIds": "",
@@ -34714,7 +34714,7 @@
           "homeTeamScore": 4,
           "awayTeamScore": 3,
           "assistsSoFarInSeason": {
-            "26590031": 3,
+            "24324348": 2,
             "31531807": 1
           },
           "goalsSoFarInSeason": 2,
@@ -34779,9 +34779,9 @@
         "endTime": 3900
       }
     ],
-    "finishedType": "ACTIVE_OR_NOT_STARTED",
+    "finishedType": "ENDED_DURING_REGULAR_GAME_TIME",
     "started": true,
-    "ended": false,
+    "ended": true,
     "gameTime": 3600,
     "spectators": 3848,
     "playOffPair": 0,
@@ -34789,7 +34789,7 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
     "gamblingEvent": {
-      "homeTeamOdds": 155,
+      "homeTeamOdds": 110,
       "awayTeamOdds": 2300,
       "tieOdds": 900,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1068213"
