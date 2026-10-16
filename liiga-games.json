@@ -31015,19 +31015,19 @@
           "eventId": 115,
           "goalTypes": [],
           "assistantPlayerIds": [
-            61073597,
-            33296946
+            60659010,
+            61073597
           ],
           "assistantPlayers": [
+            {
+              "playerId": 60659010,
+              "firstName": "Arturs",
+              "lastName": "Andzans"
+            },
             {
               "playerId": 61073597,
               "firstName": "Brendan",
               "lastName": "Ranford"
-            },
-            {
-              "playerId": 33296946,
-              "firstName": "Sami",
-              "lastName": "Päivärinta"
             }
           ],
           "plusPlayerIds": "91 5 10 12 95",
@@ -31035,7 +31035,7 @@
           "homeTeamScore": 1,
           "awayTeamScore": 2,
           "assistsSoFarInSeason": {
-            "33296946": 7,
+            "60659010": 2,
             "61073597": 9
           },
           "goalsSoFarInSeason": 2,
@@ -31704,7 +31704,7 @@
           "awayTeamScore": 3,
           "assistsSoFarInSeason": {
             "21870028": 4,
-            "33296946": 8
+            "33296946": 7
           },
           "goalsSoFarInSeason": 3,
           "videoClipUrl": "https://videos.liiga.fi/videos/14feaa67-8778-4fc0-b266-fe31f1fcc397/playlist.m3u8",
@@ -34309,7 +34309,7 @@
           "homeTeamScore": 2,
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
-            "33296946": 9,
+            "33296946": 8,
             "40039427": 2
           },
           "goalsSoFarInSeason": 3,
@@ -34816,13 +34816,143 @@
       "teamId": "55786244:hpk",
       "teamPlaceholder": null,
       "teamName": "HPK",
-      "goals": 0,
-      "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
+      "goals": 3,
+      "timeOut": 1428,
+      "goalEvents": [
+        {
+          "scorerPlayerId": 33254027,
+          "scorerPlayer": {
+            "playerId": 33254027,
+            "firstName": "Vili",
+            "lastName": "Alitalo"
+          },
+          "logTime": "2026-10-16T14:25:50Z",
+          "winningGoal": false,
+          "gameTime": 2906,
+          "period": 3,
+          "eventId": 154,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            61073592,
+            21870028
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 61073592,
+              "firstName": "Hugo",
+              "lastName": "Gabrielson"
+            },
+            {
+              "playerId": 21870028,
+              "firstName": "Harri",
+              "lastName": "Kainulainen"
+            }
+          ],
+          "plusPlayerIds": "38 64 28 8 16",
+          "minusPlayerIds": "28 38 19 27 15",
+          "homeTeamScore": 1,
+          "awayTeamScore": 1,
+          "assistsSoFarInSeason": {
+            "21870028": 5,
+            "61073592": 1
+          },
+          "goalsSoFarInSeason": 1,
+          "videoClipUrl": "https://videos.liiga.fi/videos/c55803d3-a64f-46f5-9542-44a6b7eae352/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/c55803d3-a64f-46f5-9542-44a6b7eae352/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/c55803d3-a64f-46f5-9542-44a6b7eae352/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 40039427,
+          "scorerPlayer": {
+            "playerId": 40039427,
+            "firstName": "Oliver",
+            "lastName": "Kopiloff"
+          },
+          "logTime": "2026-10-16T14:35:43Z",
+          "winningGoal": true,
+          "gameTime": 3219,
+          "period": 3,
+          "eventId": 163,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            30851669,
+            61073592
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 30851669,
+              "firstName": "Heikki",
+              "lastName": "Huttunen"
+            },
+            {
+              "playerId": 61073592,
+              "firstName": "Hugo",
+              "lastName": "Gabrielson"
+            }
+          ],
+          "plusPlayerIds": "15 38 11 16 44",
+          "minusPlayerIds": "27 28 44 25 29",
+          "homeTeamScore": 2,
+          "awayTeamScore": 1,
+          "assistsSoFarInSeason": {
+            "30851669": 1,
+            "61073592": 2
+          },
+          "goalsSoFarInSeason": 1,
+          "videoClipUrl": "https://videos.liiga.fi/videos/1d34ca74-b003-44f2-ac48-198dea223625/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/1d34ca74-b003-44f2-ac48-198dea223625/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/1d34ca74-b003-44f2-ac48-198dea223625/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 40130418,
+          "scorerPlayer": {
+            "playerId": 40130418,
+            "firstName": "Roope",
+            "lastName": "Vesterinen"
+          },
+          "logTime": "2026-10-16T14:44:42Z",
+          "winningGoal": false,
+          "gameTime": 3547,
+          "period": 3,
+          "eventId": 192,
+          "goalTypes": [
+            "TM"
+          ],
+          "assistantPlayerIds": [
+            33296946,
+            31585390
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 33296946,
+              "firstName": "Sami",
+              "lastName": "Päivärinta"
+            },
+            {
+              "playerId": 31585390,
+              "firstName": "Miska",
+              "lastName": "Kukkonen"
+            }
+          ],
+          "plusPlayerIds": "43 4 12 10 64",
+          "minusPlayerIds": "67 6 27 92 29 71",
+          "homeTeamScore": 3,
+          "awayTeamScore": 1,
+          "assistsSoFarInSeason": {
+            "31585390": 4,
+            "33296946": 9
+          },
+          "goalsSoFarInSeason": 4,
+          "videoClipUrl": "https://videos.liiga.fi/videos/b5a1cffb-0d5f-42e0-8192-bf92918c3dc7/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/b5a1cffb-0d5f-42e0-8192-bf92918c3dc7/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/b5a1cffb-0d5f-42e0-8192-bf92918c3dc7/thumbnail.jpeg"
+        }
+      ],
+      "powerplayInstances": 1,
       "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "shortHandedInstances": 2,
       "shortHandedGoals": 0,
+      "expectedGoals": 2.12,
       "ranking": 10,
       "gameStartDateTime": "2026-10-16T18:30:00+03:00",
       "logos": {
@@ -34836,13 +34966,59 @@
       "teamId": "951626834:ilves",
       "teamPlaceholder": null,
       "teamName": "Ilves",
-      "goals": 0,
-      "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
-      "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "goals": 1,
+      "timeOut": 3511,
+      "goalEvents": [
+        {
+          "scorerPlayerId": 31110600,
+          "scorerPlayer": {
+            "playerId": 31110600,
+            "firstName": "Benjamin",
+            "lastName": "Korhonen"
+          },
+          "logTime": "2026-10-16T13:23:38Z",
+          "winningGoal": false,
+          "gameTime": 1428,
+          "period": 2,
+          "eventId": 64,
+          "goalTypes": [
+            "YV"
+          ],
+          "assistantPlayerIds": [
+            24223973,
+            60361530
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 24223973,
+              "firstName": "Tony",
+              "lastName": "Sund"
+            },
+            {
+              "playerId": 60361530,
+              "firstName": "Matic",
+              "lastName": "Török"
+            }
+          ],
+          "plusPlayerIds": null,
+          "minusPlayerIds": null,
+          "homeTeamScore": 0,
+          "awayTeamScore": 1,
+          "assistsSoFarInSeason": {
+            "24223973": 7,
+            "60361530": 5
+          },
+          "goalsSoFarInSeason": 4,
+          "videoClipUrl": "https://videos.liiga.fi/videos/14b11889-3545-4e9c-b656-127a9d5878c1/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/14b11889-3545-4e9c-b656-127a9d5878c1/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/14b11889-3545-4e9c-b656-127a9d5878c1/thumbnail.jpeg"
+        }
+      ],
+      "powerplayInstances": 2,
+      "powerplayGoals": 1,
+      "shortHandedInstances": 1,
       "shortHandedGoals": 0,
+      "expectedGoals": 4.14,
       "ranking": 1,
       "gameStartDateTime": "2026-10-16T18:30:00+03:00",
       "logos": {
@@ -34864,14 +35040,14 @@
       {
         "index": 2,
         "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
+        "awayTeamGoals": 1,
         "category": "NORMAL",
         "startTime": 1200,
         "endTime": 2400
       },
       {
         "index": 3,
-        "homeTeamGoals": 0,
+        "homeTeamGoals": 3,
         "awayTeamGoals": 0,
         "category": "NORMAL",
         "startTime": 2400,
@@ -34894,18 +35070,19 @@
         "endTime": 3900
       }
     ],
-    "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
-    "ended": false,
-    "gameTime": 0,
+    "finishedType": "ENDED_DURING_REGULAR_GAME_TIME",
+    "started": true,
+    "ended": true,
+    "gameTime": 3600,
+    "spectators": 3836,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://liveday.fi/stores/2vjYW5qER9OnYBi0Ds6U3bqeh2l",
     "gamblingEvent": {
-      "homeTeamOdds": 395,
-      "awayTeamOdds": 184,
-      "tieOdds": 405,
+      "homeTeamOdds": 1850,
+      "awayTeamOdds": 124,
+      "tieOdds": 515,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1073412"
     },
     "iceRink": {
@@ -34917,7 +35094,7 @@
       "zip": "13130",
       "city": "HÄMEENLINNA"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 3,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 7
@@ -34930,13 +35107,174 @@
       "teamId": "651304385:tps",
       "teamPlaceholder": null,
       "teamName": "TPS",
-      "goals": 0,
+      "goals": 4,
       "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
-      "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "goalEvents": [
+        {
+          "scorerPlayerId": 31886905,
+          "scorerPlayer": {
+            "playerId": 31886905,
+            "firstName": "Sisu",
+            "lastName": "Yliniemi"
+          },
+          "logTime": "2026-10-16T12:59:02Z",
+          "winningGoal": false,
+          "gameTime": 1015,
+          "period": 1,
+          "eventId": 93,
+          "goalTypes": [
+            "YV"
+          ],
+          "assistantPlayerIds": [
+            40101174,
+            25541395
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 40101174,
+              "firstName": "Arttu",
+              "lastName": "Tuhkala"
+            },
+            {
+              "playerId": 25541395,
+              "firstName": "Veli-Matti",
+              "lastName": "Savinainen"
+            }
+          ],
+          "plusPlayerIds": null,
+          "minusPlayerIds": null,
+          "homeTeamScore": 1,
+          "awayTeamScore": 1,
+          "assistsSoFarInSeason": {
+            "25541395": 3,
+            "40101174": 4
+          },
+          "goalsSoFarInSeason": 2,
+          "videoClipUrl": "https://videos.liiga.fi/videos/20c01d41-5af0-46b3-b9a7-2fa9c334f627/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/20c01d41-5af0-46b3-b9a7-2fa9c334f627/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/20c01d41-5af0-46b3-b9a7-2fa9c334f627/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 60953549,
+          "scorerPlayer": {
+            "playerId": 60953549,
+            "firstName": "Axel",
+            "lastName": "Landen"
+          },
+          "logTime": "2026-10-16T13:29:41Z",
+          "winningGoal": false,
+          "gameTime": 1535,
+          "period": 2,
+          "eventId": 128,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            60660278,
+            61081277
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 60660278,
+              "firstName": "Lars",
+              "lastName": "Bryggman"
+            },
+            {
+              "playerId": 61081277,
+              "firstName": "Lukas",
+              "lastName": "Haudum"
+            }
+          ],
+          "plusPlayerIds": "22 97 49 38 40",
+          "minusPlayerIds": "5 21 72 76 24",
+          "homeTeamScore": 2,
+          "awayTeamScore": 1,
+          "assistsSoFarInSeason": {
+            "60660278": 8,
+            "61081277": 11
+          },
+          "goalsSoFarInSeason": 1,
+          "videoClipUrl": "https://videos.liiga.fi/videos/a7ad4cf3-74de-4aa1-a10c-10a24e214982/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/a7ad4cf3-74de-4aa1-a10c-10a24e214982/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/a7ad4cf3-74de-4aa1-a10c-10a24e214982/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 40289276,
+          "scorerPlayer": {
+            "playerId": 40289276,
+            "firstName": "Jeremi",
+            "lastName": "Virtanen"
+          },
+          "logTime": "2026-10-16T13:42:50Z",
+          "winningGoal": true,
+          "gameTime": 2017,
+          "period": 2,
+          "eventId": 160,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            29028513
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 29028513,
+              "firstName": "Joona",
+              "lastName": "Ikonen"
+            }
+          ],
+          "plusPlayerIds": "38 25 24 40 86",
+          "minusPlayerIds": "76 5 24 21 4",
+          "homeTeamScore": 3,
+          "awayTeamScore": 2,
+          "assistsSoFarInSeason": {
+            "29028513": 5
+          },
+          "goalsSoFarInSeason": 3,
+          "videoClipUrl": "https://videos.liiga.fi/videos/07ad8465-60bc-4e69-b25f-f8e268198707/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/07ad8465-60bc-4e69-b25f-f8e268198707/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/07ad8465-60bc-4e69-b25f-f8e268198707/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 31569277,
+          "scorerPlayer": {
+            "playerId": 31569277,
+            "firstName": "Joel",
+            "lastName": "Määttä"
+          },
+          "logTime": "2026-10-16T14:42:11Z",
+          "winningGoal": false,
+          "gameTime": 3562,
+          "period": 3,
+          "eventId": 299,
+          "goalTypes": [
+            "TM",
+            "SR"
+          ],
+          "assistantPlayerIds": [
+            40015008
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 40015008,
+              "firstName": "Vili",
+              "lastName": "Munkki"
+            }
+          ],
+          "plusPlayerIds": "44 6 21 84 57",
+          "minusPlayerIds": "15 8 12 78 72 77",
+          "homeTeamScore": 4,
+          "awayTeamScore": 2,
+          "assistsSoFarInSeason": {
+            "40015008": 2
+          },
+          "goalsSoFarInSeason": 3,
+          "videoClipUrl": "https://videos.liiga.fi/videos/115f378d-08ab-46e3-92c4-33306940ce37/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/115f378d-08ab-46e3-92c4-33306940ce37/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/115f378d-08ab-46e3-92c4-33306940ce37/thumbnail.jpeg"
+        }
+      ],
+      "powerplayInstances": 3,
+      "powerplayGoals": 1,
+      "shortHandedInstances": 2,
       "shortHandedGoals": 0,
+      "expectedGoals": 2.51,
       "ranking": 11,
       "gameStartDateTime": "2026-10-16T18:30:00+03:00",
       "logos": {
@@ -34950,13 +35288,92 @@
       "teamId": "1368624751:k-espoo",
       "teamPlaceholder": null,
       "teamName": "K-Espoo",
-      "goals": 0,
+      "goals": 2,
       "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
+      "goalEvents": [
+        {
+          "scorerPlayerId": 40122756,
+          "scorerPlayer": {
+            "playerId": 40122756,
+            "firstName": "Eeli",
+            "lastName": "Salovaara"
+          },
+          "logTime": "2026-10-16T12:55:09Z",
+          "winningGoal": false,
+          "gameTime": 904,
+          "period": 1,
+          "eventId": 83,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            40102451
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 40102451,
+              "firstName": "Elias",
+              "lastName": "Puolanne"
+            }
+          ],
+          "plusPlayerIds": "21 90 17 5 25",
+          "minusPlayerIds": "24 25 86 44 6",
+          "homeTeamScore": 0,
+          "awayTeamScore": 1,
+          "assistsSoFarInSeason": {
+            "40102451": 2
+          },
+          "goalsSoFarInSeason": 2,
+          "videoClipUrl": "https://videos.liiga.fi/videos/d3972197-4767-478f-83cd-1f33dde79dec/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/d3972197-4767-478f-83cd-1f33dde79dec/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/d3972197-4767-478f-83cd-1f33dde79dec/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 24650025,
+          "scorerPlayer": {
+            "playerId": 24650025,
+            "firstName": "Iikka",
+            "lastName": "Kangasniemi"
+          },
+          "logTime": "2026-10-16T13:35:26Z",
+          "winningGoal": false,
+          "gameTime": 1698,
+          "period": 2,
+          "eventId": 141,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            22290364,
+            61067270
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 22290364,
+              "firstName": "Jani",
+              "lastName": "Lajunen"
+            },
+            {
+              "playerId": 61067270,
+              "firstName": "Connor",
+              "lastName": "Corcoran"
+            }
+          ],
+          "plusPlayerIds": "24 77 4 51 8",
+          "minusPlayerIds": "22 61 2 10 13",
+          "homeTeamScore": 2,
+          "awayTeamScore": 2,
+          "assistsSoFarInSeason": {
+            "22290364": 6,
+            "61067270": 5
+          },
+          "goalsSoFarInSeason": 2,
+          "videoClipUrl": "https://videos.liiga.fi/videos/40de76fe-cd94-46d3-9f73-4989d3cd3981/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/40de76fe-cd94-46d3-9f73-4989d3cd3981/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/40de76fe-cd94-46d3-9f73-4989d3cd3981/thumbnail.jpeg"
+        }
+      ],
+      "powerplayInstances": 2,
       "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "shortHandedInstances": 3,
       "shortHandedGoals": 0,
+      "expectedGoals": 1.95,
       "ranking": 7,
       "gameStartDateTime": "2026-10-16T18:30:00+03:00",
       "logos": {
@@ -34969,23 +35386,23 @@
     "periods": [
       {
         "index": 1,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
+        "homeTeamGoals": 1,
+        "awayTeamGoals": 1,
         "category": "NORMAL",
         "startTime": 0,
         "endTime": 1200
       },
       {
         "index": 2,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
+        "homeTeamGoals": 2,
+        "awayTeamGoals": 1,
         "category": "NORMAL",
         "startTime": 1200,
         "endTime": 2400
       },
       {
         "index": 3,
-        "homeTeamGoals": 0,
+        "homeTeamGoals": 1,
         "awayTeamGoals": 0,
         "category": "NORMAL",
         "startTime": 2400,
@@ -35008,18 +35425,19 @@
         "endTime": 3900
       }
     ],
-    "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
-    "ended": false,
-    "gameTime": 0,
+    "finishedType": "ENDED_DURING_REGULAR_GAME_TIME",
+    "started": true,
+    "ended": true,
+    "gameTime": 3600,
+    "spectators": 5604,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/hctps/",
     "gamblingEvent": {
-      "homeTeamOdds": 217,
-      "awayTeamOdds": 303,
-      "tieOdds": 395,
+      "homeTeamOdds": 141,
+      "awayTeamOdds": 925,
+      "tieOdds": 405,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1073417"
     },
     "iceRink": {
@@ -35031,7 +35449,7 @@
       "zip": "20210",
       "city": "TURKU"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 3,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 7
@@ -35044,13 +35462,84 @@
       "teamId": "362185137:tappara",
       "teamPlaceholder": null,
       "teamName": "Tappara",
-      "goals": 0,
-      "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
+      "goals": 1,
+      "timeOut": 3565,
+      "goalEvents": [
+        {
+          "scorerPlayerId": 40382966,
+          "scorerPlayer": {
+            "playerId": 40382966,
+            "firstName": "Oliver",
+            "lastName": "Suvanto"
+          },
+          "logTime": "2026-10-16T12:52:09Z",
+          "winningGoal": false,
+          "gameTime": 753,
+          "period": 1,
+          "eventId": 42,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            31574013,
+            21468906
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 31574013,
+              "firstName": "Kasper",
+              "lastName": "Simontaival"
+            },
+            {
+              "playerId": 21468906,
+              "firstName": "Henrik",
+              "lastName": "Haapala"
+            }
+          ],
+          "plusPlayerIds": "33 89 25 63 11",
+          "minusPlayerIds": "91 25 87 19 27",
+          "homeTeamScore": 1,
+          "awayTeamScore": 0,
+          "assistsSoFarInSeason": {
+            "21468906": 7,
+            "31574013": 7
+          },
+          "goalsSoFarInSeason": 2,
+          "videoClipUrl": "https://videos.liiga.fi/videos/35a2ac1f-0084-40d5-81b2-1fca0093fdc9/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/35a2ac1f-0084-40d5-81b2-1fca0093fdc9/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/35a2ac1f-0084-40d5-81b2-1fca0093fdc9/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 33490124,
+          "scorerPlayer": {
+            "playerId": 33490124,
+            "firstName": "Benjamin",
+            "lastName": "Rautiainen"
+          },
+          "logTime": "2026-10-16T13:01:22Z",
+          "winningGoal": false,
+          "gameTime": 1089,
+          "period": 1,
+          "eventId": 62,
+          "goalTypes": [
+            "RL0"
+          ],
+          "assistantPlayerIds": [],
+          "assistantPlayers": [],
+          "plusPlayerIds": "",
+          "minusPlayerIds": "",
+          "homeTeamScore": 1,
+          "awayTeamScore": 0,
+          "assistsSoFarInSeason": {},
+          "goalsSoFarInSeason": 0,
+          "videoClipUrl": null,
+          "videoClipPlaylistUrl": null,
+          "videoThumbnailUrl": null
+        }
+      ],
+      "powerplayInstances": 1,
       "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "shortHandedInstances": 3,
       "shortHandedGoals": 0,
+      "expectedGoals": 2.71,
       "ranking": 9,
       "gameStartDateTime": "2026-10-16T18:30:00+03:00",
       "logos": {
@@ -35064,13 +35553,99 @@
       "teamId": "624554857:lukko",
       "teamPlaceholder": null,
       "teamName": "Lukko",
-      "goals": 0,
+      "goals": 2,
       "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
+      "goalEvents": [
+        {
+          "scorerPlayerId": 32033595,
+          "scorerPlayer": {
+            "playerId": 32033595,
+            "firstName": "Peetro",
+            "lastName": "Seppälä"
+          },
+          "logTime": "2026-10-16T13:47:44Z",
+          "winningGoal": false,
+          "gameTime": 2032,
+          "period": 2,
+          "eventId": 111,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            60960461,
+            25126574
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 60960461,
+              "firstName": "Alex",
+              "lastName": "Beaucage"
+            },
+            {
+              "playerId": 25126574,
+              "firstName": "Mikael",
+              "lastName": "Ruohomaa"
+            }
+          ],
+          "plusPlayerIds": "27 16 18 9 93",
+          "minusPlayerIds": "38 21 63 78 22",
+          "homeTeamScore": 1,
+          "awayTeamScore": 1,
+          "assistsSoFarInSeason": {
+            "25126574": 5,
+            "60960461": 7
+          },
+          "goalsSoFarInSeason": 1,
+          "videoClipUrl": "https://videos.liiga.fi/videos/eee2160e-8742-40a5-a9e4-6ab71623735b/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/eee2160e-8742-40a5-a9e4-6ab71623735b/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/eee2160e-8742-40a5-a9e4-6ab71623735b/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 60960461,
+          "scorerPlayer": {
+            "playerId": 60960461,
+            "firstName": "Alex",
+            "lastName": "Beaucage"
+          },
+          "logTime": "2026-10-16T14:23:08Z",
+          "winningGoal": true,
+          "gameTime": 2634,
+          "period": 3,
+          "eventId": 151,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            22396653,
+            60794693
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 22396653,
+              "firstName": "Heikki",
+              "lastName": "Liedes"
+            },
+            {
+              "playerId": 60794693,
+              "firstName": "Anton",
+              "lastName": "Olsson"
+            }
+          ],
+          "plusPlayerIds": "56 18 16 15 93",
+          "minusPlayerIds": "21 42 23 26 17",
+          "homeTeamScore": 1,
+          "awayTeamScore": 2,
+          "assistsSoFarInSeason": {
+            "22396653": 2,
+            "60794693": 2
+          },
+          "goalsSoFarInSeason": 5,
+          "videoClipUrl": "https://videos.liiga.fi/videos/6d50860d-8aca-41d1-99a2-aa63c7912c60/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/6d50860d-8aca-41d1-99a2-aa63c7912c60/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/6d50860d-8aca-41d1-99a2-aa63c7912c60/thumbnail.jpeg"
+        }
+      ],
+      "powerplayInstances": 3,
       "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "shortHandedInstances": 1,
       "shortHandedGoals": 0,
+      "expectedGoals": 3.27,
       "ranking": 6,
       "gameStartDateTime": "2026-10-16T18:30:00+03:00",
       "logos": {
@@ -35083,7 +35658,7 @@
     "periods": [
       {
         "index": 1,
-        "homeTeamGoals": 0,
+        "homeTeamGoals": 1,
         "awayTeamGoals": 0,
         "category": "NORMAL",
         "startTime": 0,
@@ -35092,7 +35667,7 @@
       {
         "index": 2,
         "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
+        "awayTeamGoals": 1,
         "category": "NORMAL",
         "startTime": 1200,
         "endTime": 2400
@@ -35100,7 +35675,7 @@
       {
         "index": 3,
         "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
+        "awayTeamGoals": 1,
         "category": "NORMAL",
         "startTime": 2400,
         "endTime": 3600
@@ -35122,18 +35697,19 @@
         "endTime": 3900
       }
     ],
-    "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
-    "ended": false,
-    "gameTime": 0,
+    "finishedType": "ENDED_DURING_REGULAR_GAME_TIME",
+    "started": true,
+    "ended": true,
+    "gameTime": 3600,
+    "spectators": 7837,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/en/artist/tappara/",
     "gamblingEvent": {
-      "homeTeamOdds": 180,
-      "awayTeamOdds": 395,
-      "tieOdds": 425,
+      "homeTeamOdds": 258,
+      "awayTeamOdds": 410,
+      "tieOdds": 232,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1073421"
     },
     "iceRink": {
@@ -35145,7 +35721,7 @@
       "zip": "33100",
       "city": "TAMPERE"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 3,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 7
@@ -35158,13 +35734,101 @@
       "teamId": "238306801:jokerit",
       "teamPlaceholder": null,
       "teamName": "Jokerit",
-      "goals": 0,
-      "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
-      "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "goals": 2,
+      "timeOut": 3463,
+      "goalEvents": [
+        {
+          "scorerPlayerId": 24641005,
+          "scorerPlayer": {
+            "playerId": 24641005,
+            "firstName": "Antti",
+            "lastName": "Kalapudas"
+          },
+          "logTime": "2026-10-16T13:35:00Z",
+          "winningGoal": false,
+          "gameTime": 1466,
+          "period": 2,
+          "eventId": 145,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            21403877,
+            33296797
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 21403877,
+              "firstName": "Aleksi",
+              "lastName": "Elorinne"
+            },
+            {
+              "playerId": 33296797,
+              "firstName": "Riku",
+              "lastName": "Tuomola"
+            }
+          ],
+          "plusPlayerIds": "53 52 7 21 28",
+          "minusPlayerIds": "79 74 44 61 36",
+          "homeTeamScore": 1,
+          "awayTeamScore": 2,
+          "assistsSoFarInSeason": {
+            "21403877": 2,
+            "33296797": 3
+          },
+          "goalsSoFarInSeason": 2,
+          "videoClipUrl": "https://videos.liiga.fi/videos/8b520c5a-e17c-4ed6-8552-8224707333d1/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/8b520c5a-e17c-4ed6-8552-8224707333d1/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/8b520c5a-e17c-4ed6-8552-8224707333d1/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 28262723,
+          "scorerPlayer": {
+            "playerId": 28262723,
+            "firstName": "Patrik",
+            "lastName": "Virta"
+          },
+          "logTime": "2026-10-16T14:37:07Z",
+          "winningGoal": false,
+          "gameTime": 2966,
+          "period": 3,
+          "eventId": 237,
+          "goalTypes": [
+            "YV2"
+          ],
+          "assistantPlayerIds": [
+            30712591,
+            31275998
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 30712591,
+              "firstName": "Henri",
+              "lastName": "Nikkanen"
+            },
+            {
+              "playerId": 31275998,
+              "firstName": "Alexander",
+              "lastName": "Forslund"
+            }
+          ],
+          "plusPlayerIds": null,
+          "minusPlayerIds": null,
+          "homeTeamScore": 2,
+          "awayTeamScore": 3,
+          "assistsSoFarInSeason": {
+            "30712591": 3,
+            "31275998": 5
+          },
+          "goalsSoFarInSeason": 2,
+          "videoClipUrl": "https://videos.liiga.fi/videos/f93a178a-2396-42e3-8892-7e190efea1a9/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/f93a178a-2396-42e3-8892-7e190efea1a9/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/f93a178a-2396-42e3-8892-7e190efea1a9/thumbnail.jpeg"
+        }
+      ],
+      "powerplayInstances": 4,
+      "powerplayGoals": 1,
+      "shortHandedInstances": 1,
       "shortHandedGoals": 0,
+      "expectedGoals": 3.19,
       "ranking": 16,
       "gameStartDateTime": "2026-10-16T18:30:00+03:00",
       "logos": {
@@ -35178,13 +35842,187 @@
       "teamId": "679171680:ässät",
       "teamPlaceholder": null,
       "teamName": "Ässät",
-      "goals": 0,
+      "goals": 4,
       "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
-      "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "goalEvents": [
+        {
+          "scorerPlayerId": 61074020,
+          "scorerPlayer": {
+            "playerId": 61074020,
+            "firstName": "Simon",
+            "lastName": "Pinard"
+          },
+          "logTime": "2026-10-16T13:23:27Z",
+          "winningGoal": false,
+          "gameTime": 1221,
+          "period": 2,
+          "eventId": 123,
+          "goalTypes": [
+            "YV"
+          ],
+          "assistantPlayerIds": [
+            40050351,
+            60861292
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 40050351,
+              "firstName": "Sakari",
+              "lastName": "Kostilainen"
+            },
+            {
+              "playerId": 60861292,
+              "firstName": "Cameron",
+              "lastName": "Hillis"
+            }
+          ],
+          "plusPlayerIds": null,
+          "minusPlayerIds": null,
+          "homeTeamScore": 0,
+          "awayTeamScore": 1,
+          "assistsSoFarInSeason": {
+            "40050351": 5,
+            "60861292": 5
+          },
+          "goalsSoFarInSeason": 5,
+          "videoClipUrl": "https://videos.liiga.fi/videos/0b041462-da63-4302-88a5-7776ffa1ca78/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/0b041462-da63-4302-88a5-7776ffa1ca78/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/0b041462-da63-4302-88a5-7776ffa1ca78/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 32924510,
+          "scorerPlayer": {
+            "playerId": 32924510,
+            "firstName": "Petteri",
+            "lastName": "Nurmi"
+          },
+          "logTime": "2026-10-16T13:29:06Z",
+          "winningGoal": false,
+          "gameTime": 1349,
+          "period": 2,
+          "eventId": 136,
+          "goalTypes": [
+            "VT"
+          ],
+          "assistantPlayerIds": [
+            40050351,
+            34250949
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 40050351,
+              "firstName": "Sakari",
+              "lastName": "Kostilainen"
+            },
+            {
+              "playerId": 34250949,
+              "firstName": "Balázs",
+              "lastName": "Sebok"
+            }
+          ],
+          "plusPlayerIds": "55 14 63 26 80",
+          "minusPlayerIds": "4 53 25 71 22",
+          "homeTeamScore": 0,
+          "awayTeamScore": 2,
+          "assistsSoFarInSeason": {
+            "34250949": 5,
+            "40050351": 6
+          },
+          "goalsSoFarInSeason": 1,
+          "videoClipUrl": "https://videos.liiga.fi/videos/8cb8774d-d671-49ec-b36b-a7a7a6520edc/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/8cb8774d-d671-49ec-b36b-a7a7a6520edc/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/8cb8774d-d671-49ec-b36b-a7a7a6520edc/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 60374697,
+          "scorerPlayer": {
+            "playerId": 60374697,
+            "firstName": "Alexandr",
+            "lastName": "Kim"
+          },
+          "logTime": "2026-10-16T13:51:44Z",
+          "winningGoal": true,
+          "gameTime": 2044,
+          "period": 2,
+          "eventId": 180,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            40050351,
+            24509817
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 40050351,
+              "firstName": "Sakari",
+              "lastName": "Kostilainen"
+            },
+            {
+              "playerId": 24509817,
+              "firstName": "Casimir",
+              "lastName": "Jürgens"
+            }
+          ],
+          "plusPlayerIds": "79 61 14 63 26",
+          "minusPlayerIds": "22 4 55 33 71",
+          "homeTeamScore": 1,
+          "awayTeamScore": 3,
+          "assistsSoFarInSeason": {
+            "24509817": 4,
+            "40050351": 7
+          },
+          "goalsSoFarInSeason": 2,
+          "videoClipUrl": "https://videos.liiga.fi/videos/26741c10-355b-470f-a9c8-f75ec6872997/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/26741c10-355b-470f-a9c8-f75ec6872997/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/26741c10-355b-470f-a9c8-f75ec6872997/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 60861292,
+          "scorerPlayer": {
+            "playerId": 60861292,
+            "firstName": "Cameron",
+            "lastName": "Hillis"
+          },
+          "logTime": "2026-10-16T14:41:18Z",
+          "winningGoal": false,
+          "gameTime": 3130,
+          "period": 3,
+          "eventId": 245,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            61074020,
+            22709389
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 61074020,
+              "firstName": "Simon",
+              "lastName": "Pinard"
+            },
+            {
+              "playerId": 22709389,
+              "firstName": "Petteri",
+              "lastName": "Nikkilä"
+            }
+          ],
+          "plusPlayerIds": "34 37 79 10 47",
+          "minusPlayerIds": "52 82 33 43 11",
+          "homeTeamScore": 2,
+          "awayTeamScore": 4,
+          "assistsSoFarInSeason": {
+            "22709389": 7,
+            "61074020": 6
+          },
+          "goalsSoFarInSeason": 4,
+          "videoClipUrl": "https://videos.liiga.fi/videos/bf46cb09-20ff-4898-a877-ab645f569d8c/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/bf46cb09-20ff-4898-a877-ab645f569d8c/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/bf46cb09-20ff-4898-a877-ab645f569d8c/thumbnail.jpeg"
+        }
+      ],
+      "powerplayInstances": 1,
+      "powerplayGoals": 1,
+      "shortHandedInstances": 4,
       "shortHandedGoals": 0,
+      "expectedGoals": 3.02,
       "ranking": 3,
       "gameStartDateTime": "2026-10-16T18:30:00+03:00",
       "logos": {
@@ -35205,16 +36043,16 @@
       },
       {
         "index": 2,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
+        "homeTeamGoals": 1,
+        "awayTeamGoals": 3,
         "category": "NORMAL",
         "startTime": 1200,
         "endTime": 2400
       },
       {
         "index": 3,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
+        "homeTeamGoals": 1,
+        "awayTeamGoals": 1,
         "category": "NORMAL",
         "startTime": 2400,
         "endTime": 3600
@@ -35236,18 +36074,19 @@
         "endTime": 3900
       }
     ],
-    "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
-    "ended": false,
-    "gameTime": 0,
+    "finishedType": "ENDED_DURING_REGULAR_GAME_TIME",
+    "started": true,
+    "ended": true,
+    "gameTime": 3600,
+    "spectators": 8516,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/artist/jokerit-lippuja/973335",
     "gamblingEvent": {
-      "homeTeamOdds": 222,
-      "awayTeamOdds": 295,
-      "tieOdds": 390,
+      "homeTeamOdds": 1650,
+      "awayTeamOdds": 116,
+      "tieOdds": 700,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1073413"
     },
     "iceRink": {
@@ -35259,7 +36098,7 @@
       "zip": "00240",
       "city": "HELSINKI"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 3,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 7
@@ -35272,13 +36111,57 @@
       "teamId": "875886777:pelicans",
       "teamPlaceholder": null,
       "teamName": "Pelicans",
-      "goals": 0,
+      "goals": 1,
       "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
+      "goalEvents": [
+        {
+          "scorerPlayerId": 40040845,
+          "scorerPlayer": {
+            "playerId": 40040845,
+            "firstName": "Anton",
+            "lastName": "Kettunen"
+          },
+          "logTime": "2026-10-16T14:21:42Z",
+          "winningGoal": false,
+          "gameTime": 2901,
+          "period": 3,
+          "eventId": 103,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            33848019,
+            61018161
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 33848019,
+              "firstName": "Onni",
+              "lastName": "Lind"
+            },
+            {
+              "playerId": 61018161,
+              "firstName": "Brett",
+              "lastName": "Stapley"
+            }
+          ],
+          "plusPlayerIds": "15 7 65 27 82",
+          "minusPlayerIds": "7 62 17 28 22",
+          "homeTeamScore": 1,
+          "awayTeamScore": 2,
+          "assistsSoFarInSeason": {
+            "33848019": 2,
+            "61018161": 6
+          },
+          "goalsSoFarInSeason": 3,
+          "videoClipUrl": "https://videos.liiga.fi/videos/cba3f09a-874c-4b48-b7a3-5205f62819fc/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/cba3f09a-874c-4b48-b7a3-5205f62819fc/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/cba3f09a-874c-4b48-b7a3-5205f62819fc/thumbnail.jpeg"
+        }
+      ],
+      "powerplayInstances": 2,
       "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "shortHandedInstances": 3,
       "shortHandedGoals": 0,
+      "expectedGoals": 2.98,
       "ranking": 12,
       "gameStartDateTime": "2026-10-16T18:30:00+03:00",
       "logos": {
@@ -35292,13 +36175,101 @@
       "teamId": "626537494:sport",
       "teamPlaceholder": null,
       "teamName": "Sport",
-      "goals": 0,
+      "goals": 2,
       "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
-      "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "goalEvents": [
+        {
+          "scorerPlayerId": 28948856,
+          "scorerPlayer": {
+            "playerId": 28948856,
+            "firstName": "Anton",
+            "lastName": "Stråka"
+          },
+          "logTime": "2026-10-16T12:34:54Z",
+          "winningGoal": false,
+          "gameTime": 139,
+          "period": 1,
+          "eventId": 14,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            40055581,
+            25334515
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 40055581,
+              "firstName": "Benjamin",
+              "lastName": "Pietilä"
+            },
+            {
+              "playerId": 25334515,
+              "firstName": "Valtteri",
+              "lastName": "Viljanen"
+            }
+          ],
+          "plusPlayerIds": "63 10 12 8 55",
+          "minusPlayerIds": "82 47 44 27 12",
+          "homeTeamScore": 0,
+          "awayTeamScore": 1,
+          "assistsSoFarInSeason": {
+            "25334515": 2,
+            "40055581": 3
+          },
+          "goalsSoFarInSeason": 1,
+          "videoClipUrl": "https://videos.liiga.fi/videos/84753a7a-80d9-42fa-9a35-fceaa425e671/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/84753a7a-80d9-42fa-9a35-fceaa425e671/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/84753a7a-80d9-42fa-9a35-fceaa425e671/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 61073937,
+          "scorerPlayer": {
+            "playerId": 61073937,
+            "firstName": "Luke",
+            "lastName": "Grainger"
+          },
+          "logTime": "2026-10-16T12:52:51Z",
+          "winningGoal": true,
+          "gameTime": 818,
+          "period": 1,
+          "eventId": 38,
+          "goalTypes": [
+            "YV"
+          ],
+          "assistantPlayerIds": [
+            61073932,
+            61073936
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 61073932,
+              "firstName": "George",
+              "lastName": "Diaco"
+            },
+            {
+              "playerId": 61073936,
+              "firstName": "Isak",
+              "lastName": "Walther"
+            }
+          ],
+          "plusPlayerIds": null,
+          "minusPlayerIds": null,
+          "homeTeamScore": 0,
+          "awayTeamScore": 2,
+          "assistsSoFarInSeason": {
+            "61073932": 4,
+            "61073936": 2
+          },
+          "goalsSoFarInSeason": 1,
+          "videoClipUrl": "https://videos.liiga.fi/videos/4f4f7e03-3e7c-4277-aeac-0437719f0ede/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/4f4f7e03-3e7c-4277-aeac-0437719f0ede/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/4f4f7e03-3e7c-4277-aeac-0437719f0ede/thumbnail.jpeg"
+        }
+      ],
+      "powerplayInstances": 3,
+      "powerplayGoals": 1,
+      "shortHandedInstances": 2,
       "shortHandedGoals": 0,
+      "expectedGoals": 2.2,
       "ranking": 15,
       "gameStartDateTime": "2026-10-16T18:30:00+03:00",
       "logos": {
@@ -35312,7 +36283,7 @@
       {
         "index": 1,
         "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
+        "awayTeamGoals": 2,
         "category": "NORMAL",
         "startTime": 0,
         "endTime": 1200
@@ -35327,7 +36298,7 @@
       },
       {
         "index": 3,
-        "homeTeamGoals": 0,
+        "homeTeamGoals": 1,
         "awayTeamGoals": 0,
         "category": "NORMAL",
         "startTime": 2400,
@@ -35350,18 +36321,19 @@
         "endTime": 3900
       }
     ],
-    "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
-    "ended": false,
-    "gameTime": 0,
+    "finishedType": "ENDED_DURING_REGULAR_GAME_TIME",
+    "started": true,
+    "ended": true,
+    "gameTime": 3600,
+    "spectators": 2715,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/pelicans/",
     "gamblingEvent": {
-      "homeTeamOdds": 173,
-      "awayTeamOdds": 440,
-      "tieOdds": 415,
+      "homeTeamOdds": 1900,
+      "awayTeamOdds": 114,
+      "tieOdds": 725,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1073418"
     },
     "iceRink": {
@@ -35373,7 +36345,7 @@
       "zip": "15110",
       "city": "LAHTI"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 3,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 7
@@ -35386,13 +36358,201 @@
       "teamId": "219244634:jyp",
       "teamPlaceholder": null,
       "teamName": "JYP",
-      "goals": 0,
+      "goals": 4,
       "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
-      "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "goalEvents": [
+        {
+          "scorerPlayerId": 0,
+          "scorerPlayer": null,
+          "logTime": "2026-10-16T13:38:42Z",
+          "winningGoal": false,
+          "gameTime": 57,
+          "period": 1,
+          "eventId": 10,
+          "goalTypes": [
+            "VT0"
+          ],
+          "assistantPlayerIds": [],
+          "assistantPlayers": [],
+          "plusPlayerIds": "",
+          "minusPlayerIds": "",
+          "homeTeamScore": 0,
+          "awayTeamScore": 0,
+          "assistsSoFarInSeason": {},
+          "goalsSoFarInSeason": 0,
+          "videoClipUrl": null,
+          "videoClipPlaylistUrl": null,
+          "videoThumbnailUrl": null
+        },
+        {
+          "scorerPlayerId": 60962804,
+          "scorerPlayer": {
+            "playerId": 60962804,
+            "firstName": "Alexander",
+            "lastName": "True"
+          },
+          "logTime": "2026-10-16T14:31:48Z",
+          "winningGoal": false,
+          "gameTime": 1294,
+          "period": 2,
+          "eventId": 74,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            60907490
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 60907490,
+              "firstName": "Daniel",
+              "lastName": "Torgersson"
+            }
+          ],
+          "plusPlayerIds": "7 40 44 31 92",
+          "minusPlayerIds": "9 26 93 73 31",
+          "homeTeamScore": 1,
+          "awayTeamScore": 0,
+          "assistsSoFarInSeason": {
+            "60907490": 5
+          },
+          "goalsSoFarInSeason": 2,
+          "videoClipUrl": "https://videos.liiga.fi/videos/be460764-304a-4252-9bdb-d067fc57ce16/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/be460764-304a-4252-9bdb-d067fc57ce16/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/be460764-304a-4252-9bdb-d067fc57ce16/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 60962804,
+          "scorerPlayer": {
+            "playerId": 60962804,
+            "firstName": "Alexander",
+            "lastName": "True"
+          },
+          "logTime": "2026-10-16T14:37:08Z",
+          "winningGoal": false,
+          "gameTime": 1483,
+          "period": 2,
+          "eventId": 78,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            27854909,
+            60907490
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 27854909,
+              "firstName": "Aaro",
+              "lastName": "Vidgren"
+            },
+            {
+              "playerId": 60907490,
+              "firstName": "Daniel",
+              "lastName": "Torgersson"
+            }
+          ],
+          "plusPlayerIds": "40 3 92 7 44",
+          "minusPlayerIds": "73 2 9 19 93",
+          "homeTeamScore": 2,
+          "awayTeamScore": 0,
+          "assistsSoFarInSeason": {
+            "27854909": 3,
+            "60907490": 6
+          },
+          "goalsSoFarInSeason": 3,
+          "videoClipUrl": "https://videos.liiga.fi/videos/9f803a12-35b3-4ba4-96b7-37b281f96d9e/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/9f803a12-35b3-4ba4-96b7-37b281f96d9e/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/9f803a12-35b3-4ba4-96b7-37b281f96d9e/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 29914070,
+          "scorerPlayer": {
+            "playerId": 29914070,
+            "firstName": "Eetu",
+            "lastName": "Peltola"
+          },
+          "logTime": "2026-10-16T15:33:11Z",
+          "winningGoal": false,
+          "gameTime": 2482,
+          "period": 3,
+          "eventId": 180,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            23595916,
+            60962804
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 23595916,
+              "firstName": "Sami",
+              "lastName": "Vatanen"
+            },
+            {
+              "playerId": 60962804,
+              "firstName": "Alexander",
+              "lastName": "True"
+            }
+          ],
+          "plusPlayerIds": "31 44 7 40 92",
+          "minusPlayerIds": "2 19 11 27 61",
+          "homeTeamScore": 3,
+          "awayTeamScore": 3,
+          "assistsSoFarInSeason": {
+            "23595916": 4,
+            "60962804": 9
+          },
+          "goalsSoFarInSeason": 3,
+          "videoClipUrl": "https://videos.liiga.fi/videos/fcd41b6a-3623-44bc-ba90-1becbbd4d14d/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/fcd41b6a-3623-44bc-ba90-1becbbd4d14d/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/fcd41b6a-3623-44bc-ba90-1becbbd4d14d/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 30010552,
+          "scorerPlayer": {
+            "playerId": 30010552,
+            "firstName": "Leevi",
+            "lastName": "Tukiainen"
+          },
+          "logTime": "2026-10-16T15:38:41Z",
+          "winningGoal": false,
+          "gameTime": 2732,
+          "period": 3,
+          "eventId": 190,
+          "goalTypes": [
+            "YV"
+          ],
+          "assistantPlayerIds": [
+            28897266,
+            33209030
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 28897266,
+              "firstName": "Juuso",
+              "lastName": "Arola"
+            },
+            {
+              "playerId": 33209030,
+              "firstName": "Jere",
+              "lastName": "Lassila"
+            }
+          ],
+          "plusPlayerIds": null,
+          "minusPlayerIds": null,
+          "homeTeamScore": 4,
+          "awayTeamScore": 3,
+          "assistsSoFarInSeason": {
+            "28897266": 5,
+            "33209030": 5
+          },
+          "goalsSoFarInSeason": 4,
+          "videoClipUrl": "https://videos.liiga.fi/videos/2f215d6e-7239-4633-809d-644030830e15/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/2f215d6e-7239-4633-809d-644030830e15/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/2f215d6e-7239-4633-809d-644030830e15/thumbnail.jpeg"
+        }
+      ],
+      "powerplayInstances": 4,
+      "powerplayGoals": 1,
+      "shortHandedInstances": 3,
       "shortHandedGoals": 0,
+      "expectedGoals": 3.02,
       "ranking": 5,
       "gameStartDateTime": "2026-10-16T19:30:00+03:00",
       "logos": {
@@ -35406,13 +36566,185 @@
       "teamId": "495643563:kärpät",
       "teamPlaceholder": null,
       "teamName": "Kärpät",
-      "goals": 0,
+      "goals": 4,
       "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
-      "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "goalEvents": [
+        {
+          "scorerPlayerId": 25657580,
+          "scorerPlayer": {
+            "playerId": 25657580,
+            "firstName": "Rasmus",
+            "lastName": "Rissanen"
+          },
+          "logTime": "2026-10-16T14:46:42Z",
+          "winningGoal": false,
+          "gameTime": 1826,
+          "period": 2,
+          "eventId": 100,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            32269686,
+            32873373
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 32269686,
+              "firstName": "Roni",
+              "lastName": "Hirvonen"
+            },
+            {
+              "playerId": 32873373,
+              "firstName": "Andreas",
+              "lastName": "Okany"
+            }
+          ],
+          "plusPlayerIds": "16 9 2 82 33",
+          "minusPlayerIds": "17 32 28 77 14",
+          "homeTeamScore": 2,
+          "awayTeamScore": 1,
+          "assistsSoFarInSeason": {
+            "32269686": 9,
+            "32873373": 5
+          },
+          "goalsSoFarInSeason": 3,
+          "videoClipUrl": "https://videos.liiga.fi/videos/55da62f6-d119-4f1f-8f98-a4d33bd211cd/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/55da62f6-d119-4f1f-8f98-a4d33bd211cd/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/55da62f6-d119-4f1f-8f98-a4d33bd211cd/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 23889127,
+          "scorerPlayer": {
+            "playerId": 23889127,
+            "firstName": "Eetu",
+            "lastName": "Koivistoinen"
+          },
+          "logTime": "2026-10-16T14:49:11Z",
+          "winningGoal": false,
+          "gameTime": 1880,
+          "period": 2,
+          "eventId": 110,
+          "goalTypes": [
+            "YV"
+          ],
+          "assistantPlayerIds": [
+            30984675,
+            28967947
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 30984675,
+              "firstName": "Aleksi",
+              "lastName": "Matinmikko"
+            },
+            {
+              "playerId": 28967947,
+              "firstName": "Samuli",
+              "lastName": "Ratinen"
+            }
+          ],
+          "plusPlayerIds": null,
+          "minusPlayerIds": null,
+          "homeTeamScore": 2,
+          "awayTeamScore": 2,
+          "assistsSoFarInSeason": {
+            "28967947": 5,
+            "30984675": 5
+          },
+          "goalsSoFarInSeason": 3,
+          "videoClipUrl": "https://videos.liiga.fi/videos/d1cf2196-9ca7-4a17-acc7-c1732aef918f/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/d1cf2196-9ca7-4a17-acc7-c1732aef918f/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/d1cf2196-9ca7-4a17-acc7-c1732aef918f/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 31803661,
+          "scorerPlayer": {
+            "playerId": 31803661,
+            "firstName": "Eetu",
+            "lastName": "Päkkilä"
+          },
+          "logTime": "2026-10-16T14:54:22Z",
+          "winningGoal": false,
+          "gameTime": 1986,
+          "period": 2,
+          "eventId": 119,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            32873373,
+            32269686
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 32873373,
+              "firstName": "Andreas",
+              "lastName": "Okany"
+            },
+            {
+              "playerId": 32269686,
+              "firstName": "Roni",
+              "lastName": "Hirvonen"
+            }
+          ],
+          "plusPlayerIds": "61 3 33 16 82",
+          "minusPlayerIds": "31 7 77 14 17",
+          "homeTeamScore": 2,
+          "awayTeamScore": 3,
+          "assistsSoFarInSeason": {
+            "32269686": 10,
+            "32873373": 6
+          },
+          "goalsSoFarInSeason": 5,
+          "videoClipUrl": "https://videos.liiga.fi/videos/96fbcad3-c2e2-4e42-9270-6eb55a90c100/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/96fbcad3-c2e2-4e42-9270-6eb55a90c100/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/96fbcad3-c2e2-4e42-9270-6eb55a90c100/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 32619919,
+          "scorerPlayer": {
+            "playerId": 32619919,
+            "firstName": "Kasper",
+            "lastName": "Soini"
+          },
+          "logTime": "2026-10-16T15:41:36Z",
+          "winningGoal": false,
+          "gameTime": 2764,
+          "period": 3,
+          "eventId": 200,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            60952399,
+            31803661
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 60952399,
+              "firstName": "Jiri",
+              "lastName": "Tichacek"
+            },
+            {
+              "playerId": 31803661,
+              "firstName": "Eetu",
+              "lastName": "Päkkilä"
+            }
+          ],
+          "plusPlayerIds": "9 26 33 16 82",
+          "minusPlayerIds": "63 8 7 92 39",
+          "homeTeamScore": 4,
+          "awayTeamScore": 4,
+          "assistsSoFarInSeason": {
+            "31803661": 5,
+            "60952399": 4
+          },
+          "goalsSoFarInSeason": 1,
+          "videoClipUrl": "https://videos.liiga.fi/videos/9785acea-09d0-4b69-8729-5e377306bdf2/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/9785acea-09d0-4b69-8729-5e377306bdf2/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/9785acea-09d0-4b69-8729-5e377306bdf2/thumbnail.jpeg"
+        }
+      ],
+      "powerplayInstances": 3,
+      "powerplayGoals": 1,
+      "shortHandedInstances": 4,
       "shortHandedGoals": 0,
+      "expectedGoals": 2.48,
       "ranking": 4,
       "gameStartDateTime": "2026-10-16T19:30:00+03:00",
       "logos": {
@@ -35433,16 +36765,16 @@
       },
       {
         "index": 2,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
+        "homeTeamGoals": 2,
+        "awayTeamGoals": 3,
         "category": "NORMAL",
         "startTime": 1200,
         "endTime": 2400
       },
       {
         "index": 3,
-        "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
+        "homeTeamGoals": 2,
+        "awayTeamGoals": 1,
         "category": "NORMAL",
         "startTime": 2400,
         "endTime": 3600
@@ -35465,17 +36797,18 @@
       }
     ],
     "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
+    "started": true,
     "ended": false,
-    "gameTime": 0,
+    "gameTime": 3770,
+    "spectators": 3208,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://jyp.tmtickets.fi/Events",
     "gamblingEvent": {
-      "homeTeamOdds": 195,
-      "awayTeamOdds": 340,
-      "tieOdds": 425,
+      "homeTeamOdds": 485,
+      "awayTeamOdds": 282,
+      "tieOdds": 324,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1073420"
     },
     "iceRink": {
@@ -35487,7 +36820,7 @@
       "zip": "40700",
       "city": "JYVÄSKYLÄ"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 4,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 7
