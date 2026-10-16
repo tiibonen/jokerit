@@ -36566,7 +36566,7 @@
       "teamId": "495643563:kärpät",
       "teamPlaceholder": null,
       "teamName": "Kärpät",
-      "goals": 4,
+      "goals": 5,
       "timeOut": null,
       "goalEvents": [
         {
@@ -36738,13 +36738,55 @@
           "videoClipUrl": "https://videos.liiga.fi/videos/9785acea-09d0-4b69-8729-5e377306bdf2/playlist.m3u8",
           "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/9785acea-09d0-4b69-8729-5e377306bdf2/playlist.m3u8",
           "videoThumbnailUrl": "https://videos.liiga.fi/videos/9785acea-09d0-4b69-8729-5e377306bdf2/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 23889127,
+          "scorerPlayer": {
+            "playerId": 23889127,
+            "firstName": "Eetu",
+            "lastName": "Koivistoinen"
+          },
+          "logTime": "2026-10-16T16:16:00Z",
+          "winningGoal": true,
+          "gameTime": 3777,
+          "period": 4,
+          "eventId": 265,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            60952399,
+            29864256
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 60952399,
+              "firstName": "Jiri",
+              "lastName": "Tichacek"
+            },
+            {
+              "playerId": 29864256,
+              "firstName": "Eemil",
+              "lastName": "Erholtz"
+            }
+          ],
+          "plusPlayerIds": "31 26 73",
+          "minusPlayerIds": "40 7 31",
+          "homeTeamScore": 4,
+          "awayTeamScore": 5,
+          "assistsSoFarInSeason": {
+            "29864256": 5,
+            "60952399": 5
+          },
+          "goalsSoFarInSeason": 4,
+          "videoClipUrl": "https://videos.liiga.fi/videos/f760a0ac-3b27-4658-bbd6-aca7a9799002/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/f760a0ac-3b27-4658-bbd6-aca7a9799002/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/f760a0ac-3b27-4658-bbd6-aca7a9799002/thumbnail.jpeg"
         }
       ],
       "powerplayInstances": 3,
       "powerplayGoals": 1,
       "shortHandedInstances": 4,
       "shortHandedGoals": 0,
-      "expectedGoals": 2.48,
+      "expectedGoals": 3.16,
       "ranking": 4,
       "gameStartDateTime": "2026-10-16T19:30:00+03:00",
       "logos": {
@@ -36782,7 +36824,7 @@
       {
         "index": 4,
         "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
+        "awayTeamGoals": 1,
         "category": "OVERTIME",
         "startTime": 3600,
         "endTime": 3900
@@ -36796,10 +36838,10 @@
         "endTime": 3900
       }
     ],
-    "finishedType": "ACTIVE_OR_NOT_STARTED",
+    "finishedType": "ENDED_DURING_EXTENDED_GAME_TIME",
     "started": true,
-    "ended": false,
-    "gameTime": 3770,
+    "ended": true,
+    "gameTime": 3777,
     "spectators": 3208,
     "playOffPair": 0,
     "playOffPhase": 0,
