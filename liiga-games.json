@@ -34902,6 +34902,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://liveday.fi/stores/2vjYW5qER9OnYBi0Ds6U3bqeh2l",
+    "gamblingEvent": {
+      "homeTeamOdds": 365,
+      "awayTeamOdds": 194,
+      "tieOdds": 395,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1073412"
+    },
     "iceRink": {
       "id": 31,
       "name": "Hämeenlinnan jäähalli I",
@@ -35010,6 +35016,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/hctps/",
+    "gamblingEvent": {
+      "homeTeamOdds": 211,
+      "awayTeamOdds": 315,
+      "tieOdds": 400,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1073417"
+    },
     "iceRink": {
       "id": 199,
       "name": "Turun Monitoimihalli Oy",
@@ -35118,6 +35130,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/en/artist/tappara/",
+    "gamblingEvent": {
+      "homeTeamOdds": 182,
+      "awayTeamOdds": 395,
+      "tieOdds": 415,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1073421"
+    },
     "iceRink": {
       "id": 537,
       "name": "Tampereen Kansi Areena",
@@ -35226,6 +35244,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/artist/jokerit-lippuja/973335",
+    "gamblingEvent": {
+      "homeTeamOdds": 237,
+      "awayTeamOdds": 272,
+      "tieOdds": 385,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1073413"
+    },
     "iceRink": {
       "id": 17,
       "name": "Helsinki Areena",
@@ -35334,6 +35358,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/pelicans/",
+    "gamblingEvent": {
+      "homeTeamOdds": 170,
+      "awayTeamOdds": 460,
+      "tieOdds": 425,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1073418"
+    },
     "iceRink": {
       "id": 85,
       "name": "Lahden jäähalli",
@@ -35443,9 +35473,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://jyp.tmtickets.fi/Events",
     "gamblingEvent": {
-      "homeTeamOdds": 205,
-      "awayTeamOdds": 310,
-      "tieOdds": 405,
+      "homeTeamOdds": 207,
+      "awayTeamOdds": 315,
+      "tieOdds": 410,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1073420"
     },
     "iceRink": {
