@@ -34903,9 +34903,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://liveday.fi/stores/2vjYW5qER9OnYBi0Ds6U3bqeh2l",
     "gamblingEvent": {
-      "homeTeamOdds": 365,
-      "awayTeamOdds": 194,
-      "tieOdds": 395,
+      "homeTeamOdds": 395,
+      "awayTeamOdds": 184,
+      "tieOdds": 405,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1073412"
     },
     "iceRink": {
@@ -35017,9 +35017,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/hctps/",
     "gamblingEvent": {
-      "homeTeamOdds": 211,
-      "awayTeamOdds": 315,
-      "tieOdds": 400,
+      "homeTeamOdds": 217,
+      "awayTeamOdds": 303,
+      "tieOdds": 395,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1073417"
     },
     "iceRink": {
@@ -35131,9 +35131,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/en/artist/tappara/",
     "gamblingEvent": {
-      "homeTeamOdds": 182,
-      "awayTeamOdds": 395,
-      "tieOdds": 415,
+      "homeTeamOdds": 178,
+      "awayTeamOdds": 400,
+      "tieOdds": 425,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1073421"
     },
     "iceRink": {
@@ -35245,9 +35245,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/artist/jokerit-lippuja/973335",
     "gamblingEvent": {
-      "homeTeamOdds": 237,
-      "awayTeamOdds": 272,
-      "tieOdds": 385,
+      "homeTeamOdds": 222,
+      "awayTeamOdds": 295,
+      "tieOdds": 390,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1073413"
     },
     "iceRink": {
@@ -35359,9 +35359,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/pelicans/",
     "gamblingEvent": {
-      "homeTeamOdds": 170,
-      "awayTeamOdds": 460,
-      "tieOdds": 425,
+      "homeTeamOdds": 173,
+      "awayTeamOdds": 440,
+      "tieOdds": 415,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1073418"
     },
     "iceRink": {
@@ -35473,9 +35473,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://jyp.tmtickets.fi/Events",
     "gamblingEvent": {
-      "homeTeamOdds": 207,
-      "awayTeamOdds": 315,
-      "tieOdds": 410,
+      "homeTeamOdds": 202,
+      "awayTeamOdds": 323,
+      "tieOdds": 420,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1073420"
     },
     "iceRink": {
@@ -36018,6 +36018,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://elippu.net/saipa/53:585?affiliate=ADV",
+    "gamblingEvent": {
+      "homeTeamOdds": 184,
+      "awayTeamOdds": 370,
+      "tieOdds": 420,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1078316"
+    },
     "iceRink": {
       "id": 89,
       "name": "Lappeenrannan jäähalli I",
