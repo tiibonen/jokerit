@@ -37739,7 +37739,7 @@
       "powerplayGoals": 1,
       "shortHandedInstances": 3,
       "shortHandedGoals": 0,
-      "expectedGoals": 3.77,
+      "expectedGoals": 3.63,
       "ranking": 4,
       "gameStartDateTime": "2026-10-17T17:00:00+03:00",
       "logos": {
@@ -39090,7 +39090,7 @@
       "teamId": "292293444:jukurit",
       "teamPlaceholder": null,
       "teamName": "Jukurit",
-      "goals": 2,
+      "goals": 3,
       "timeOut": null,
       "goalEvents": [
         {
@@ -39178,13 +39178,55 @@
           "videoClipUrl": "https://videos.liiga.fi/videos/a8680951-8b12-4560-baf9-43f0d8e88543/playlist.m3u8",
           "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/a8680951-8b12-4560-baf9-43f0d8e88543/playlist.m3u8",
           "videoThumbnailUrl": "https://videos.liiga.fi/videos/a8680951-8b12-4560-baf9-43f0d8e88543/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 60960736,
+          "scorerPlayer": {
+            "playerId": 60960736,
+            "firstName": "Justin",
+            "lastName": "Addamo"
+          },
+          "logTime": "2026-10-17T14:44:49Z",
+          "winningGoal": true,
+          "gameTime": 3330,
+          "period": 3,
+          "eventId": 240,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            40006279,
+            33549965
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 40006279,
+              "firstName": "Eemeli",
+              "lastName": "Saari"
+            },
+            {
+              "playerId": 33549965,
+              "firstName": "Niko",
+              "lastName": "Korkola"
+            }
+          ],
+          "plusPlayerIds": "53 20 70 10 29",
+          "minusPlayerIds": "21 22 25 26 23",
+          "homeTeamScore": 3,
+          "awayTeamScore": 2,
+          "assistsSoFarInSeason": {
+            "33549965": 3,
+            "40006279": 5
+          },
+          "goalsSoFarInSeason": 2,
+          "videoClipUrl": "https://videos.liiga.fi/videos/44c52f1d-7683-4636-9e60-b78ab6d26d1f/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/44c52f1d-7683-4636-9e60-b78ab6d26d1f/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/44c52f1d-7683-4636-9e60-b78ab6d26d1f/thumbnail.jpeg"
         }
       ],
       "powerplayInstances": 3,
       "powerplayGoals": 1,
-      "shortHandedInstances": 1,
+      "shortHandedInstances": 2,
       "shortHandedGoals": 0,
-      "expectedGoals": 2.96,
+      "expectedGoals": 3.08,
       "ranking": 2,
       "gameStartDateTime": "2026-10-17T18:30:00+03:00",
       "logos": {
@@ -39199,7 +39241,7 @@
       "teamPlaceholder": null,
       "teamName": "Tappara",
       "goals": 2,
-      "timeOut": null,
+      "timeOut": 3459,
       "goalEvents": [
         {
           "scorerPlayerId": 60761513,
@@ -39286,11 +39328,11 @@
           "videoThumbnailUrl": null
         }
       ],
-      "powerplayInstances": 1,
+      "powerplayInstances": 2,
       "powerplayGoals": 0,
       "shortHandedInstances": 3,
       "shortHandedGoals": 0,
-      "expectedGoals": 2.67,
+      "expectedGoals": 3.23,
       "ranking": 9,
       "gameStartDateTime": "2026-10-17T18:30:00+03:00",
       "logos": {
@@ -39319,7 +39361,7 @@
       },
       {
         "index": 3,
-        "homeTeamGoals": 0,
+        "homeTeamGoals": 1,
         "awayTeamGoals": 2,
         "category": "NORMAL",
         "startTime": 2400,
@@ -39342,10 +39384,10 @@
         "endTime": 3900
       }
     ],
-    "finishedType": "ACTIVE_OR_NOT_STARTED",
+    "finishedType": "ENDED_DURING_REGULAR_GAME_TIME",
     "started": true,
-    "ended": false,
-    "gameTime": 3319,
+    "ended": true,
+    "gameTime": 3600,
     "spectators": 3166,
     "playOffPair": 0,
     "playOffPhase": 0,
