@@ -37544,7 +37544,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/138?position=8",
+    "buyTicketsUrl": "https://kalpa.tmtickets.fi",
     "gamblingEvent": {
       "homeTeamOdds": 465,
       "awayTeamOdds": 168,
@@ -37967,7 +37967,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-kookoo-lippuja/1326171699",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/karpat-lippuja/96763",
     "gamblingEvent": {
       "homeTeamOdds": 141,
       "awayTeamOdds": 625,
@@ -38256,7 +38256,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/69?position=8",
+    "buyTicketsUrl": "https://lukko.tmtickets.fi/",
     "gamblingEvent": {
       "homeTeamOdds": 118,
       "awayTeamOdds": 1300,
@@ -38717,9 +38717,9 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://elippu.net/saipa/53:585?affiliate=ADV",
+    "buyTicketsUrl": "https://elippu.net/saipa",
     "gamblingEvent": {
-      "homeTeamOdds": 141,
+      "homeTeamOdds": 100,
       "awayTeamOdds": 685,
       "tieOdds": 485,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1078316"
@@ -39061,7 +39061,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-tps-lippuja/1417050422",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/assat",
     "gamblingEvent": {
       "homeTeamOdds": 160,
       "awayTeamOdds": 525,
