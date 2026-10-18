@@ -35248,13 +35248,19 @@
             "SR"
           ],
           "assistantPlayerIds": [
-            40015008
+            40015008,
+            32219869
           ],
           "assistantPlayers": [
             {
               "playerId": 40015008,
               "firstName": "Vili",
               "lastName": "Munkki"
+            },
+            {
+              "playerId": 32219869,
+              "firstName": "Ruben",
+              "lastName": "Rafkin"
             }
           ],
           "plusPlayerIds": "44 6 21 84 57",
@@ -35262,6 +35268,7 @@
           "homeTeamScore": 4,
           "awayTeamScore": 2,
           "assistsSoFarInSeason": {
+            "32219869": 3,
             "40015008": 2
           },
           "goalsSoFarInSeason": 3,
@@ -36552,7 +36559,7 @@
       "powerplayGoals": 1,
       "shortHandedInstances": 3,
       "shortHandedGoals": 0,
-      "expectedGoals": 3.02,
+      "expectedGoals": 2.79,
       "ranking": 5,
       "gameStartDateTime": "2026-10-16T19:30:00+03:00",
       "logos": {
@@ -36727,7 +36734,7 @@
             }
           ],
           "plusPlayerIds": "9 26 33 16 82",
-          "minusPlayerIds": "63 8 7 92 39",
+          "minusPlayerIds": "63 31 7 92 40",
           "homeTeamScore": 4,
           "awayTeamScore": 4,
           "assistsSoFarInSeason": {
@@ -39507,6 +39514,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/hctps/",
+    "gamblingEvent": {
+      "homeTeamOdds": 227,
+      "awayTeamOdds": 288,
+      "tieOdds": 375,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1230318"
+    },
     "iceRink": {
       "id": 199,
       "name": "Turun Monitoimihalli Oy",
@@ -39615,6 +39628,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://liveday.fi/stores/2vjYW5qER9OnYBi0Ds6U3bqeh2l",
+    "gamblingEvent": {
+      "homeTeamOdds": 275,
+      "awayTeamOdds": 242,
+      "tieOdds": 360,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1095482"
+    },
     "iceRink": {
       "id": 31,
       "name": "Hämeenlinnan jäähalli I",
@@ -39723,6 +39742,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/137?position=12",
+    "gamblingEvent": {
+      "homeTeamOdds": 405,
+      "awayTeamOdds": 174,
+      "tieOdds": 435,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1095483"
+    },
     "iceRink": {
       "id": 74,
       "name": "Kouvolan jäähalli",
@@ -39831,6 +39856,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/70?position=9",
+    "gamblingEvent": {
+      "homeTeamOdds": 175,
+      "awayTeamOdds": 410,
+      "tieOdds": 425,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1095481"
+    },
     "iceRink": {
       "id": 166,
       "name": "Rauman jäähalli / Äijänsuo Areena",
@@ -39939,6 +39970,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://elippu.net/saipa/53:586?affiliate=ADV",
+    "gamblingEvent": {
+      "homeTeamOdds": 200,
+      "awayTeamOdds": 327,
+      "tieOdds": 405,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1095479"
+    },
     "iceRink": {
       "id": 89,
       "name": "Lappeenrannan jäähalli I",
@@ -40047,6 +40084,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
+    "gamblingEvent": {
+      "homeTeamOdds": 234,
+      "awayTeamOdds": 283,
+      "tieOdds": 365,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1230319"
+    },
     "iceRink": {
       "id": 205,
       "name": "Vaasan jäähalli I",
