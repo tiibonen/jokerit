@@ -41312,6 +41312,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kiekkoespoo.tmtickets.fi",
+    "gamblingEvent": {
+      "homeTeamOdds": 153,
+      "awayTeamOdds": 525,
+      "tieOdds": 500,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1100578"
+    },
     "iceRink": {
       "id": 190,
       "name": "Tapiolan monitoimiareena",
@@ -41420,6 +41426,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/en/artist/tappara/",
+    "gamblingEvent": {
+      "homeTeamOdds": 208,
+      "awayTeamOdds": 328,
+      "tieOdds": 390,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1100579"
+    },
     "iceRink": {
       "id": 537,
       "name": "Tampereen Kansi Areena",
@@ -41744,6 +41756,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/71?position=10",
+    "gamblingEvent": {
+      "homeTeamOdds": 240,
+      "awayTeamOdds": 268,
+      "tieOdds": 380,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1110606"
+    },
     "iceRink": {
       "id": 166,
       "name": "Rauman jäähalli / Äijänsuo Areena",
@@ -41852,6 +41870,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
+    "gamblingEvent": {
+      "homeTeamOdds": 333,
+      "awayTeamOdds": 198,
+      "tieOdds": 400,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1110604"
+    },
     "iceRink": {
       "id": 205,
       "name": "Vaasan jäähalli I",
@@ -41960,6 +41984,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/jukurit/",
+    "gamblingEvent": {
+      "homeTeamOdds": 320,
+      "awayTeamOdds": 213,
+      "tieOdds": 370,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1110603"
+    },
     "iceRink": {
       "id": 111,
       "name": "Mikkelin jäähalli",
