@@ -41306,7 +41306,7 @@
             "lastName": "King"
           },
           "logTime": "2026-10-21T14:15:29Z",
-          "winningGoal": false,
+          "winningGoal": true,
           "gameTime": 2456,
           "period": 3,
           "eventId": 149,
@@ -41547,9 +41547,9 @@
         "endTime": 3900
       }
     ],
-    "finishedType": "ACTIVE_OR_NOT_STARTED",
+    "finishedType": "ENDED_DURING_REGULAR_GAME_TIME",
     "started": true,
-    "ended": false,
+    "ended": true,
     "gameTime": 3600,
     "spectators": 4093,
     "playOffPair": 0,
@@ -41595,7 +41595,7 @@
             "lastName": "Suvanto"
           },
           "logTime": "2026-10-21T13:44:15Z",
-          "winningGoal": false,
+          "winningGoal": true,
           "gameTime": 1990,
           "period": 2,
           "eventId": 91,
@@ -41778,9 +41778,9 @@
         "endTime": 3900
       }
     ],
-    "finishedType": "ACTIVE_OR_NOT_STARTED",
+    "finishedType": "ENDED_DURING_REGULAR_GAME_TIME",
     "started": true,
-    "ended": false,
+    "ended": true,
     "gameTime": 3600,
     "spectators": 7569,
     "playOffPair": 0,
