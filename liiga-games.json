@@ -41313,9 +41313,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kiekkoespoo.tmtickets.fi",
     "gamblingEvent": {
-      "homeTeamOdds": 153,
-      "awayTeamOdds": 525,
-      "tieOdds": 500,
+      "homeTeamOdds": 157,
+      "awayTeamOdds": 485,
+      "tieOdds": 485,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1100578"
     },
     "iceRink": {
@@ -41427,8 +41427,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/en/artist/tappara/",
     "gamblingEvent": {
-      "homeTeamOdds": 208,
-      "awayTeamOdds": 328,
+      "homeTeamOdds": 218,
+      "awayTeamOdds": 304,
       "tieOdds": 390,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1100579"
     },
@@ -76882,7 +76882,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://elippu.net/saipa",
+    "buyTicketsUrl": "https://elippu.net/saipa/53:605?affiliate=ADV",
     "iceRink": {
       "id": 89,
       "name": "Lappeenrannan jäähalli I",
