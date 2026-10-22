@@ -41901,6 +41901,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://jyp.tmtickets.fi/Events",
+    "gamblingEvent": {
+      "homeTeamOdds": 165,
+      "awayTeamOdds": 465,
+      "tieOdds": 450,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1105929"
+    },
     "iceRink": {
       "id": 39,
       "name": "Jyväskylän jäähalli",
@@ -42009,6 +42015,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-kalpa-lippuja/545744199",
+    "gamblingEvent": {
+      "homeTeamOdds": 194,
+      "awayTeamOdds": 345,
+      "tieOdds": 405,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1110602"
+    },
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
@@ -42897,6 +42909,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/139?position=13",
+    "gamblingEvent": {
+      "homeTeamOdds": 275,
+      "awayTeamOdds": 225,
+      "tieOdds": 410,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1115804"
+    },
     "iceRink": {
       "id": 74,
       "name": "Kouvolan jäähalli",
