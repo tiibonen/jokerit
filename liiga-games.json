@@ -42459,6 +42459,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kiekkoespoo.tmtickets.fi",
+    "gamblingEvent": {
+      "homeTeamOdds": 200,
+      "awayTeamOdds": 328,
+      "tieOdds": 405,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1110605"
+    },
     "iceRink": {
       "id": 190,
       "name": "Tapiolan monitoimiareena",
