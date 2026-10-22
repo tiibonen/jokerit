@@ -41902,8 +41902,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://jyp.tmtickets.fi/Events",
     "gamblingEvent": {
-      "homeTeamOdds": 165,
-      "awayTeamOdds": 465,
+      "homeTeamOdds": 162,
+      "awayTeamOdds": 485,
       "tieOdds": 450,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1105929"
     },
@@ -42018,7 +42018,7 @@
     "gamblingEvent": {
       "homeTeamOdds": 194,
       "awayTeamOdds": 345,
-      "tieOdds": 405,
+      "tieOdds": 420,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1110602"
     },
     "iceRink": {
