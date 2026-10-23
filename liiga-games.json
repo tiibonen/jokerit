@@ -42224,8 +42224,8 @@
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-kalpa-lippuja/545744199",
     "gamblingEvent": {
       "homeTeamOdds": 202,
-      "awayTeamOdds": 324,
-      "tieOdds": 420,
+      "awayTeamOdds": 328,
+      "tieOdds": 425,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1110602"
     },
     "iceRink": {
@@ -42339,7 +42339,7 @@
     "gamblingEvent": {
       "homeTeamOdds": 240,
       "awayTeamOdds": 268,
-      "tieOdds": 380,
+      "tieOdds": 385,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1110606"
     },
     "iceRink": {
@@ -42451,9 +42451,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
     "gamblingEvent": {
-      "homeTeamOdds": 333,
-      "awayTeamOdds": 198,
-      "tieOdds": 400,
+      "homeTeamOdds": 335,
+      "awayTeamOdds": 200,
+      "tieOdds": 405,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1110604"
     },
     "iceRink": {
@@ -42565,9 +42565,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/jukurit/",
     "gamblingEvent": {
-      "homeTeamOdds": 320,
-      "awayTeamOdds": 213,
-      "tieOdds": 370,
+      "homeTeamOdds": 322,
+      "awayTeamOdds": 214,
+      "tieOdds": 375,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1110603"
     },
     "iceRink": {
@@ -42680,8 +42680,8 @@
     "buyTicketsUrl": "https://kiekkoespoo.tmtickets.fi",
     "gamblingEvent": {
       "homeTeamOdds": 202,
-      "awayTeamOdds": 324,
-      "tieOdds": 400,
+      "awayTeamOdds": 328,
+      "tieOdds": 405,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1110605"
     },
     "iceRink": {
@@ -43338,6 +43338,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/pelicans/",
+    "gamblingEvent": {
+      "homeTeamOdds": 284,
+      "awayTeamOdds": 234,
+      "tieOdds": 365,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1115803"
+    },
     "iceRink": {
       "id": 85,
       "name": "Lahden jäähalli",
