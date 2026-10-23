@@ -42223,9 +42223,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-kalpa-lippuja/545744199",
     "gamblingEvent": {
-      "homeTeamOdds": 202,
-      "awayTeamOdds": 328,
-      "tieOdds": 425,
+      "homeTeamOdds": 208,
+      "awayTeamOdds": 315,
+      "tieOdds": 430,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1110602"
     },
     "iceRink": {
@@ -42337,9 +42337,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/71?position=10",
     "gamblingEvent": {
-      "homeTeamOdds": 240,
-      "awayTeamOdds": 268,
-      "tieOdds": 385,
+      "homeTeamOdds": 237,
+      "awayTeamOdds": 272,
+      "tieOdds": 395,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1110606"
     },
     "iceRink": {
@@ -42451,9 +42451,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
     "gamblingEvent": {
-      "homeTeamOdds": 335,
-      "awayTeamOdds": 200,
-      "tieOdds": 405,
+      "homeTeamOdds": 365,
+      "awayTeamOdds": 190,
+      "tieOdds": 415,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1110604"
     },
     "iceRink": {
@@ -42565,8 +42565,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/jukurit/",
     "gamblingEvent": {
-      "homeTeamOdds": 322,
-      "awayTeamOdds": 214,
+      "homeTeamOdds": 315,
+      "awayTeamOdds": 217,
       "tieOdds": 375,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1110603"
     },
@@ -42679,9 +42679,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kiekkoespoo.tmtickets.fi",
     "gamblingEvent": {
-      "homeTeamOdds": 202,
-      "awayTeamOdds": 328,
-      "tieOdds": 405,
+      "homeTeamOdds": 214,
+      "awayTeamOdds": 306,
+      "tieOdds": 400,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1110605"
     },
     "iceRink": {
@@ -43008,6 +43008,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://jyp.tmtickets.fi/Events",
+    "gamblingEvent": {
+      "homeTeamOdds": 205,
+      "awayTeamOdds": 315,
+      "tieOdds": 400,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1115802"
+    },
     "iceRink": {
       "id": 39,
       "name": "Jyväskylän jäähalli",
@@ -52532,7 +52538,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-jyp-lippuja/168264744",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/assat",
     "iceRink": {
       "id": 153,
       "name": "Porin jäähalli I",
