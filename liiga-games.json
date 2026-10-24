@@ -45283,7 +45283,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/139?position=13",
+    "buyTicketsUrl": "https://kookoo.tmtickets.fi/",
     "gamblingEvent": {
       "homeTeamOdds": 292,
       "awayTeamOdds": 255,
@@ -45649,7 +45649,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-kalpa-lippuja/2087232776",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/karpat-lippuja/96763",
     "gamblingEvent": {
       "homeTeamOdds": 152,
       "awayTeamOdds": 600,
@@ -46896,6 +46896,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/140?position=9",
+    "gamblingEvent": {
+      "homeTeamOdds": 198,
+      "awayTeamOdds": 340,
+      "tieOdds": 395,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1131083"
+    },
     "iceRink": {
       "id": 78,
       "name": "Kuopion jäähalli",
