@@ -47010,6 +47010,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/jukurit/",
+    "gamblingEvent": {
+      "homeTeamOdds": 305,
+      "awayTeamOdds": 222,
+      "tieOdds": 365,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1136388"
+    },
     "iceRink": {
       "id": 111,
       "name": "Mikkelin jäähalli",
@@ -47118,6 +47124,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://jyp.tmtickets.fi/Events",
+    "gamblingEvent": {
+      "homeTeamOdds": 228,
+      "awayTeamOdds": 278,
+      "tieOdds": 390,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1136389"
+    },
     "iceRink": {
       "id": 39,
       "name": "Jyväskylän jäähalli",
@@ -47658,6 +47670,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-ilves-lippuja/688460335",
+    "gamblingEvent": {
+      "homeTeamOdds": 264,
+      "awayTeamOdds": 242,
+      "tieOdds": 385,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1136385"
+    },
     "iceRink": {
       "id": 21,
       "name": "Helsingin jäähalli I",
