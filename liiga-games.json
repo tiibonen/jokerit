@@ -42954,11 +42954,11 @@
           "videoThumbnailUrl": "https://videos.liiga.fi/videos/2c385aef-a331-4e96-8d5e-28bc75ec689d/thumbnail.jpeg"
         },
         {
-          "scorerPlayerId": 60501427,
+          "scorerPlayerId": 61073936,
           "scorerPlayer": {
-            "playerId": 60501427,
-            "firstName": "Brett",
-            "lastName": "Harrison"
+            "playerId": 61073936,
+            "firstName": "Isak",
+            "lastName": "Walther"
           },
           "logTime": "2026-10-23T15:04:56Z",
           "winningGoal": false,
@@ -42993,7 +42993,7 @@
             "22805092": 4,
             "31539993": 4
           },
-          "goalsSoFarInSeason": 4,
+          "goalsSoFarInSeason": 3,
           "videoClipUrl": "https://videos.liiga.fi/videos/498330ae-a88d-4c6a-88a4-3558c0ab9770/playlist.m3u8",
           "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/498330ae-a88d-4c6a-88a4-3558c0ab9770/playlist.m3u8",
           "videoThumbnailUrl": "https://videos.liiga.fi/videos/498330ae-a88d-4c6a-88a4-3558c0ab9770/thumbnail.jpeg"
