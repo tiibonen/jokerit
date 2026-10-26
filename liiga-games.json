@@ -47238,6 +47238,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kiekkoespoo.tmtickets.fi",
+    "gamblingEvent": {
+      "homeTeamOdds": 237,
+      "awayTeamOdds": 270,
+      "tieOdds": 380,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1136394"
+    },
     "iceRink": {
       "id": 190,
       "name": "Tapiolan monitoimiareena",
@@ -47346,6 +47352,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/119?position=14",
+    "gamblingEvent": {
+      "homeTeamOdds": 327,
+      "awayTeamOdds": 200,
+      "tieOdds": 405,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1136398"
+    },
     "iceRink": {
       "id": 74,
       "name": "Kouvolan jäähalli",
@@ -47454,6 +47466,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-hpk-%7C-opiskelijapeli-lippuja/404931343",
+    "gamblingEvent": {
+      "homeTeamOdds": 178,
+      "awayTeamOdds": 410,
+      "tieOdds": 405,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1136392"
+    },
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
@@ -47562,6 +47580,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/pelicans/",
+    "gamblingEvent": {
+      "homeTeamOdds": 260,
+      "awayTeamOdds": 250,
+      "tieOdds": 370,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1136390"
+    },
     "iceRink": {
       "id": 85,
       "name": "Lahden jäähalli",
