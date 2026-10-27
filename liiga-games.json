@@ -47217,7 +47217,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/140?position=9",
+    "buyTicketsUrl": "https://kalpa.tmtickets.fi",
     "gamblingEvent": {
       "homeTeamOdds": 245,
       "awayTeamOdds": 350,
@@ -48778,6 +48778,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/152?position=10",
+    "gamblingEvent": {
+      "homeTeamOdds": 242,
+      "awayTeamOdds": 262,
+      "tieOdds": 390,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1146617"
+    },
     "iceRink": {
       "id": 78,
       "name": "Kuopion jäähalli",
