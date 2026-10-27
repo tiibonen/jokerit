@@ -46919,9 +46919,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/140?position=9",
     "gamblingEvent": {
-      "homeTeamOdds": 198,
-      "awayTeamOdds": 345,
-      "tieOdds": 400,
+      "homeTeamOdds": 202,
+      "awayTeamOdds": 335,
+      "tieOdds": 395,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1131083"
     },
     "iceRink": {
