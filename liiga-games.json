@@ -47484,11 +47484,11 @@
           "videoThumbnailUrl": "https://videos.liiga.fi/videos/01a92c24-bbf8-4d23-83d3-136384e2cab4/thumbnail.jpeg"
         },
         {
-          "scorerPlayerId": 22396653,
+          "scorerPlayerId": 32033595,
           "scorerPlayer": {
-            "playerId": 22396653,
-            "firstName": "Heikki",
-            "lastName": "Liedes"
+            "playerId": 32033595,
+            "firstName": "Peetro",
+            "lastName": "Seppälä"
           },
           "logTime": "2026-10-28T16:38:38Z",
           "winningGoal": false,
@@ -47497,19 +47497,19 @@
           "eventId": 165,
           "goalTypes": [],
           "assistantPlayerIds": [
-            32033595,
-            60351426
+            60351426,
+            60960461
           ],
           "assistantPlayers": [
-            {
-              "playerId": 32033595,
-              "firstName": "Peetro",
-              "lastName": "Seppälä"
-            },
             {
               "playerId": 60351426,
               "firstName": "Jakob",
               "lastName": "Stenqvist"
+            },
+            {
+              "playerId": 60960461,
+              "firstName": "Alex",
+              "lastName": "Beaucage"
             }
           ],
           "plusPlayerIds": "93 18 9 27 16",
@@ -47517,10 +47517,10 @@
           "homeTeamScore": 3,
           "awayTeamScore": 3,
           "assistsSoFarInSeason": {
-            "32033595": 4,
-            "60351426": 10
+            "60351426": 10,
+            "60960461": 9
           },
-          "goalsSoFarInSeason": 5,
+          "goalsSoFarInSeason": 2,
           "videoClipUrl": "https://videos.liiga.fi/videos/8954feb7-dc1d-49f7-b844-a92a5525fc7d/playlist.m3u8",
           "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/8954feb7-dc1d-49f7-b844-a92a5525fc7d/playlist.m3u8",
           "videoThumbnailUrl": "https://videos.liiga.fi/videos/8954feb7-dc1d-49f7-b844-a92a5525fc7d/thumbnail.jpeg"
