@@ -49954,6 +49954,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://liveday.fi/stores/2vjYW5qER9OnYBi0Ds6U3bqeh2l",
+    "gamblingEvent": {
+      "homeTeamOdds": 295,
+      "awayTeamOdds": 222,
+      "tieOdds": 380,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1146615"
+    },
     "iceRink": {
       "id": 31,
       "name": "Hämeenlinnan jäähalli I",
@@ -50062,6 +50068,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/72?position=11",
+    "gamblingEvent": {
+      "homeTeamOdds": 153,
+      "awayTeamOdds": 515,
+      "tieOdds": 485,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1146619"
+    },
     "iceRink": {
       "id": 166,
       "name": "Rauman jäähalli / Äijänsuo Areena",
@@ -50170,6 +50182,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://elippu.net/saipa/53:587?affiliate=ADV",
+    "gamblingEvent": {
+      "homeTeamOdds": 217,
+      "awayTeamOdds": 290,
+      "tieOdds": 405,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1146618"
+    },
     "iceRink": {
       "id": 89,
       "name": "Lappeenrannan jäähalli I",
@@ -50278,6 +50296,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/hctps/",
+    "gamblingEvent": {
+      "homeTeamOdds": 208,
+      "awayTeamOdds": 323,
+      "tieOdds": 380,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1146620"
+    },
     "iceRink": {
       "id": 199,
       "name": "Turun Monitoimihalli Oy",
@@ -50386,6 +50410,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-hifk-lippuja/1198757034",
+    "gamblingEvent": {
+      "homeTeamOdds": 240,
+      "awayTeamOdds": 265,
+      "tieOdds": 380,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1146621"
+    },
     "iceRink": {
       "id": 153,
       "name": "Porin jäähalli I",
@@ -50494,6 +50524,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/en/artist/tappara/",
+    "gamblingEvent": {
+      "homeTeamOdds": 258,
+      "awayTeamOdds": 252,
+      "tieOdds": 370,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1146634"
+    },
     "iceRink": {
       "id": 537,
       "name": "Tampereen Kansi Areena",
@@ -51040,6 +51076,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-jukurit-lippuja/2054958457",
+    "gamblingEvent": {
+      "homeTeamOdds": 204,
+      "awayTeamOdds": 335,
+      "tieOdds": 380,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1151014"
+    },
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
