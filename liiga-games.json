@@ -50069,8 +50069,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/72?position=11",
     "gamblingEvent": {
-      "homeTeamOdds": 154,
-      "awayTeamOdds": 525,
+      "homeTeamOdds": 152,
+      "awayTeamOdds": 535,
       "tieOdds": 500,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1146619"
     },
@@ -50183,8 +50183,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://elippu.net/saipa/53:587?affiliate=ADV",
     "gamblingEvent": {
-      "homeTeamOdds": 218,
-      "awayTeamOdds": 292,
+      "homeTeamOdds": 220,
+      "awayTeamOdds": 290,
       "tieOdds": 410,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1146618"
     },
@@ -50297,9 +50297,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/hctps/",
     "gamblingEvent": {
-      "homeTeamOdds": 207,
-      "awayTeamOdds": 330,
-      "tieOdds": 385,
+      "homeTeamOdds": 224,
+      "awayTeamOdds": 304,
+      "tieOdds": 375,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1146620"
     },
     "iceRink": {
@@ -50411,8 +50411,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-hifk-lippuja/1198757034",
     "gamblingEvent": {
-      "homeTeamOdds": 242,
-      "awayTeamOdds": 268,
+      "homeTeamOdds": 237,
+      "awayTeamOdds": 272,
       "tieOdds": 385,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1146621"
     },
@@ -50525,9 +50525,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/en/artist/tappara/",
     "gamblingEvent": {
-      "homeTeamOdds": 272,
-      "awayTeamOdds": 242,
-      "tieOdds": 380,
+      "homeTeamOdds": 315,
+      "awayTeamOdds": 215,
+      "tieOdds": 385,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1146634"
     },
     "iceRink": {
@@ -50639,7 +50639,7 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/152?position=10",
     "gamblingEvent": {
-      "homeTeamOdds": 244,
+      "homeTeamOdds": 242,
       "awayTeamOdds": 264,
       "tieOdds": 395,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1146617"
