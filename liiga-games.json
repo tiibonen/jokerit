@@ -47557,7 +47557,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 1,
       "shortHandedGoals": 0,
-      "expectedGoals": 3.08,
+      "expectedGoals": 2.85,
       "ranking": 1,
       "gameStartDateTime": "2026-10-28T18:30:00+02:00",
       "logos": {
@@ -50297,9 +50297,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/hctps/",
     "gamblingEvent": {
-      "homeTeamOdds": 208,
-      "awayTeamOdds": 323,
-      "tieOdds": 380,
+      "homeTeamOdds": 205,
+      "awayTeamOdds": 327,
+      "tieOdds": 385,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1146620"
     },
     "iceRink": {
@@ -50525,8 +50525,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/en/artist/tappara/",
     "gamblingEvent": {
-      "homeTeamOdds": 257,
-      "awayTeamOdds": 254,
+      "homeTeamOdds": 270,
+      "awayTeamOdds": 240,
       "tieOdds": 370,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1146634"
     },
@@ -51077,9 +51077,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-jukurit-lippuja/2054958457",
     "gamblingEvent": {
-      "homeTeamOdds": 204,
-      "awayTeamOdds": 335,
-      "tieOdds": 380,
+      "homeTeamOdds": 208,
+      "awayTeamOdds": 326,
+      "tieOdds": 375,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1151014"
     },
     "iceRink": {
