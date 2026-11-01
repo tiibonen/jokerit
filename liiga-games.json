@@ -53705,12 +53705,13 @@
       "teamPlaceholder": null,
       "teamName": "Tappara",
       "goals": 0,
-      "timeOut": null,
+      "timeOut": 3400,
       "goalEvents": [],
-      "powerplayInstances": 0,
+      "powerplayInstances": 3,
       "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "shortHandedInstances": 2,
       "shortHandedGoals": 0,
+      "expectedGoals": 2.52,
       "ranking": 9,
       "gameStartDateTime": "2026-11-01T15:00:00+02:00",
       "logos": {
@@ -53724,13 +53725,145 @@
       "teamId": "55786244:hpk",
       "teamPlaceholder": null,
       "teamName": "HPK",
-      "goals": 0,
+      "goals": 3,
       "timeOut": null,
-      "goalEvents": [],
-      "powerplayInstances": 0,
+      "goalEvents": [
+        {
+          "scorerPlayerId": 33296946,
+          "scorerPlayer": {
+            "playerId": 33296946,
+            "firstName": "Sami",
+            "lastName": "Päivärinta"
+          },
+          "logTime": "2026-11-01T11:23:34Z",
+          "winningGoal": true,
+          "gameTime": 750,
+          "period": 1,
+          "eventId": 49,
+          "goalTypes": [],
+          "assistantPlayerIds": [
+            22891255,
+            61032982
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 22891255,
+              "firstName": "Samuli",
+              "lastName": "Piipponen"
+            },
+            {
+              "playerId": 61032982,
+              "firstName": "Garrett",
+              "lastName": "Pyke"
+            }
+          ],
+          "plusPlayerIds": "91 12 10 7 11",
+          "minusPlayerIds": "63 38 21 78 62",
+          "homeTeamScore": 0,
+          "awayTeamScore": 1,
+          "assistsSoFarInSeason": {
+            "22891255": 2,
+            "61032982": 3
+          },
+          "goalsSoFarInSeason": 7,
+          "videoClipUrl": "https://videos.liiga.fi/videos/6c79b97d-a67e-447d-85c0-542ecb344e9c/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/6c79b97d-a67e-447d-85c0-542ecb344e9c/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/6c79b97d-a67e-447d-85c0-542ecb344e9c/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 21870028,
+          "scorerPlayer": {
+            "playerId": 21870028,
+            "firstName": "Harri",
+            "lastName": "Kainulainen"
+          },
+          "logTime": "2026-11-01T13:14:31Z",
+          "winningGoal": false,
+          "gameTime": 3411,
+          "period": 3,
+          "eventId": 188,
+          "goalTypes": [
+            "TM"
+          ],
+          "assistantPlayerIds": [
+            61118188,
+            30417647
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 61118188,
+              "firstName": "Mattias",
+              "lastName": "Tedenby"
+            },
+            {
+              "playerId": 30417647,
+              "firstName": "Olli",
+              "lastName": "Korhonen"
+            }
+          ],
+          "plusPlayerIds": "21 64 91 15 43",
+          "minusPlayerIds": "25 89 21 78 23 11",
+          "homeTeamScore": 0,
+          "awayTeamScore": 2,
+          "assistsSoFarInSeason": {
+            "30417647": 6,
+            "61118188": 1
+          },
+          "goalsSoFarInSeason": 3,
+          "videoClipUrl": "https://videos.liiga.fi/videos/c12873db-e1b3-4e6c-8e9a-33417db360e2/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/c12873db-e1b3-4e6c-8e9a-33417db360e2/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/c12873db-e1b3-4e6c-8e9a-33417db360e2/thumbnail.jpeg"
+        },
+        {
+          "scorerPlayerId": 61073590,
+          "scorerPlayer": {
+            "playerId": 61073590,
+            "firstName": "Ethan",
+            "lastName": "De Jong"
+          },
+          "logTime": "2026-11-01T13:17:34Z",
+          "winningGoal": false,
+          "gameTime": 3466,
+          "period": 3,
+          "eventId": 202,
+          "goalTypes": [
+            "TM"
+          ],
+          "assistantPlayerIds": [
+            40130418,
+            61032982
+          ],
+          "assistantPlayers": [
+            {
+              "playerId": 40130418,
+              "firstName": "Roope",
+              "lastName": "Vesterinen"
+            },
+            {
+              "playerId": 61032982,
+              "firstName": "Garrett",
+              "lastName": "Pyke"
+            }
+          ],
+          "plusPlayerIds": "11 43 7 10 12",
+          "minusPlayerIds": "23 11 89 21 78 25",
+          "homeTeamScore": 0,
+          "awayTeamScore": 3,
+          "assistsSoFarInSeason": {
+            "40130418": 5,
+            "61032982": 4
+          },
+          "goalsSoFarInSeason": 4,
+          "videoClipUrl": "https://videos.liiga.fi/videos/9293a76f-d8cb-4956-aac1-919aac26e479/playlist.m3u8",
+          "videoClipPlaylistUrl": "https://videos.liiga.fi/videos/9293a76f-d8cb-4956-aac1-919aac26e479/playlist.m3u8",
+          "videoThumbnailUrl": "https://videos.liiga.fi/videos/9293a76f-d8cb-4956-aac1-919aac26e479/thumbnail.jpeg"
+        }
+      ],
+      "powerplayInstances": 2,
       "powerplayGoals": 0,
-      "shortHandedInstances": 0,
+      "shortHandedInstances": 3,
       "shortHandedGoals": 0,
+      "expectedGoals": 1.98,
       "ranking": 13,
       "gameStartDateTime": "2026-11-01T15:00:00+02:00",
       "logos": {
@@ -53744,7 +53877,7 @@
       {
         "index": 1,
         "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
+        "awayTeamGoals": 1,
         "category": "NORMAL",
         "startTime": 0,
         "endTime": 1200
@@ -53760,7 +53893,7 @@
       {
         "index": 3,
         "homeTeamGoals": 0,
-        "awayTeamGoals": 0,
+        "awayTeamGoals": 2,
         "category": "NORMAL",
         "startTime": 2400,
         "endTime": 3600
@@ -53782,18 +53915,19 @@
         "endTime": 3900
       }
     ],
-    "finishedType": "ACTIVE_OR_NOT_STARTED",
-    "started": false,
-    "ended": false,
-    "gameTime": 0,
+    "finishedType": "ENDED_DURING_REGULAR_GAME_TIME",
+    "started": true,
+    "ended": true,
+    "gameTime": 3600,
+    "spectators": 6787,
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/en/artist/tappara/",
     "gamblingEvent": {
-      "homeTeamOdds": 164,
-      "awayTeamOdds": 485,
-      "tieOdds": 430,
+      "homeTeamOdds": 3200,
+      "awayTeamOdds": 100,
+      "tieOdds": 565,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1156363"
     },
     "iceRink": {
@@ -53805,7 +53939,7 @@
       "zip": "33100",
       "city": "TAMPERE"
     },
-    "currentPeriod": 0,
+    "currentPeriod": 3,
     "stale": false,
     "serie": "RUNKOSARJA",
     "gameWeek": 9
