@@ -54038,6 +54038,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/hctps/",
+    "gamblingEvent": {
+      "homeTeamOdds": 197,
+      "awayTeamOdds": 345,
+      "tieOdds": 395,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1203893"
+    },
     "iceRink": {
       "id": 199,
       "name": "Turun Monitoimihalli Oy",
