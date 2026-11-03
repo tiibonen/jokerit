@@ -50608,14 +50608,14 @@
             "YV"
           ],
           "assistantPlayerIds": [
-            60962804,
+            23595916,
             22870292
           ],
           "assistantPlayers": [
             {
-              "playerId": 60962804,
-              "firstName": "Alexander",
-              "lastName": "True"
+              "playerId": 23595916,
+              "firstName": "Sami",
+              "lastName": "Vatanen"
             },
             {
               "playerId": 22870292,
@@ -50629,7 +50629,7 @@
           "awayTeamScore": 1,
           "assistsSoFarInSeason": {
             "22870292": 8,
-            "60962804": 12
+            "23595916": 6
           },
           "goalsSoFarInSeason": 7,
           "videoClipUrl": "https://videos.liiga.fi/videos/82a22a9c-6013-4ff4-8372-148ca5cb0992/playlist.m3u8",
@@ -50737,7 +50737,7 @@
           "homeTeamScore": 0,
           "awayTeamScore": 4,
           "assistsSoFarInSeason": {
-            "23595916": 6,
+            "23595916": 7,
             "33209030": 10
           },
           "goalsSoFarInSeason": 7,
@@ -50783,7 +50783,7 @@
           "awayTeamScore": 5,
           "assistsSoFarInSeason": {
             "22870292": 9,
-            "60962804": 13
+            "60962804": 12
           },
           "goalsSoFarInSeason": 9,
           "videoClipUrl": "https://videos.liiga.fi/videos/ebb8233e-cf6b-463a-871b-f2246e6f1290/playlist.m3u8",
@@ -52384,7 +52384,7 @@
           "homeTeamScore": 4,
           "awayTeamScore": 4,
           "assistsSoFarInSeason": {
-            "23595916": 7,
+            "23595916": 8,
             "61074188": 8
           },
           "goalsSoFarInSeason": 10,
@@ -52429,7 +52429,7 @@
           "awayTeamScore": 4,
           "assistsSoFarInSeason": {
             "30728763": 8,
-            "60962804": 14
+            "60962804": 13
           },
           "goalsSoFarInSeason": 9,
           "videoClipUrl": "https://videos.liiga.fi/videos/fc9ec69b-eb01-445d-8b32-0f06ed82550a/playlist.m3u8",
