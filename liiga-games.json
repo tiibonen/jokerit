@@ -54924,9 +54924,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-jokerit-lippuja/560845662",
     "gamblingEvent": {
-      "homeTeamOdds": 213,
+      "homeTeamOdds": 214,
       "awayTeamOdds": 298,
-      "tieOdds": 400,
+      "tieOdds": 405,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1209697"
     },
     "iceRink": {
