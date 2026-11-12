@@ -56802,6 +56802,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/114?position=16",
+    "gamblingEvent": {
+      "homeTeamOdds": 315,
+      "awayTeamOdds": 198,
+      "tieOdds": 430,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1220281"
+    },
     "iceRink": {
       "id": 74,
       "name": "Kouvolan jäähalli",
@@ -57018,6 +57024,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/hctps/",
+    "gamblingEvent": {
+      "homeTeamOdds": 222,
+      "awayTeamOdds": 285,
+      "tieOdds": 395,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1220284"
+    },
     "iceRink": {
       "id": 199,
       "name": "Turun Monitoimihalli Oy",
