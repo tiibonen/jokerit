@@ -56586,6 +56586,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://liveday.fi/stores/2vjYW5qER9OnYBi0Ds6U3bqeh2l",
+    "gamblingEvent": {
+      "homeTeamOdds": 272,
+      "awayTeamOdds": 254,
+      "tieOdds": 355,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1220278"
+    },
     "iceRink": {
       "id": 31,
       "name": "Hämeenlinnan jäähalli I",
@@ -56694,6 +56700,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/142?position=11",
+    "gamblingEvent": {
+      "homeTeamOdds": 260,
+      "awayTeamOdds": 250,
+      "tieOdds": 385,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1220277"
+    },
     "iceRink": {
       "id": 78,
       "name": "Kuopion jäähalli",
@@ -56803,9 +56815,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/114?position=16",
     "gamblingEvent": {
-      "homeTeamOdds": 315,
-      "awayTeamOdds": 198,
-      "tieOdds": 430,
+      "homeTeamOdds": 320,
+      "awayTeamOdds": 200,
+      "tieOdds": 435,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1220281"
     },
     "iceRink": {
@@ -56916,6 +56928,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://elippu.net/saipa/53:588?affiliate=ADV",
+    "gamblingEvent": {
+      "homeTeamOdds": 254,
+      "awayTeamOdds": 257,
+      "tieOdds": 385,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1220280"
+    },
     "iceRink": {
       "id": 89,
       "name": "Lappeenrannan jäähalli I",
@@ -57025,9 +57043,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/hctps/",
     "gamblingEvent": {
-      "homeTeamOdds": 222,
-      "awayTeamOdds": 285,
-      "tieOdds": 395,
+      "homeTeamOdds": 224,
+      "awayTeamOdds": 288,
+      "tieOdds": 400,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1220284"
     },
     "iceRink": {
@@ -57138,6 +57156,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/en/artist/tappara/",
+    "gamblingEvent": {
+      "homeTeamOdds": 190,
+      "awayTeamOdds": 360,
+      "tieOdds": 415,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1220282"
+    },
     "iceRink": {
       "id": 537,
       "name": "Tampereen Kansi Areena",
@@ -57246,6 +57270,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/pelicans/",
+    "gamblingEvent": {
+      "homeTeamOdds": 237,
+      "awayTeamOdds": 278,
+      "tieOdds": 365,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1220283"
+    },
     "iceRink": {
       "id": 85,
       "name": "Lahden jäähalli",
