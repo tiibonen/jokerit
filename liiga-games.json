@@ -59126,6 +59126,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-tappara-lippuja/665998317",
+    "gamblingEvent": {
+      "homeTeamOdds": 234,
+      "awayTeamOdds": 278,
+      "tieOdds": 390,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1224867"
+    },
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
@@ -59234,6 +59240,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
+    "gamblingEvent": {
+      "homeTeamOdds": 220,
+      "awayTeamOdds": 306,
+      "tieOdds": 375,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1224863"
+    },
     "iceRink": {
       "id": 205,
       "name": "Vaasan jäähalli I",
