@@ -1,24 +1,24 @@
 {
-  "updatedAt": "14.11.2026 17:30",
+  "updatedAt": "14.11.2026 22:22",
   "team": {
     "name": "Jokerit",
     "position": 16,
-    "games": 20,
+    "games": 21,
     "wins": 5,
-    "losses": 13,
+    "losses": 14,
     "ot": 2,
     "points": 17
   },
   "nextGame": {
-    "date": "14.11.2026",
-    "time": "17:00",
-    "home": "Ässät",
+    "date": "18.11.2026",
+    "time": "18:30",
+    "home": "Jukurit",
     "away": "Jokerit"
   },
   "lastGame": {
-    "date": "13.11.2026",
-    "home": "TPS",
+    "date": "14.11.2026",
+    "home": "Ässät",
     "away": "Jokerit",
-    "result": "4–3"
+    "result": "3–0"
   }
 }
