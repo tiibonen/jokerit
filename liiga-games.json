@@ -61056,6 +61056,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://jyp.tmtickets.fi/Events",
+    "gamblingEvent": {
+      "homeTeamOdds": 162,
+      "awayTeamOdds": 460,
+      "tieOdds": 460,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1241557"
+    },
     "iceRink": {
       "id": 39,
       "name": "Jyväskylän jäähalli",
@@ -61164,6 +61170,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/jukurit/",
+    "gamblingEvent": {
+      "homeTeamOdds": 230,
+      "awayTeamOdds": 285,
+      "tieOdds": 375,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1437353"
+    },
     "iceRink": {
       "id": 111,
       "name": "Mikkelin jäähalli",
