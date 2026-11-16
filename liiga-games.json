@@ -61284,6 +61284,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/137?position=12",
+    "gamblingEvent": {
+      "homeTeamOdds": 275,
+      "awayTeamOdds": 235,
+      "tieOdds": 375,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1437352"
+    },
     "iceRink": {
       "id": 78,
       "name": "Kuopion jäähalli",
@@ -61392,6 +61398,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kiekkoespoo.tmtickets.fi",
+    "gamblingEvent": {
+      "homeTeamOdds": 258,
+      "awayTeamOdds": 250,
+      "tieOdds": 375,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1246748"
+    },
     "iceRink": {
       "id": 190,
       "name": "Tapiolan monitoimiareena",
@@ -61500,6 +61512,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/hctps/",
+    "gamblingEvent": {
+      "homeTeamOdds": 215,
+      "awayTeamOdds": 303,
+      "tieOdds": 385,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1246746"
+    },
     "iceRink": {
       "id": 199,
       "name": "Turun Monitoimihalli Oy",
@@ -61608,6 +61626,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-pelicans-lippuja/908898814",
+    "gamblingEvent": {
+      "homeTeamOdds": 194,
+      "awayTeamOdds": 355,
+      "tieOdds": 390,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1246745"
+    },
     "iceRink": {
       "id": 153,
       "name": "Porin jäähalli I",
