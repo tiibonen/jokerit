@@ -61057,9 +61057,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://jyp.tmtickets.fi/Events",
     "gamblingEvent": {
-      "homeTeamOdds": 162,
-      "awayTeamOdds": 460,
-      "tieOdds": 460,
+      "homeTeamOdds": 160,
+      "awayTeamOdds": 475,
+      "tieOdds": 465,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1241557"
     },
     "iceRink": {
@@ -61171,8 +61171,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/jukurit/",
     "gamblingEvent": {
-      "homeTeamOdds": 230,
-      "awayTeamOdds": 285,
+      "homeTeamOdds": 227,
+      "awayTeamOdds": 290,
       "tieOdds": 375,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1437353"
     },
@@ -61513,8 +61513,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/hctps/",
     "gamblingEvent": {
-      "homeTeamOdds": 215,
-      "awayTeamOdds": 303,
+      "homeTeamOdds": 214,
+      "awayTeamOdds": 307,
       "tieOdds": 385,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1246746"
     },
@@ -61627,8 +61627,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-pelicans-lippuja/908898814",
     "gamblingEvent": {
-      "homeTeamOdds": 194,
-      "awayTeamOdds": 355,
+      "homeTeamOdds": 192,
+      "awayTeamOdds": 360,
       "tieOdds": 390,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1246745"
     },
