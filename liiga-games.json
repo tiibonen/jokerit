@@ -62186,7 +62186,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/137?position=12",
+    "buyTicketsUrl": "https://kalpa.tmtickets.fi",
     "gamblingEvent": {
       "homeTeamOdds": 4800,
       "awayTeamOdds": 101,
@@ -63495,7 +63495,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-pelicans-lippuja/908898814",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/assat",
     "gamblingEvent": {
       "homeTeamOdds": 4800,
       "awayTeamOdds": 100,
