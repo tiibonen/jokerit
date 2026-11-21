@@ -65714,7 +65714,7 @@
       "powerplayGoals": 0,
       "shortHandedInstances": 4,
       "shortHandedGoals": 0,
-      "expectedGoals": 3.24,
+      "expectedGoals": 3.07,
       "ranking": 8,
       "gameStartDateTime": "2026-11-20T18:30:00+02:00",
       "logos": {
@@ -66338,9 +66338,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kiekkoespoo.tmtickets.fi",
     "gamblingEvent": {
-      "homeTeamOdds": 218,
-      "awayTeamOdds": 300,
-      "tieOdds": 385,
+      "homeTeamOdds": 220,
+      "awayTeamOdds": 302,
+      "tieOdds": 390,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1262722"
     },
     "iceRink": {
@@ -66451,6 +66451,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
+    "gamblingEvent": {
+      "homeTeamOdds": 213,
+      "awayTeamOdds": 315,
+      "tieOdds": 390,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1262733"
+    },
     "iceRink": {
       "id": 205,
       "name": "Vaasan jäähalli I",
@@ -66559,6 +66565,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/artist/jukurit/",
+    "gamblingEvent": {
+      "homeTeamOdds": 213,
+      "awayTeamOdds": 323,
+      "tieOdds": 375,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1262727"
+    },
     "iceRink": {
       "id": 111,
       "name": "Mikkelin jäähalli",
@@ -66667,6 +66679,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/150?position=13",
+    "gamblingEvent": {
+      "homeTeamOdds": 220,
+      "awayTeamOdds": 300,
+      "tieOdds": 395,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1262731"
+    },
     "iceRink": {
       "id": 78,
       "name": "Kuopion jäähalli",
@@ -66775,6 +66793,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-jokerit-lippuja/1359116279",
+    "gamblingEvent": {
+      "homeTeamOdds": 192,
+      "awayTeamOdds": 350,
+      "tieOdds": 415,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1262734"
+    },
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
@@ -66883,6 +66907,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/74?position=13",
+    "gamblingEvent": {
+      "homeTeamOdds": 158,
+      "awayTeamOdds": 535,
+      "tieOdds": 440,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1262732"
+    },
     "iceRink": {
       "id": 166,
       "name": "Rauman jäähalli / Äijänsuo Areena",
