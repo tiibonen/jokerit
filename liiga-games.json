@@ -67415,7 +67415,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/150?position=13",
+    "buyTicketsUrl": "https://kalpa.tmtickets.fi",
     "gamblingEvent": {
       "homeTeamOdds": 2700,
       "awayTeamOdds": 121,
@@ -67865,7 +67865,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-jokerit-lippuja/1359116279",
+    "buyTicketsUrl": "https://www.ticketmaster.fi/artist/karpat-lippuja/96763",
     "gamblingEvent": {
       "homeTeamOdds": 3900,
       "awayTeamOdds": 106,
@@ -68284,7 +68284,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/74?position=13",
+    "buyTicketsUrl": "https://lukko.tmtickets.fi/",
     "gamblingEvent": {
       "homeTeamOdds": 112,
       "awayTeamOdds": 3700,
@@ -68513,6 +68513,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://elippu.net/saipa/53:590?affiliate=ADV",
+    "gamblingEvent": {
+      "homeTeamOdds": 232,
+      "awayTeamOdds": 272,
+      "tieOdds": 395,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1278297"
+    },
     "iceRink": {
       "id": 89,
       "name": "Lappeenrannan jäähalli I",
