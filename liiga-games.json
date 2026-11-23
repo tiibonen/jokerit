@@ -68741,6 +68741,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-tps-lippuja/736847369",
+    "gamblingEvent": {
+      "homeTeamOdds": 215,
+      "awayTeamOdds": 300,
+      "tieOdds": 390,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1284475"
+    },
     "iceRink": {
       "id": 21,
       "name": "Helsingin jäähalli I",
@@ -68849,6 +68855,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/artist/jokerit-lippuja/973335",
+    "gamblingEvent": {
+      "homeTeamOdds": 182,
+      "awayTeamOdds": 365,
+      "tieOdds": 435,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1284474"
+    },
     "iceRink": {
       "id": 17,
       "name": "Helsinki Areena",
@@ -68957,6 +68969,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-pelicans-lippuja/599586506",
+    "gamblingEvent": {
+      "homeTeamOdds": 194,
+      "awayTeamOdds": 345,
+      "tieOdds": 400,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1284476"
+    },
     "iceRink": {
       "id": 131,
       "name": "Oulun jäähalli",
