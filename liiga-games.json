@@ -69472,9 +69472,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-tps-lippuja/736847369",
     "gamblingEvent": {
-      "homeTeamOdds": 215,
-      "awayTeamOdds": 300,
-      "tieOdds": 390,
+      "homeTeamOdds": 210,
+      "awayTeamOdds": 315,
+      "tieOdds": 400,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1284475"
     },
     "iceRink": {
@@ -69586,8 +69586,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/artist/jokerit-lippuja/973335",
     "gamblingEvent": {
-      "homeTeamOdds": 178,
-      "awayTeamOdds": 380,
+      "homeTeamOdds": 181,
+      "awayTeamOdds": 375,
       "tieOdds": 440,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1284474"
     },
@@ -69700,9 +69700,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/karpat-pelicans-lippuja/599586506",
     "gamblingEvent": {
-      "homeTeamOdds": 197,
-      "awayTeamOdds": 340,
-      "tieOdds": 400,
+      "homeTeamOdds": 195,
+      "awayTeamOdds": 350,
+      "tieOdds": 405,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1284476"
     },
     "iceRink": {
@@ -69814,9 +69814,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/en/artist/tappara/",
     "gamblingEvent": {
-      "homeTeamOdds": 176,
-      "awayTeamOdds": 420,
-      "tieOdds": 400,
+      "homeTeamOdds": 178,
+      "awayTeamOdds": 425,
+      "tieOdds": 405,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1284477"
     },
     "iceRink": {
