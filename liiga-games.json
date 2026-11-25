@@ -69074,7 +69074,7 @@
     "playOffPair": 0,
     "playOffPhase": 0,
     "playOffReqWins": 0,
-    "buyTicketsUrl": "https://elippu.net/saipa/53:590?affiliate=ADV",
+    "buyTicketsUrl": "https://elippu.net/saipa",
     "gamblingEvent": {
       "homeTeamOdds": 100,
       "awayTeamOdds": 4800,
@@ -69586,8 +69586,8 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/artist/jokerit-lippuja/973335",
     "gamblingEvent": {
-      "homeTeamOdds": 180,
-      "awayTeamOdds": 375,
+      "homeTeamOdds": 178,
+      "awayTeamOdds": 380,
       "tieOdds": 440,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1284474"
     },
@@ -69814,9 +69814,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/en/artist/tappara/",
     "gamblingEvent": {
-      "homeTeamOdds": 180,
-      "awayTeamOdds": 415,
-      "tieOdds": 395,
+      "homeTeamOdds": 176,
+      "awayTeamOdds": 420,
+      "tieOdds": 400,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1284477"
     },
     "iceRink": {
@@ -69927,6 +69927,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
+    "gamblingEvent": {
+      "homeTeamOdds": 405,
+      "awayTeamOdds": 176,
+      "tieOdds": 420,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1289284"
+    },
     "iceRink": {
       "id": 205,
       "name": "Vaasan jäähalli I",
@@ -70143,6 +70149,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kalpa.tmtickets.fi/EDP/Event/Index/154?position=14",
+    "gamblingEvent": {
+      "homeTeamOdds": 265,
+      "awayTeamOdds": 235,
+      "tieOdds": 400,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1294887"
+    },
     "iceRink": {
       "id": 78,
       "name": "Kuopion jäähalli",
