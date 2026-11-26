@@ -70813,9 +70813,9 @@
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
     "gamblingEvent": {
-      "homeTeamOdds": 410,
-      "awayTeamOdds": 175,
-      "tieOdds": 420,
+      "homeTeamOdds": 415,
+      "awayTeamOdds": 176,
+      "tieOdds": 425,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1289284"
     },
     "iceRink": {
@@ -72012,6 +72012,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/assat-karpat-lippuja/1418592225",
+    "gamblingEvent": {
+      "homeTeamOdds": 242,
+      "awayTeamOdds": 264,
+      "tieOdds": 385,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1299699"
+    },
     "iceRink": {
       "id": 153,
       "name": "Porin jäähalli I",
