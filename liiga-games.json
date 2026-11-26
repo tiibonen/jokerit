@@ -70814,8 +70814,8 @@
     "buyTicketsUrl": "https://vaasansport.tmtickets.fi",
     "gamblingEvent": {
       "homeTeamOdds": 415,
-      "awayTeamOdds": 176,
-      "tieOdds": 425,
+      "awayTeamOdds": 174,
+      "tieOdds": 435,
       "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1289284"
     },
     "iceRink": {
@@ -70926,6 +70926,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://lukko.tmtickets.fi/EDP/Event/Index/75?position=14",
+    "gamblingEvent": {
+      "homeTeamOdds": 194,
+      "awayTeamOdds": 360,
+      "tieOdds": 385,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1294890"
+    },
     "iceRink": {
       "id": 166,
       "name": "Rauman jäähalli / Äijänsuo Areena",
@@ -71148,6 +71154,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://kookoo.tmtickets.fi/EDP/Event/Index/121?position=18",
+    "gamblingEvent": {
+      "homeTeamOdds": 242,
+      "awayTeamOdds": 265,
+      "tieOdds": 380,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1294889"
+    },
     "iceRink": {
       "id": 74,
       "name": "Kouvolan jäähalli",
@@ -71256,6 +71268,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.lippu.fi/en/artist/tappara/",
+    "gamblingEvent": {
+      "homeTeamOdds": 197,
+      "awayTeamOdds": 340,
+      "tieOdds": 395,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1294891"
+    },
     "iceRink": {
       "id": 537,
       "name": "Tampereen Kansi Areena",
@@ -71364,6 +71382,12 @@
     "playOffPhase": 0,
     "playOffReqWins": 0,
     "buyTicketsUrl": "https://www.ticketmaster.fi/event/hifk-saipa-lippuja/1999699926",
+    "gamblingEvent": {
+      "homeTeamOdds": 248,
+      "awayTeamOdds": 254,
+      "tieOdds": 390,
+      "url": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-1-1&kohde=1-c_1294888"
+    },
     "iceRink": {
       "id": 21,
       "name": "Helsingin jäähalli I",
